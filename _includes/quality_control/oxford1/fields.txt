@@ -1,0 +1,13 @@
+nombre d'articles |624785
+doi |625448
+nombre de champs journal-title |632267
+nombre de champs abbrev-journal-title abbrev-type=full |615
+nombre de article titles |653169
+abstract |306105
+eissn |617402
+pissn |624906
+publisher |682017
+keywords groups |244767
+contrib groups |612199
+auteurs |2273679
+nombre d'affiliations |1109401

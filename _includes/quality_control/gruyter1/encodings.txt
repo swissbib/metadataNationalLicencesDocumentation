@@ -1,0 +1,7 @@
+|     3|ISO-8859-1|
+|     4|ISO-8859-l|
+|     1|utf -8|
+|     2|utf-8|
+|485621|UTF-8|
+|     1|UTF-BH?&gt; * . &amp;lt;?xml-stylesheet type=:|
+|     1|w3cd |

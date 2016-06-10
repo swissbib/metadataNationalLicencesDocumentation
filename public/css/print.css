@@ -1,0 +1,33 @@
+.content { 
+	padding-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+p {
+	text-align: justify;
+}
+
+.sidebar {
+	display: none; 
+	width: 0;
+}
+
+/*
+p ~ h2, table ~ h2, div.highlight ~ h3 { 
+	page-break-before: always;
+}
+
+img[title=istex_diagram] {
+	page-break-before: always;
+}*/
+
+hr {
+	page-break-after: always;
+}
+
+p, ul {
+	orphans: 4;
+	widows: 4;
+}
+

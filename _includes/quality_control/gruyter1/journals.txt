@@ -1,0 +1,818 @@
+|     1|Archiv der Religionsgeschichte (2000)|
+|     1|Archiv der Religionsgeschichte (2001)|
+|     1|Archiv der Religionsgeschichte (2003)|
+|     1|Frontiers in Economic Analysis &amp; Policy|
+|     1|Frühmittelalterliche Studien (1978)|
+|     1|Jurisische Rundschau|
+|     1|Jurisitsche Rundschau|
+|     1|Jursitische Rundschau|
+|     1|Zeitschriften für die gesamte Strafrechtswissenschaft|
+|     1|Zeitschrift f&amp;#x00FC;r Unternehmens- und Gesellschaftsrecht|
+|     1|Zeitschrift für antikes Christentum/Journal of Ancient Christianity|
+|     2|Frontiers in Macroeconomics|
+|     2|Journal for the History of Modern Theology/Zeitschrift für Neuere Theologiegeschichte|
+|     2|Statistics, Politics and Policy|
+|     3|Militärgeschichtliche Zeitschrift (MGZ)|
+|     5|Militärgeschichtliche Zeitschrift|
+|     6|Jahrbuch der Raabe-Gesellschaft (1961)|
+|     6|Jahrbuch der Raabe-Gesellschaft (1972)|
+|     6|Journal des Économistes et des Études Humaines|
+|     6|Preservation, Digital Technology &amp; Culture|
+|     6|Theoretical Inquiries in Law Forum|
+|     7|Antike und Abendland (1959)|
+|     7|Englisch American Studies (1969)|
+|     7|Englisch American Studies (1970)|
+|     7|Englisch American Studies (1972)|
+|     7|Englisch American Studies (1974)|
+|     7|Indogermanische Forschungen (1934)|
+|     7|Journal for Manufacturing Science &amp; Production|
+|     7|The Law &amp; Ethics of Human Rights|
+|     8|Antike und Abendland (1960)|
+|     8|Englisch American Studies (1971)|
+|     8|Englisch American Studies (1976)|
+|     8|Englisch American Studies (1978)|
+|     8|Englisch American Studies (1979)|
+|     8|Englisch American Studies (1980)|
+|     8|Englisch American Studies (1982)|
+|     8|English and American Studies|
+|     8|Green|
+|     8|Jahrbuch der Raabe-Gesellschaft (1969)|
+|     8|Jahrbuch der Raabe-Gesellschaft (1970)|
+|     8|Journal of Econometric Methods|
+|     8|Libri. International Journal of Libraries and Information Services|
+|     8|Romanistisches Jahrbuch (1948)|
+|     8|Romanistisches Jahrbuch (1950)|
+|     9|Antike und Abendland (1970)|
+|     9|Englisch American Studies (1973)|
+|     9|Englisch American Studies (1975)|
+|     9|Englisch American Studies (1977)|
+|     9|Englisch American Studies (1981)|
+|     9|Indogermanische Forschungen (1966)|
+|     9|Innovative Neurosurgery|
+|     9|Jahrbuch der Raabe-Gesellschaft (1960)|
+|     9|Jahrbuch der Raabe-Gesellschaft (1964)|
+|     9|Jahrbuch der Raabe-Gesellschaft (1966)|
+|     9|Jahrbuch der Raabe-Gesellschaft (1971)|
+|     9|Jahrbuch der Raabe-Gesellschaft (1975)|
+|     9|Jahrbuch der Raabe-Gesellschaft (1995)|
+|     9|Journal of Politeness Research|
+|    10|Antike und Abendland (1956)|
+|    10|Antike und Abendland (1961)|
+|    10|Antike und Abendland (2004)|
+|    10|Antike und Abendland (2006)|
+|    10|Deutsche Zeitschrift für Wirtschaft- und Insolvenzrecht|
+|    10|Englisch American Studies (1983)|
+|    10|Englisch American Studies (1992)|
+|    10|Indogermanische Forschungen (1932)|
+|    10|Indogermanische Forschungen (1965)|
+|    10|Indogermanische Forschungen (1996)|
+|    10|Jahrbuch der Raabe-Gesellschaft (1963)|
+|    10|Jahrbuch der Raabe-Gesellschaft (1967)|
+|    10|Jahrbuch der Raabe-Gesellschaft (1968)|
+|    10|Jahrbuch der Raabe-Gesellschaft (1974)|
+|    10|Jahrbuch der Raabe-Gesellschaft (1976)|
+|    10|Jahrbuch der Raabe-Gesellschaft (1978)|
+|    10|Jahrbuch der Raabe-Gesellschaft (1979)|
+|    10|Jahrbuch der Raabe-Gesellschaft (1980)|
+|    10|Jahrbuch der Raabe-Gesellschaft (1990)|
+|    10|Jahrbuch der Raabe-Gesellschaft (1993)|
+|    10|Nietzsche Studien Gesamtregister Bände 1-20 (1972-1991)|
+|    10|Zeitschrift für die neutestamentliche Wissenschaft|
+|    11|Antike und Abendland (1958)|
+|    11|Antike und Abendland (1967)|
+|    11|Antike und Abendland (1975)|
+|    11|Antike und Abendland (1981)|
+|    11|Antike und Abendland (1982)|
+|    11|Antike und Abendland (2003)|
+|    11|Antike und Abendland (2005)|
+|    11|Englisch American Studies (1984)|
+|    11|Englisch American Studies (1985)|
+|    11|Englisch American Studies (1986)|
+|    11|Englisch American Studies (1987)|
+|    11|Englisch American Studies (1989)|
+|    11|Englisch American Studies (1990)|
+|    11|Englisch American Studies (1991)|
+|    11|Englisch American Studies (1993)|
+|    11|Englisch American Studies (1994)|
+|    11|Englisch American Studies (1997)|
+|    11|Englisch American Studies (1998)|
+|    11|Forum for Health Economics and Policy|
+|    11|Jahrbuch der Raabe-Gesellschaft (1977)|
+|    11|Jahrbuch der Raabe-Gesellschaft (1983)|
+|    11|Jahrbuch der Raabe-Gesellschaft (1986)|
+|    11|Jahrbuch der Raabe-Gesellschaft (1989)|
+|    11|Jahrbuch der Raabe-Gesellschaft (1994)|
+|    11|Jahrbuch der Raabe-Gesellschaft (1996)|
+|    11|Jahrbuch der Raabe-Gesellschaft (1997)|
+|    11|Jahrbuch der Raabe-Gesellschaft (1998)|
+|    11|Jahrbuch der Raabe-Gesellschaft (1999)|
+|    11|Kant Yearbook 2011: Anthropology|
+|    11|Language Learning in Higher Education - Journal of the European Confederation of Language Centres in Higher Education (CercleS)|
+|    11|Probus|
+|    11|Rhetorik (1983)|
+|    12|2007|
+|    12|Antike und Abendland (1957)|
+|    12|Antike und Abendland (1999)|
+|    12|Antike und Abendland (2009)|
+|    12|Englisch American Studies (1995)|
+|    12|Englisch American Studies (1996)|
+|    12|Englisch American Studies (1999)|
+|    12|Jahrbuch der Raabe-Gesellschaft (1991)|
+|    12|Jahrbuch der Raabe-Gesellschaft (1992)|
+|    12|Journal of Ancient Near Eastern History|
+|    12|Journal of Literary Semantics|
+|    12|Rhetorik (1981)|
+|    12|Rhetorik Jahrbuch (2009)|
+|    13|Antike und Abendland (1944)|
+|    13|Antike und Abendland (1946)|
+|    13|Antike und Abendland (1971)|
+|    13|Antike und Abendland (1974)|
+|    13|Antike und Abendland (1980)|
+|    13|Antike und Abendland (1986)|
+|    13|Antike und Abendland (1989)|
+|    13|Antike und Abendland (2001)|
+|    13|Frühmittelalterliche Studien (2001)|
+|    13|Indogermanische Forschungen (1975)|
+|    13|Indogermanische Forschungen (1990)|
+|    13|Jahrbuch der Raabe-Gesellschaft (1965)|
+|    13|Jahrbuch der Raabe-Gesellschaft (1988)|
+|    13|Lexicographica (1990)|
+|    13|Millennium – Jahrbuch (2007)|
+|    13|Rhetorik (1980)|
+|    13|Rhetorik (2000)|
+|    13|Romanistisches Jahrbuch (1952)|
+|    13|Zeitschrift für Angewandte Linguistik|
+|    14|Antike und Abendland (1979)|
+|    14|Antike und Abendland (1983)|
+|    14|Antike und Abendland (1984)|
+|    14|Antike und Abendland (1998)|
+|    14|Indogermanische Forschungen (1969)|
+|    14|Jahrbuch der Raabe-Gesellschaft (1981)|
+|    14|Jahrbuch der Raabe-Gesellschaft (1982)|
+|    14|Jahrbuch der Raabe-Gesellschaft (1985)|
+|    14|Journal of African Languages and Linguistics|
+|    14|Journal of Early Modern Christianity|
+|    14|Journal of Latin Linguistics|
+|    14|Journal of South Asian Languages and Linguistics|
+|    14|Millennium – Jahrbuch (2005)|
+|    14|Multimodal Communication|
+|    14|Nietzsche Studien (1974)|
+|    14|Pteridines|
+|    14|Rhetorik (1986)|
+|    14|Rhetorik (1989)|
+|    14|Rhetorik (1992)|
+|    14|Rhetorik (1997)|
+|    14|Rhetorik Jahrbuch (2003)|
+|    14|Rhetorik Jahrbuch (2006)|
+|    14|Rhizomata|
+|    15|Advances in Calculus of Variations|
+|    15|Antike und Abendland (1966)|
+|    15|Antike und Abendland (1968)|
+|    15|Antike und Abendland (1969)|
+|    15|Antike und Abendland (1976)|
+|    15|Antike und Abendland (1978)|
+|    15|Antike und Abendland (1985)|
+|    15|Antike und Abendland (1987)|
+|    15|Antike und Abendland (1991)|
+|    15|Antike und Abendland (1994)|
+|    15|Antike und Abendland (1995)|
+|    15|Antike und Abendland (1996)|
+|    15|Antike und Abendland (2000)|
+|    15|Antike und Abendland (2002)|
+|    15|Corpus Linguistics and Linguistic Theory|
+|    15|Frühmittelalterliche Studien (2003)|
+|    15|Groups Complexity Cryptology|
+|    15|Jahrbuch der Raabe-Gesellschaft (1984)|
+|    15|Jahrbuch der Raabe-Gesellschaft (1987)|
+|    15|Journal of Causal Inference|
+|    15|Lexicographica (1994)|
+|    15|Millennium – Jahrbuch (2004)|
+|    15|Rhetorik (1985)|
+|    15|Rhetorik (1988)|
+|    15|Rhetorik (1990)|
+|    15|Rhetorik (1998)|
+|    15|Rhetorik Jahrbuch (2005)|
+|    15|Rhetorik und Film|
+|    15|Romanistisches Jahrbuch (2003)|
+|    15|Wittgenstein-Studien (2011)|
+|    16|Antike und Abendland (1948)|
+|    16|Antike und Abendland (1977)|
+|    16|Antike und Abendland (1992)|
+|    16|Communications|
+|    16|Dialectologia et Geolinguistica|
+|    16|Editio (2007)|
+|    16|Frühmittelalterliche Studien (1967)|
+|    16|Frühmittelalterliche Studien (2000)|
+|    16|Indogermanische Forschungen (1916)|
+|    16|Indogermanische Forschungen (2005)|
+|    16|Jahrbuch der Raabe-Gesellschaft (2004)|
+|    16|Journal of Biosecurity, Biosafety, and Biodefense Law|
+|    16|Lexicographica (1987)|
+|    16|Lexicographica (1989)|
+|    16|Lexicographica (1995)|
+|    16|Lexicographica (1997)|
+|    16|Lexicographica (2001)|
+|    16|Millennium-Jahrbuch|
+|    16|Millennium – Jahrbuch (2006)|
+|    16|Nietzsche Studien (1978)|
+|    16|Rhetorik (1991)|
+|    16|Rhetorik (1994)|
+|    16|Rhetorik (1995)|
+|    16|Rhetorik (1999)|
+|    16|Rhetorik Jahrbuch (2001)|
+|    16|Rhetorik Jahrbuch (2002)|
+|    16|Rhetorik Jahrbuch (2004)|
+|    16|Romanistisches Jahrbuch (1998)|
+|    16|Romanistisches Jahrbuch (2004)|
+|    16|Yearbook of the German Cognitive Linguistics Association|
+|    16|Zeitschrift für kritische Sozialtheorie und Philosophie|
+|    17|Antike und Abendland (1954)|
+|    17|Antike und Abendland (1997)|
+|    17|Frühmittelalterliche Studien (1976)|
+|    17|Frühmittelalterliche Studien (1981)|
+|    17|Indogermanische Forschungen (1906)|
+|    17|Indogermanische Forschungen (1974)|
+|    17|Jahrbuch der Raabe-Gesellschaft (1973)|
+|    17|Language Typology and Universals|
+|    17|Lexicographica (1991)|
+|    17|Lexicographica (1996)|
+|    17|Nietzsche Studien (1976)|
+|    17|Rhetorik (1987)|
+|    17|Rhetorik (1993)|
+|    17|Rhetorik (1996)|
+|    17|Romanistisches Jahrbuch (1999)|
+|    17|Romanistisches Jahrbuch (2005)|
+|    18|Antike und Abendland (1990)|
+|    18|Antike und Abendland (1993)|
+|    18|Bibliothek, Forschung und Praxis|
+|    18|Chinese as a Second Language Research|
+|    18|Chinese Journal of Applied Linguistics|
+|    18|Frühmittelalterliche Studien (1988)|
+|    18|Frühmittelalterliche Studien (1994)|
+|    18|Frühmittelalterliche Studien (1997)|
+|    18|Frühmittelalterliche Studien (1999)|
+|    18|Indogermanische Forschungen (1923)|
+|    18|Indogermanische Forschungen (1973)|
+|    18|Indogermanische Forschungen (1977)|
+|    18|Indogermanische Forschungen (1978)|
+|    18|Indogermanische Forschungen (1987)|
+|    18|Indogermanische Forschungen (1991)|
+|    18|Indogermanische Forschungen (1992)|
+|    18|Indogermanische Forschungen (1999)|
+|    18|Internationales Jahrbuch der Erwachsenenbildung|
+|    18|Journal of Ancient History|
+|    18|Journal of Drug Policy Analysis|
+|    18|Kierkegaard Studies Yearbook (1999)|
+|    18|Law and Development Review|
+|    18|Lexicographica (1993)|
+|    18|Lexicographica (1999)|
+|    18|Lexicographica (2000)|
+|    18|Microform &amp; Digitization Review|
+|    18|Naharaim|
+|    18|Nietzsche-Studien (2002)|
+|    18|Romanistisches Jahrbuch (1985)|
+|    19|Editio (1988)|
+|    19|Editio (1992)|
+|    19|Frühmittelalterliche Studien (1971)|
+|    19|Frühmittelalterliche Studien (1972)|
+|    19|Frühmittelalterliche Studien (1974)|
+|    19|Indogermanische Forschungen (1964)|
+|    19|Indogermanische Forschungen (2006)|
+|    19|Indogermanische Forschungen (2007)|
+|    19|Lexicographica (1988)|
+|    19|Lexicographica (1992)|
+|    19|Nietzsche Studien (1973)|
+|    19|Nietzsche Studien (1975)|
+|    19|Nietzsche Studien (1977)|
+|    19|Romanistisches Jahrbuch (1987)|
+|    19|SATS|
+|    20|Advances in Macroeconomics|
+|    20|Editio (1990)|
+|    20|Editio (1994)|
+|    20|Editio (1995)|
+|    20|Epidemiologic Methods|
+|    20|Frühmittelalterliche Studien (1970)|
+|    20|Frühmittelalterliche Studien (1977)|
+|    20|Frühmittelalterliche Studien (1980)|
+|    20|Frühmittelalterliche Studien (1995)|
+|    20|Frühmittelalterliche Studien (2006)|
+|    20|Indogermanische Forschungen (1944)|
+|    20|Indogermanische Forschungen (1967)|
+|    20|Indogermanische Forschungen (1988)|
+|    20|Indogermanische Forschungen (2003)|
+|    20|International Review of Applied Linguistics in Language Teaching|
+|    20|Journal of Applied Analysis|
+|    20|Lexicographica (1985)|
+|    20|Nietzsche-Studien (2007)|
+|    20|Romanistisches Jahrbuch (1969)|
+|    20|Romanistisches Jahrbuch (1977)|
+|    20|Romanistisches Jahrbuch (1991)|
+|    20|Romanistisches Jahrbuch (1992)|
+|    20|Romanistisches Jahrbuch (1994)|
+|    20|Romanistisches Jahrbuch (2002)|
+|    20|The Linguistic Review|
+|    21|Accounting, Economics and Law|
+|    21|Asiatische Studien – Études Asiatiques|
+|    21|Editio (1989)|
+|    21|Editio (1991)|
+|    21|Frühmittelalterliche Studien (1975)|
+|    21|Frühmittelalterliche Studien (1979)|
+|    21|Frühmittelalterliche Studien (1982)|
+|    21|Frühmittelalterliche Studien (1990)|
+|    21|Frühmittelalterliche Studien (1992)|
+|    21|Frühmittelalterliche Studien (1998)|
+|    21|Indogermanische Forschungen (1962)|
+|    21|Indogermanische Forschungen (1968)|
+|    21|Indogermanische Forschungen (1981)|
+|    21|Indogermanische Forschungen (1984)|
+|    21|Indogermanische Forschungen (1998)|
+|    21|Jahrbuch der Raabe-Gesellschaft (2005)|
+|    21|Jahrbuch der Raabe-Gesellschaft (2006)|
+|    21|Journal of the Bible and its Reception|
+|    21|Kierkegaard Studies Yearbook (2006)|
+|    21|Lexicographica (1986)|
+|    21|Man and the Economy|
+|    21|Nietzsche Studien (1983)|
+|    21|Nietzsche Studien (1993)|
+|    21|Nietzsche Studien (1994)|
+|    21|Romanistisches Jahrbuch (1975)|
+|    21|Romanistisches Jahrbuch (1976)|
+|    21|Romanistisches Jahrbuch (1978)|
+|    21|Romanistisches Jahrbuch (1988)|
+|    21|Romanistisches Jahrbuch (1990)|
+|    21|Romanistisches Jahrbuch (1993)|
+|    22|Editio (1997)|
+|    22|Forum Mathematicum|
+|    22|Frühmittelalterliche Studien (1986)|
+|    22|Frühmittelalterliche Studien (1996)|
+|    22|Indogermanische Forschungen (1961)|
+|    22|Indogermanische Forschungen (1971)|
+|    22|Indogermanische Forschungen (1983)|
+|    22|Indogermanische Forschungen (1997)|
+|    22|Indogermanische Forschungen (2000)|
+|    22|Jahrbuch der Raabe-Gesellschaft (1962)|
+|    22|Jahrbuch der Raabe-Gesellschaft (2000)|
+|    22|Jahrbuch der Raabe-Gesellschaft (2003)|
+|    22|Kierkegaard Studies Yearbook (1997)|
+|    22|Klio - Beiträge zur Alten Geschichte|
+|    22|Nietzsche Studien (1979)|
+|    22|Nietzsche Studien (1982)|
+|    22|Romanistisches Jahrbuch (1959)|
+|    22|Romanistisches Jahrbuch (1960)|
+|    22|Romanistisches Jahrbuch (1963)|
+|    22|Romanistisches Jahrbuch (1964)|
+|    22|Romanistisches Jahrbuch (1966)|
+|    22|Romanistisches Jahrbuch (1970)|
+|    22|Romanistisches Jahrbuch (1972)|
+|    22|Romanistisches Jahrbuch (1973)|
+|    22|Romanistisches Jahrbuch (1974)|
+|    22|Romanistisches Jahrbuch (1982)|
+|    22|Romanistisches Jahrbuch (1986)|
+|    22|Romanistisches Jahrbuch (1989)|
+|    23|Editio (2001)|
+|    23|Frühmittelalterliche Studien (1993)|
+|    23|Frühmittelalterliche Studien (2004)|
+|    23|Frühmittelalterliche Studien (2005)|
+|    23|Indogermanische Forschungen (1942)|
+|    23|Indogermanische Forschungen (1960)|
+|    23|Indogermanische Forschungen (1980)|
+|    23|Indogermanische Forschungen (1993)|
+|    23|Indogermanische Forschungen (1994)|
+|    23|Jahrbuch der Raabe-Gesellschaft (2002)|
+|    23|Journal der Juristischen Zeitgeschichte|
+|    23|Journal of Non-Equilibrium Thermodynamics|
+|    23|Kierkegaard Studies Yearbook (2003)|
+|    23|Nietzsche Studien (1985)|
+|    23|Nietzsche Studien (1991)|
+|    23|Nietzsche Studien (1992)|
+|    23|Nietzsche Studien (1999)|
+|    23|Nietzsche Studien (2000)|
+|    23|Nietzsche-Studien (2003)|
+|    23|Romanistisches Jahrbuch (1968)|
+|    23|Romanistisches Jahrbuch (1979)|
+|    23|Romanistisches Jahrbuch (1981)|
+|    23|Romanistisches Jahrbuch (1983)|
+|    23|Yearbook for European Jewish Literature Studies|
+|    24|Advances in Pure and Applied Mathematics|
+|    24|Antike und Abendland (1973)|
+|    24|Editio (1999)|
+|    24|European Journal of Applied Linguistics|
+|    24|Frühmittelalterliche Studien (1983)|
+|    24|Frühmittelalterliche Studien (1989)|
+|    24|Frühmittelalterliche Studien (1991)|
+|    24|Indogermanische Forschungen (1915)|
+|    24|Indogermanische Forschungen (1959)|
+|    24|Indogermanische Forschungen (1963)|
+|    24|Indogermanische Forschungen (1986)|
+|    24|Indogermanische Forschungen (1995)|
+|    24|Jahrbuch der Raabe-Gesellschaft (2001)|
+|    24|Lexicographica (2004)|
+|    24|Neue Zeitschrift für Systematische Theologie und Religionsphilosophie|
+|    24|Neue Zeitschrift für Systematische Theologie und Religionsphilosphie|
+|    24|Nietzsche Studien (1987)|
+|    24|Nietzsche Studien (1995)|
+|    24|Romanistisches Jahrbuch (1971)|
+|    24|Statistical Communications in Infectious Diseases|
+|    25|Acta Geologica Polonica|
+|    25|Editio (1996)|
+|    25|Frühmittelalterliche Studien (1969)|
+|    25|Frühmittelalterliche Studien (1987)|
+|    25|Historisch-Politische Mitteilungen|
+|    25|Indogermanische Forschungen (1898)|
+|    25|Indogermanische Forschungen (1956)|
+|    25|Indogermanische Forschungen (1957)|
+|    25|Indogermanische Forschungen (1976)|
+|    25|Indogermanische Forschungen (1982)|
+|    25|Journal for Perspectives of Economic Political and Social Integration|
+|    25|Journal of Mathematical Cryptology|
+|    25|Moral Philosophy and Politics|
+|    25|Nietzsche Studien (1980)|
+|    25|Nietzsche Studien (1986)|
+|    25|Nietzsche Studien (1988)|
+|    25|Quellen und Forschungen aus italienischen Archiven|
+|    25|Random Operators and Stochastic Equations|
+|    25|Romanistisches Jahrbuch (1961)|
+|    26|Editio (1993)|
+|    26|Editio (2004)|
+|    26|Editio (2006)|
+|    26|Indogermanische Forschungen (1917)|
+|    26|Indogermanische Forschungen (1985)|
+|    26|Journal of the International Arthurian Society|
+|    26|Kierkegaard Studies Yearbook (1996)|
+|    26|Kierkegaard Studies Yearbook (2008)|
+|    26|Mathematical Economics Letters|
+|    26|Nonlinear Engineering|
+|    26|Poznan Studies in Contemporary Linguistics|
+|    26|Statistics, Politics, and Policy|
+|    26|Theoretical Linguistics|
+|    27|Frühmittelalterliche Studien (1968)|
+|    27|Frühmittelalterliche Studien (2002)|
+|    27|Indogermanische Forschungen (1940)|
+|    27|Kierkegaard Studies Yearbook (2005)|
+|    27|Language Learning in Higher Education|
+|    27|Lexicographica (1998)|
+|    27|Lodz Papers in Pragmatics|
+|    27|Nietzsche Studien (1996)|
+|    27|Nietzsche-Studien (2004)|
+|    27|Pólemos|
+|    27|Preservation, Digital Technology &amp; Culture (PDT&amp;C)|
+|    27|Romanistisches Jahrbuch (1980)|
+|    28|Advances in Nonlinear Analysis|
+|    28|Advances in Theoretical Economics|
+|    28|Der Islam|
+|    28|Editio (1998)|
+|    28|Editio (2000)|
+|    28|Editio (2002)|
+|    28|Energy Harvesting and Systems|
+|    28|Indogermanische Forschungen (1979)|
+|    28|it – Information Technology|
+|    28|Kierkegaard Studies 2007|
+|    28|Kierkegaard Studies Yearbook (1998)|
+|    28|Kierkegaard Studies Yearbook (2000)|
+|    28|Metaphysica|
+|    28|Monte Carlo Methods and Applications|
+|    29|George Jahrbuch|
+|    29|Indogermanische Forschungen (1938)|
+|    29|Indogermanische Forschungen (1954)|
+|    29|Journal of Biosecurity, Biosafety and Biodefense Law|
+|    29|Nietzsche Studien (1990)|
+|    29|Quellen und Forschungen aus italienischen Archiven und Bibliotheken (2010)|
+|    29|Romanische Bibliographie. Supplement zur Zeitschrift für romanische Philologie|
+|    29|Wittgenstein-Studien|
+|    30|Altorientalische Forschungen|
+|    30|Editio (2005)|
+|    30|Journal of English as a Lingua Franca|
+|    30|Journal of Numerical Mathematics|
+|    30|Kierkegaard Studies Yearbook (2002)|
+|    30|Lexicographica (2002)|
+|    31|Editio (2003)|
+|    31|Indogermanische Forschungen (1914)|
+|    31|MILLENNIUM-Jahrbuch / Millennium Yearbook|
+|    31|Statistics &amp; Risk Modeling|
+|    31|Zeitschrift für die Neutestamentliche Wissenschaft und die Kunde der älteren Kirche|
+|    32|Cognitive Linguistics|
+|    32|Journal of Transcultural Medieval Studies|
+|    32|Kierkegaard Studies Yearbook (2001)|
+|    32|Millennium|
+|    33|Figurationen|
+|    33|Kierkegaard Studies Yearbook (2004)|
+|    33|Lexicographica (2003)|
+|    33|Lexicographica (2005)|
+|    33|Nietzsche-Studien (2005)|
+|    33|Romanische Bibliographie 2006|
+|    34|BioNanoMaterials|
+|    34|Intercultural Pragmatics|
+|    34|Journal of Applied Geodesy|
+|    35|Frühmittelalterliche Studien (1984)|
+|    35|Indogermanische Forschungen (1952)|
+|    35|Linguistic Typology|
+|    35|Restaurator. International Journal for the Preservation of Library and Archival Material|
+|    36|Angermion|
+|    36|Das Mittelalter|
+|    36|Maske und Kothurn|
+|    36|Trends in Classics|
+|    37|ABI Technik|
+|    37|Accounting, Economics, and Law|
+|    37|Economic Quality Control|
+|    37|Global Jurist Frontiers|
+|    38|Nanotechnology Reviews|
+|    38|Nietzsche Studien (1984)|
+|    38|Nietzsche-Studien (2006)|
+|    38|Yearbook of Phraseology|
+|    39|European Property Law Journal|
+|    39|International Journal of Turbo &amp; Jet-Engines|
+|    39|Philologus - Zeitschrift für antike Literatur und ihre Rezeption|
+|    39|Text &amp; Talk|
+|    40|International African Bibliography|
+|    40|Kölner Schrift zum Wirtschaftsrecht|
+|    40|L'Homme|
+|    40|Nietzsche-Studien (2001)|
+|    40|Review of Marketing Science|
+|    41|Case Reports in Perinatal Medicine|
+|    41|Computer Law Review International|
+|    41|Indogermanische Forschungen (1913)|
+|    41|Journal for the History of Modern Theology / Zeitschrift für Neuere Theologiegeschichte|
+|    41|Zeitschrift der Savigny-Stiftung für Rechtsgeschichte: Kanonistische Abteilung|
+|    42|Advances in Economic Analysis &amp; Policy|
+|    42|Historische Anthropologie|
+|    42|Militaergeschichtliche Zeitschrift|
+|    42|The African Book Publishing Record|
+|    43|Asian Journal of Law and Economics|
+|    43|Contributions in Theoretical Economics|
+|    43|Journal of Inverse and Ill-posed Problems|
+|    44|Folia Linguistica|
+|    44|Kant Yearbook|
+|    44|Linguistics|
+|    44|Perspektiven der Wirtschaftspolitik|
+|    44|Zeitschrift für die alttestamentliche Wissenschaft|
+|    45|European Journal of Scandinavian Studies|
+|    45|Journal of European Tort Law|
+|    45|Nietzsche Studien (1989)|
+|    45|Topics in Theoretical Economics|
+|    46|Asiatische Studien - Études Asiatiques|
+|    46|Biomolecular Concepts|
+|    46|POP|
+|    46|Quellen und Forschungen aus italienischen Archiven und Bibliotheken|
+|    47|Archiv für Papyrusforschung und verwandte Gebiete|
+|    47|International Yearbook for Tillich Research|
+|    47|Journal of Imagery Research in Sport and Physical Activity|
+|    48|Archiv für Diplomatik|
+|    48|Paragrana|
+|    48|Zeitschrift für antikes Christentum / Journal of Ancient Christianity|
+|    50|Anglia - Zeitschrift für englische Philologie|
+|    50|Photonics &amp; Lasers in Medicine|
+|    51|Applied Linguistics Review|
+|    51|Journal of Literary Theory|
+|    52|International Journal of Practical Theology|
+|    52|Jahrbuch für Wirtschaftsgeschichte / Economic History Yearbook|
+|    52|Journal of Time Series Econometrics|
+|    54|Advanced Optical Technologies|
+|    54|Bio-Algorithms and Med-Systems|
+|    54|Georgian Mathematical Journal|
+|    54|HUMOR|
+|    54|International Yearbook of Futurism Studies|
+|    55|Archiv für Diplomatik, Schriftgeschichte, Siegel- und Wappenkunde|
+|    55|Jahrbuch für die Geschichte Mittel- und Ostdeutschlands|
+|    56|Clinical Chemistry and Laboratory Medicine|
+|    56|Journal of Contemporary Drama in English|
+|    57|Entrepreneurship Research Journal|
+|    57|Fabula|
+|    57|Zeitschrift der Savigny-Stiftung für Rechtsgeschichte: Romanistische Abteilung|
+|    58|Global Jurist Topics|
+|    59|Archiv für Reformationsgeschichte / Literaturberichte - Archive for Reformation History / Literature Review|
+|    59|European Company and Financial Law Review|
+|    59|LaboratoriumsMedizin|
+|    59|Rhetorik|
+|    60|at – Automatisierungstechnik|
+|    60|Contributions in Macroeconomics|
+|    60|Nonprofit Policy Forum|
+|    60|tm – Technisches Messen|
+|    61|European Review of Contract Law|
+|    61|Zeitschrift für Ägyptische Sprache|
+|    64|Jahrbuch der Akademie der Wissenschaften zu Göttingen|
+|    64|Journal of Tort Law|
+|    65|Botanica Marina|
+|    65|Conceptus|
+|    66|Global Jurist Advances|
+|    66|Zeitschrift für Unternehmens- und Gesellschaftsrecht|
+|    67|Hormone Molecular Biology and Clinical Investigation|
+|    68|Aschkenas|
+|    68|Journal of Business Valuation and Economic Loss Analysis|
+|    68|Muslim World Journal of Human Rights|
+|    69|English and American Studies in German (2005)|
+|    69|Law &amp; Ethics of Human Rights|
+|    70|Nietzscheforschung|
+|    71|Anglia|
+|    72|Indogermanische Forschungen (1921)|
+|    72|Zeitschrift für Konfliktmanagement|
+|    73|Advances in Geometry|
+|    73|Analysis|
+|    73|George-Jahrbuch|
+|    73|Journal of Globalization and Development|
+|    74|Biomedical Engineering / Biomedizinische Technik|
+|    75|Contributions in Economic Analysis &amp; Policy|
+|    75|Jahrbuch für Germanistische Sprachgeschichte|
+|    75|Scientia Poetica|
+|    75|The Law and Development Review|
+|    77|European Journal of Nanomedicine|
+|    77|Jahrbuch der Juristischen Zeitgeschichte|
+|    78|Antike und Abendland|
+|    78|Discrete Mathematics and Applications|
+|    80|Laboratory Phonology|
+|    83|Vierteljahrshefte für Zeitgeschichte|
+|    86|Green Processing and Synthesis|
+|    86|Topics in Economic Analysis &amp; Policy|
+|    88|Der Donauraum|
+|    88|Nietzsche Studien|
+|    88|Philologus|
+|    92|English and American Studies in German (2000)|
+|    92|English and American Studies in German (2001)|
+|    92|English and American Studies in German (2004)|
+|    92|Internationales Archiv für Sozialgeschichte der deutschen Literatur|
+|    93|Poznań Studies in Contemporary Linguistics|
+|    94|English and American Studies in German (2002)|
+|    95|English &amp; American Studies|
+|    95|i-com|
+|    96|English and American Studies in German (2003)|
+|    98|Holzforschung|
+|    98|Topics in Macroeconomics|
+|    99|Zeitschrift für Assyriologie und vorderasiatische Archäologie|
+|    99|Zeitschrift für das Privatrecht der Europäischen Union|
+|   100|Asia-Pacific Journal of Risk and Insurance|
+|   100|Soziologische Revue|
+|   102|Journal of Perinatal Medicine|
+|   103|Indogermanische Forschungen (1909)|
+|   104|Glottotheory|
+|   104|PIK - Praxis der Informationsverarbeitung und Kommunikation|
+|   104|rca - Radiochimica Acta|
+|   105|Computer und Recht|
+|   105|editio|
+|   105|International Commentary on Evidence|
+|   105|Internationales Jahrbuch für philosophische Anthropologie|
+|   105|Nietzsche-Studien|
+|   108|Archiv für Geschichte der Philosophie|
+|   109|Kritikon Litterarum|
+|   109|Zeitschrift für Antikes Christentum / Journal of Ancient Christianity|
+|   112|Semiotica|
+|   113|Multicultural Learning and Teaching|
+|   115|Multilingua|
+|   116|Lebende Sprachen|
+|   116|Studies in Ethics, Law, and Technology|
+|   118|Kierkegaard Studies Yearbook|
+|   119|Information - Wissenschaft &amp; Praxis|
+|   119|International Journal of the Sociology of Language|
+|   120|Biological Chemistry|
+|   123|BioInorganic Reaction Mechanisms|
+|   127|Journal für die reine und angewandte Mathematik (Crelles Journal)|
+|   127|Review of Middle East Economics and Finance|
+|   131|Strategie und Sicherheit|
+|   133|Jahrbuch der Raabe-Gesellschaft|
+|   133|Russian Journal of Numerical Analysis and Mathematical Modelling|
+|   135|Global Jurist|
+|   135|ReiseRecht aktuell|
+|   136|Forum for Health Economics &amp; Policy|
+|   136|World Political Science|
+|   137|Issues in Legal Scholarship|
+|   137|Orientalistische Literaturzeitung|
+|   141|Kadmos|
+|   142|Zeitschrift für Sprachwissenschaft|
+|   143|Journal of Group Theory|
+|   143|Romanische Bibliographie|
+|   144|European Tort Law Yearbook|
+|   146|New Global Studies|
+|   147|Umsatzsteuer-Rundschau|
+|   153|Zeitschrift für Religionswissenschaft|
+|   155|arcadia|
+|   155|Zeitschrift für die gesamte Strafrechtswissenschaft|
+|   157|Zeitschrift für celtische Philologie|
+|   160|Lexicographica|
+|   160|Saeculum|
+|   162|Zeitschrift für Kulturwissenschaft|
+|   165|Basic Income Studies|
+|   165|Jahrbuch der Göttinger Akademie der Wissenschaften|
+|   170|Bibliothek Forschung und Praxis|
+|   170|Journal of Agricultural &amp; Food Industrial Organization|
+|   172|Zeitschrift für Anglistik und Amerikanistik|
+|   173|English and American Studies in German|
+|   175|Deutsche Zeitschrift für Philosophie|
+|   177|JURA - Juristische Ausbildung|
+|   181|Frühmittelalterliche Studien|
+|   181|Hegel-Jahrbuch|
+|   188|STUF - Language Typology and Universals|
+|   189|Klio|
+|   194|Germanistik|
+|   196|Radiochimica Acta|
+|   196|Reviews in Chemical Engineering|
+|   203|Iberoromania|
+|   203|Zeitschrift für interkulturelle Germanistik|
+|   204|it - Information Technology|
+|   204|Peace Economics, Peace Science and Public Policy|
+|   210|JURA – Juristische Ausbildung|
+|   211|Beiträge zur Geschichte der deutschen Sprache und Literatur|
+|   212|Zeitschrift für Ägyptische Sprache und Altertumskunde|
+|   213|Zeitschrift für germanistische Linguistik|
+|   215|Arbitrium|
+|   216|BIOmaterialien|
+|   220|Praehistorische Zeitschrift|
+|   224|Archiv für Religionsgeschichte|
+|   226|Business and Politics|
+|   233|Zeitschrift der Savigny-Stiftung für Rechtsgeschichte. Germanistische Abteilung|
+|   237|Journal des Economistes et des Etudes Humaines|
+|   245|Wiener Jahrbuch für Kunstgeschichte|
+|   249|juristische Rundschau|
+|   249|The B.E. Journal of Theoretical Economics|
+|   250|Review of Law &amp; Economics|
+|   255|The B.E. Journal of Macroeconomics|
+|   267|Review of Network Economics|
+|   268|Etruscan Studies|
+|   270|Journal of Complementary and Integrative Medicine|
+|   273|Chinese Semiotic Studies|
+|   275|Journal for Manufacturing Science and Production|
+|   296|Reviews in Inorganic Chemistry|
+|   297|Jahrbuch für Wissenschaft und Ethik|
+|   298|Libri|
+|   298|Zeitschrift für romanische Philologie|
+|   299|Journal of Quantitative Analysis in Sports|
+|   303|Finanz-Rundschau Ertragsteuerrecht|
+|   304|Global Economy Journal|
+|   306|Mammalia|
+|   320|International Journal of Nursing Education Scholarship|
+|   324|Theoretical Inquiries in Law|
+|   340|Chinese Archaeology|
+|   351|Archiv für Reformationsgeschichte/Literaturbericht|
+|   354|Deutsche Zeitschrift für Wirtschafts- und Insolvenzrecht|
+|   355|Chemical Product and Process Modeling|
+|   360|The Economists' Voice|
+|   361|Computational Methods in Applied Mathematics|
+|   362|Clinical Chemistry and Laboratory Medicine (CCLM)|
+|   373|Studies in Nonlinear Dynamics &amp; Econometrics|
+|   374|Zeitschrift der Savigny-Stiftung für Rechtsgeschichte: Germanistische Abteilung|
+|   376|Reviews in Analytical Chemistry|
+|   397|Journal of Intelligent Systems|
+|   402|International Journal of Emerging Electric Power Systems|
+|   437|Journal de Economistes et des Etudes Humaines|
+|   449|Zeitschrift für Slawistik|
+|   454|Statistical Applications in Genetics and Molecular Biology|
+|   460|International Journal on Disability and Human Development|
+|   461|Helia|
+|   472|Reviews on Environmental Health|
+|   476|The Forum|
+|   495|Drug Metabolism and Drug Interactions|
+|   516|Corrosion Reviews|
+|   522|Sociolinguistica|
+|   544|Science and Engineering of Composite Materials|
+|   563|Journal of Homeland Security and Emergency Management|
+|   575|Reviews in the Neurosciences|
+|   586|Journal of the Mechanical Behavior of Materials|
+|   629|The B.E. Journal of Economic Analysis &amp; Policy|
+|   630|Bibliotheksdienst|
+|   664|tm - Technisches Messen|
+|   695|Byzantinische Zeitschrift|
+|   695|International Journal of Food Engineering|
+|   698|ABI-Technik|
+|   713|International Journal of Turbo and Jet Engines|
+|   736|Journal of Basic and Clinical Physiology and Pharmacology|
+|   810|Verkündigung und Forschung|
+|   838|Journal of Polymer Engineering|
+|   848|Archiv für Reformationsgeschichte|
+|   859|at - Automatisierungstechnik|
+|   860|Jahrbuch des Kölnischen Geschichtsvereins|
+|   863|Deutsches Dante-Jahrbuch|
+|   874|GesundheitsRecht|
+|   909|Apeiron|
+|   940|Zeitschrift für Gemeinschaftsprivatrecht|
+|   988|Romanistisches Jahrbuch|
+|   990|Archiv für Reformationsgeschichte - Archive for Reformation History|
+|   996|Archivalische Zeitschrift|
+|  1000|Internationales Handelsrecht|
+|  1011|International Journal of Adolescent Medicine and Health|
+|  1045|International Journal of Chemical Reactor Engineering|
+|  1061|High Temperature Materials and Processes|
+|  1064|Archiv für Kulturgeschichte|
+|  1065|Kant-Studien|
+|  1192|Monatsschrift für Deutsches Recht|
+|  1201|International Journal of Nonlinear Sciences and Numerical Simulation|
+|  1273|Main Group Metal Chemistry|
+|  1286|e-Polymers|
+|  1306|Historische Zeitschrift|
+|  1350|Geschichte in Köln|
+|  1389|Journal of Optical Communications|
+|  1554|Heterocyclic Communications|
+|  1705|Restoration of Buildings and Monuments|
+|  1797|Zeitschrift für Physikalische Chemie|
+|  1895|Mitteilungen der Deutschen Mathematiker-Vereinigung|
+|  2071|Public Health Forum|
+|  2392|Praktische Theologie|
+|  2413|Indogermanische Forschungen|
+|  2415|Zeitschrift für Evangelische Ethik|
+|  2470|Bildung und Erziehung|
+|  2565|Zeitschrift für Kristallographie|
+|  2847|Journal of Pediatric Endocrinology and Metabolism|
+|  3285|Evangelische Theologie|
+|  3484|Mitteilungen des Instituts für Österreichische Geschichtsforschung|
+|  3497|ReiseRechts aktuell|
+|  4316|Annalen des Historischen Vereins für den Niederrhein|
+|  4527|Frequenz|
+|  9433|Pure and Applied Chemistry|
+| 12170|Zeitschrift für Kristallographie - Crystalline Materials|
+| 15163|Österreichische Musikzeitschrift|

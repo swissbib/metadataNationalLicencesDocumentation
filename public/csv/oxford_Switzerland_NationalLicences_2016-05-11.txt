@@ -1,0 +1,223 @@
+publication_title	print_identifier	online_identifier	date_first_issue_online	num_first_vol_online	num_first_issue_online	date_last_issue_online	num_last_vol_online	num_last_issue_online	title_url	first_author	title_id	embargo_info	coverage_depth	notes	publisher_name	publication_type	date_monograph_published_print	date_monograph_published_online	monograph_volume	monograph_edition	first_editor	parent_publication_title_id	preceding_publication_title_id	access_type
+Archives of Clinical Neuropsychology	0887-6177	1873-5843	1997	12		2015	30		acn		acn		fulltext		Elsevier	serial								
+American Entomologist	1046-2821	2155-9902	2001	47		2015	61		ae		ae		fulltext		Oxford University Press	serial								
+Review of Agricultural Economics	1058-7195	1467-9353	1996	18		2015	37		aepp		aepp		fulltext		Oxford University Press	serial								
+Annals of the Entomological Society of America	0013-8746	1938-2901	1996	89		2015	108		aesa		aesa		fulltext		Oxford University Press	serial								
+The British Journal of Aesthetics	0007-0904	1468-2842	1996	36		2015	55		aesthj		aesthj		fulltext		Oxford University Press	serial								
+African Affairs	0001-9909	1468-2621	1996	95		2015	114		afrafj		afrafj		fulltext		Oxford University Press	serial								
+Age and Ageing	0002-0729	1468-2834	1996	25		2015	44		ageing		ageing		fulltext		Oxford University Press	serial								
+The American Historical Review	0002-8762	1937-5239	1996	101		2015	120		ahr		ahr		fulltext		Oxford University Press	serial								
+American Journal of Epidemiology	0002-9262	1476-6256	1996	143		2015	182		aje		aje		fulltext		Oxford University Press	serial								
+American Journal of Hypertension	0895-7061	1941-7225	1996	9		2015	28		ajh		ajh		fulltext		Oxford University Press	serial								
+The American Journal of Jurisprudence	0065-8995	2049-6494	1997	42		2015	60		ajj		ajj		fulltext		Oxford University Press	serial								
+Alcohol and Alcoholism	0735-0414	1464-3502	1996	31		2015	50		alcalc		alcalc		fulltext		Oxford University Press	serial								
+American Literary History	0896-7148	1468-4365	1997	9		2015	27		alhist		alhist		fulltext		Oxford University Press	serial								
+Analysis	0003-2638	1467-8284	1996	56		2015	75		analys		analys		fulltext		Oxford University Press	serial								
+Annals of Botany	0305-7364	1095-8290	1996	77		2015	116		annbot		annbot		fulltext		Oxford University Press	serial								
+Annals of Occupational Hygiene	0003-4878	1475-3162	1996	40		2015	59		annhyg		annhyg		fulltext		Oxford University Press	serial								
+Annals of Oncology	0923-7534	1569-8041	1996	7		2015	26		annonc		annonc		fulltext		Oxford University Press	serial								
+Applied Linguistics	0142-6001	1477-450X	1996	17		2015	36		applij		applij		fulltext		Oxford University Press	serial								
+Arbitration International	0957-0411	1875-8398	1996	12		2015	31		arbitration		arbitration		fulltext		Oxford University Press	serial								
+Aesthetic Surgery Journal	1090-820X	1527-330X	1996	16		2015	35		asj		asj		fulltext		Blackwell Publishing Ltd	serial								
+Behavioral Ecology	1045-2249	1465-7279	1997	8		2015	26		beheco		beheco		fulltext		Oxford University Press	serial								
+Bioinformatics	1367-4803	1460-2059	1996	12		2015	31		bioinformatics		bioinformatics		fulltext		Oxford University Press	serial								
+Biometrika	0006-3444	1464-3510	1996	83		2015	102		biomet		biomet		fulltext		Oxford University Press	serial								
+BioScience	0006-3568	1525-3244	1996	46		2015	65		bioscience		bioscience		fulltext		American Institute of Biological Sciences	serial								
+British Journal of Anaesthesia	0007-0912	1471-6771	1996	76		2015	115		bjaint		bjaint		fulltext		Oxford University Press	serial								
+Bulletin of the London Mathematical Society	0024-6093	1469-2120	1996	28		2015	47		blms		blms		fulltext		Oxford University Press	serial								
+Brain	0006-8950	1460-2156	1996	119		2015	138		brainj		brainj		fulltext		Oxford University Press	serial								
+Rheumatology	1462-0324	1462-0332	1996	35		2015	54		brheum		brheum		fulltext		Oxford University Press	serial								
+British Medical Bulletin	0007-1420	1471-8391	1996	52		2015	116		brimed		brimed		fulltext		Oxford University Press	serial								
+Cambridge Journal of Economics	0309-166X	1464-3545	1996	20		2015	39		cameco		cameco		fulltext		Oxford University Press	serial								
+The Cambridge Quarterly	0008-199X	1471-6836	1997	30		2015	44		camquj		camquj		fulltext		Oxford University Press	serial								
+Carcinogenesis	0143-3334	1460-2180	1996	17		2015	36		carcin		carcin		fulltext		Oxford University Press	serial								
+Cardiovascular Research	0008-6363	1755-3245	1996	31		2015	108		cardiovascres		cardiovascres		fulltext		Elsevier Science	serial								
+Christian Bioethics	1380-3603	1744-4195	1996	2		2015	21		cb		cb		fulltext		Oxford University Press	serial								
+Community Development Journal	0010-3802	1468-2656	1996	31		2015	50		cdj		cdj		fulltext		Oxford University Press	serial								
+Cerebral Cortex	1047-3211	1460-2199	1996	6		2015	25		cercor		cercor		fulltext		Oxford University Press	serial								
+Chemical Senses	0379-864X	1464-3553	1996	21		2015	40		chemse		chemse		fulltext		Oxford University Press	serial								
+Journal of Chromatographic Science	0021-9665	1945-239X	1996	34		2015	53		chromsci		chromsci		fulltext		Oxford University Press	serial								
+Clinical Infectious Diseases	1058-4838	1537-6591	1996	22		2015	61		cid		cid		fulltext		The University of Chicago Press	serial								
+Current Legal Problems	0070-1998	2044-8422	1997	50		2015	68		clp		clp		fulltext		Oxford University Press	serial								
+ITNOW	1746-5702	1746-5710	1996	38		2015	57		combul		combul		fulltext		Oxford University Press	serial								
+The Computer Journal	0010-4620	1460-2067	1997	40		2015	58		computer_journal		computer_journal		fulltext		Oxford University Press	serial								
+Contributions to Political Economy	0277-5921	1464-3588	1997	16		2015	34		conpec		conpec		fulltext		Oxford University Press	serial								
+British Journal of Criminology	0007-0955	1464-3529	1997	37		2015	55		crimin		crimin		fulltext		Oxford University Press	serial								
+Children & Schools	1532-8759	1545-682X	1996	18		2015	37		cs		cs		fulltext		Oxford University Press	serial								
+Journal of Design History	0952-4649	1741-7279	1997	10		2015	28		design		design		fulltext		Oxford University Press	serial								
+Diplomatic History	0145-2096	1467-7709	1977	1		2015	39		dh		dh		fulltext		Blackwell Publishing Ltd	serial								
+Digital Scholarship in the Humanities	2055-7671	2055-768X	2015	30		2015	30		dsh		dsh		fulltext		Oxford University Press	serial								
+Early Music	0306-1078	1741-7260	1996	32		2015	43		earlyj		earlyj		fulltext		Oxford University Press	serial								
+Economic Policy	0266-4658	1468-0327	2003	18		2015	30		economicpolicy		economicpolicy		fulltext		Oxford University Press	serial								
+Oxford Review of Economic Policy	0266-903X	1460-2121	1996	12		2015	31		ecopol		ecopol		fulltext		Oxford University Press	serial								
+Environmental Entomology	0046-225X	1938-2936	1996	25		2015	44		ee		ee		fulltext		Oxford University Press	serial								
+European Journal of Cardio-Thoracic Surgery	1010-7940	1873-734X	1996	10		2015	48		ejcts		ejcts		fulltext		Elsevier Science B.V.	serial								
+ELT Journal	0951-0893	1477-4526	1996	50		2015	69		eltj		eltj		fulltext		Oxford University Press	serial								
+The English Historical Review	0013-8266	1477-4534	1997	113		2015	130		enghis		enghis		fulltext		Oxford University Press	serial								
+English	0013-8215	1756-1124	1997	46		2015	64		english		english		fulltext		The English Association	serial								
+Journal of Environmental Law	0952-8873	1464-374X	1997	9		2015	27		envlaw		envlaw		fulltext		Oxford University Press	serial								
+The European Journal of Orthodontics	0141-5387	1460-2210	1996	18		2015	37		eortho		eortho		fulltext		Oxford University Press	serial								
+Epidemiologic Reviews	0193-936X	1478-6729	1997	19		2015	37		epirev		epirev		fulltext		Oxford University Press	serial								
+European Review of Agricultural Economics	0165-1587	1464-3618	1997	24		2015	42		erae		erae		fulltext		Oxford University Press	serial								
+Essays in Criticism	0014-0856	1471-6852	1996	50		2015	65		escrit		escrit		fulltext		Oxford University Press	serial								
+European Heart Journal	0195-668X	1522-9645	1996	17		2015	36		eurheartj		eurheartj		fulltext		Oxford University Press	serial								
+The European Journal of Public Health	1101-1262	1464-360X	1996	6		2015	25		eurpub		eurpub		fulltext		Oxford University Press	serial								
+European Sociological Review	0266-7215	1468-2672	1996	12		2015	31		eursoj		eursoj		fulltext		Oxford University Press	serial								
+Journal of Experimental Botany	0022-0957	1460-2431	1996	47		2015	66		exbotj		exbotj		fulltext		Oxford University Press	serial								
+Family Practice	0263-2136	1460-2229	1997	14		2015	32		famprj		famprj		fulltext		Oxford University Press	serial								
+FEMS Microbiology Ecology		1574-6941	1996	19		2015	91		femsec		femsec		fulltext		Blackwell Publishing Ltd	serial								
+FEMS Microbiology Letters	0378-1097	1574-6968	1996	135		2015	362		femsle		femsle		fulltext		Blackwell Publishing Ltd	serial								
+Pathogens and Disease	2049-632X		2014	70		2015	73		femspd		femspd		fulltext		Blackwell Publishing Ltd	serial								
+FEMS Microbiology Reviews		1574-6976	1996	18		2015	39		femsre		femsre		fulltext		Blackwell Publishing Ltd	serial								
+Forestry	0015-752X	1464-3626	1997	70		2015	88		foresj		foresj		fulltext		Oxford University Press	serial								
+Forum for Modern Language Studies	0015-8518	1471-6860	1996	37		2015	51		formod		formod		fulltext		Oxford University Press	serial								
+French Studies Bulletin	0262-2750	1748-9180	1997	18		2015	36		frebul		frebul		fulltext		Oxford University Press	serial								
+French History	0269-1191	1477-4542	1996	10		2015	29		french		french		fulltext		Oxford University Press	serial								
+French Studies	0016-1128	1468-2931	1996	56		2015	69		frestu		frestu		fulltext		Oxford University Press	serial								
+The Journals of Gerontology Series A: Biological Sciences and Medical Sciences	1079-5006	1758-535X	1996	51		2015	70		gerona		gerona		fulltext		Oxford University Press	serial								
+The Journals of Gerontology Series B: Psychological Sciences and Social Sciences	1079-5014	1758-5368	1996	51		2015	70		geronb		geronb		fulltext		Oxford University Press	serial								
+The Gerontologist	0016-9013	1758-5341	1996	36		2015	55		geront		geront		fulltext		Oxford University Press	serial								
+German History	0266-3554	1477-089X	1996	14		2015	33		gh		gh		fulltext		Oxford University Press	serial								
+Geophysical Journal International	0956-540X	1365-246X	1996	124		2015	203		gji		gji		fulltext		Blackwell Publishing Ltd	serial								
+Glycobiology	0959-6658	1460-2423	1996	6		2015	25		glycob		glycob		fulltext		Oxford University Press	serial								
+Health Education Research	0268-1153	1465-3648	1996	11		2015	30		healed		healed		fulltext		Oxford University Press	serial								
+Health Policy and Planning	0268-1080	1460-2237	1996	11		2015	30		heapol		heapol		fulltext		Oxford University Press	serial								
+Health Promotion International	0957-4824	1460-2245	1996	11		2015	30		heapro		heapro		fulltext		Oxford University Press	serial								
+Journal of the History of Collections	0954-6650	1477-8564	1997	9		2015	27		hiscol		hiscol		fulltext		Oxford University Press	serial								
+History Workshop Journal	1363-3554	1477-4569	1997			2015			hiwork		hiwork		fulltext		Oxford University Press	serial								
+Human Molecular Genetics	0964-6906	1460-2083	1996	5		2015	24		hmg		hmg		fulltext		Oxford University Press	serial								
+Holocaust and Genocide Studies	8756-6583	1476-7937	1997	11		2015	29		holgen		holgen		fulltext		Oxford University Press	serial								
+Health & Social Work	0360-7283	1545-6854	1996	21		2015	40		hsw		hsw		fulltext		Oxford University Press	serial								
+Human Reproduction	0268-1161	1460-2350	1996	11		2015	30		humrep		humrep		fulltext		Oxford University Press	serial								
+Human Reproduction Update	1355-4786	1460-2369	1996	2		2015	21		humupd		humupd		fulltext		Oxford University Press	serial								
+Integrative and Comparative Biology	1540-7063	1557-7023	1996	36		2015	55		icb		icb		fulltext		Oxford University Press	serial								
+ICES Journal of Marine Science	1054-3139	1095-9289	1996	53		2015	72		icesjms		icesjms		fulltext		Oxford University Press	serial								
+ICSID Review	0258-3690	2049-1999	1997	12		2015	30		icsidreview		icsidreview		fulltext		Oxford University Press	serial								
+Logic Journal of IGPL	1367-0751	1368-9894	1996	4		2015	23		igpl		igpl		fulltext		Oxford University Press	serial								
+International Journal of Epidemiology	0300-5771	1464-3685	1996	25		2015	44		ije		ije		fulltext		Oxford University Press	serial								
+IMA Journal of Management Mathematics	1471-678X	1471-6798	1996	7		2015	26		imaman		imaman		fulltext		Oxford University Press	serial								
+IMA Journal of Applied Mathematics	0272-4960	1464-3634	1996	56		2015	80		imamat		imamat		fulltext		Oxford University Press	serial								
+IMA Journal of Mathematical Control and Information	0265-0754	1471-6887	1996	13		2015	32		imamci		imamci		fulltext		Oxford University Press	serial								
+Mathematical Medicine and Biology: A Journal of the IMA	1477-8599	1477-8602	1996	13		2015	32		imammb		imammb		fulltext		Oxford University Press	serial								
+IMA Journal of Numerical Analysis	0272-4979	1464-3642	1996	16		2015	35		imanum		imanum		fulltext		Oxford University Press	serial								
+International Mathematics Research Notices	1073-7928	1687-0247	1997			2015			imrn		imrn		fulltext		Oxford University Press	serial								
+Industrial and Corporate Change	0960-6491	1464-3650	1997	6		2015	24		indcor		indcor		fulltext		Oxford University Press	serial								
+Industrial Law Journal	0305-9332	1464-3669	1996	25		2015	44		indlaw		indlaw		fulltext		Oxford University Press	serial								
+International Immunology	0953-8178	1460-2377	1996	8		2015	27		intimm		intimm		fulltext		Oxford University Press	serial								
+International Journal of Public Opinion Research	0954-2892	1471-6909	1997	9		2015	27		intpor		intpor		fulltext		Oxford University Press	serial								
+International Journal for Quality in Health Care	1353-4505	1464-3677	1997	9		2015	27		intqhc		intqhc		fulltext		Oxford University Press	serial								
+International Journal of Law and Information Technology	0967-0769	1464-3693	1997	5		2015	23		inttec		inttec		fulltext		Oxford University Press	serial								
+Journal of Islamic Studies	0955-2340	1471-6917	1996	7		2015	26		islamj		islamj		fulltext		Oxford University Press	serial								
+Interdisciplinary Studies in Literature and Environment	1076-0962	1759-1090	1997	4		2015	22		isle		isle		fulltext		University of Nevada Press	serial								
+Interacting with Computers	0953-5438	1873-7951	1996	8		2015	27		iwc		iwc		fulltext		Oxford University Press	serial								
+Journal of the American Academy of Religion	0002-7189	1477-4585	1997	65		2015	83		jaarel		jaarel		fulltext		Oxford University Press	serial								
+Journal of Antimicrobial Chemotherapy	0305-7453	1460-2091	1996	37		2015	70		jac		jac		fulltext		Oxford University Press	serial								
+Journal of African Economies	0963-8024	1464-3723	1996	5		2015	24		jafeco		jafeco		fulltext		Oxford University Press	serial								
+The Journal of American History	0021-8723	1945-2314	1996	83		2015	102		jahist		jahist		fulltext		Organization of American Historians	serial								
+Journal of the History of Medicine and Allied Sciences	0022-5045	1468-4373	1996	51		2015	70		jalsci		jalsci		fulltext		Oxford University Press	serial								
+Journal of the American Medical Informatics Association	1067-5027	1527-974X	1996	3		2015	22		jamia		jamia		fulltext		BMJ Group	serial								
+Journal of Applied Poultry Research	1056-6171	1537-0437	1997	6		2015	24		japr		japr		fulltext		Oxford University Press	serial								
+Journal of Analytical Toxicology	0146-4760	1945-2403	1996	20		2015	39		jat		jat		fulltext		Oxford University Press	serial								
+The Journal of Biochemistry	0021-924X	-	1996	119		2015	158		jbchem		jbchem		fulltext		Oxford University Press	serial								
+Journal of Church and State	0021-969X	2040-4867	1997	39		2015	57		jcs		jcs		fulltext		Oxford University Press	serial								
+Journal of Economic Entomology	0022-0493	1938-291X	1996	89		2015	108		jee		jee		fulltext		Oxford University Press	serial								
+Journal of Heredity	0022-1503	1465-7333	1996	87		2015	106		jhered		jhered		fulltext		Oxford University Press	serial								
+The Journal of Infectious Diseases	0022-1899	1537-6613	1996	173		2015	212		jid		jid		fulltext		The University of Chicago Press	serial								
+Japanese Journal of Clinical Oncology	0368-2811	1465-3621	1996	26		2015	45		jjco		jjco		fulltext		Oxford University Press	serial								
+The Journal of Law, Economics, & Organization	8756-6222	1465-7341	1996	12		2015	31		jleorg		jleorg		fulltext		Oxford University Press	serial								
+Journal of the London Mathematical Society	0024-6107	1469-7750	1996	53		2015	92		jlms		jlms		fulltext		Oxford University Press	serial								
+Journal of Mammalogy	0022-2372	1545-1542	1996	77		2015	96		jmammal		jmammal		fulltext		American Society of Mammalogists	serial								
+Journal of Medical Entomology	0022-2585	1938-2928	1996	33		2015	52		jme		jme		fulltext		Oxford University Press	serial								
+Microscopy	0022-0744	1477-9986	1996	45		2015	64		jmicro		jmicro		fulltext		Oxford University Press	serial								
+The Journal of Medicine and Philosophy	0360-5310	1744-5019	1996	21		2015	40		jmp		jmp		fulltext		Oxford University Press	serial								
+Journal of Music Therapy	0022-2917	2053-7395	1997	34		2015	52		jmt		jmt		fulltext		American Music Therapy Association	serial								
+Journal of the National Cancer Institute	0027-8874	1460-2105	1996	88		2015	107		jnci		jnci		fulltext		Oxford University Press	serial								
+Journal of Public Administration Research and Theory	1053-1858	1477-9803	1996	6		2015	25		jopart		jopart		fulltext		Oxford University Press	serial								
+Journal of Pediatric Psychology	0146-8693	1465-735X	1996	21		2015	40		jpepsy		jpepsy		fulltext		Oxford University Press	serial								
+Journal of Social History	0022-4529	1527-1897	1996	30		2015	49		jsh		jsh		fulltext		Oxford University Press	serial								
+International Journal of Law, Policy and the Family	1360-9939	1464-3707	1996	10		2015	29		lawfam		lawfam		fulltext		Oxford University Press	serial								
+The Leo Baeck Institute Yearbook	0075-8744	1758-437X	1996	41		2015	60		lbaeck		lbaeck		fulltext		The Leo Baeck Institute	serial								
+International Journal of Lexicography	0950-3846	1477-4577	1996	9		2015	28		lexico		lexico		fulltext		Oxford University Press	serial								
+The Library	0024-2160	1744-8581	1996	1		2015	21		libraj		libraj		fulltext		Oxford University Press	serial								
+Literature and Theology	0269-1205	1477-4623	1996	10		2015	29		litthe		litthe		fulltext		Oxford University Press	serial								
+Journal of Logic and Computation	0955-792X	1465-363X	1996	6		2015	25		logcom		logcom		fulltext		Oxford University Press	serial								
+OAH Magazine of History	0882-228X	1938-2340	1996	11		2013	27		maghis		maghis		fulltext		Organization of American Historians	serial								
+Medical Law Review	0967-0742	1464-3790	1997	5		2015	23		medlaw		medlaw		fulltext		Oxford University Press	serial								
+MELUS	0163-755X	1946-3170	1996	21		2015	40		melus		melus		fulltext		The Society for the Study of the Multi-Ethnic Literature of the United States	serial								
+Mind	0026-4423	1460-2113	1996	105		2015	124		mind		mind		fulltext		Oxford University Press	serial								
+Medical Mycology	1369-3786	1460-2709	1998	36		2015	53		mmy		mmy		fulltext		Informa UK Ltd	serial								
+Monthly Notices of the Royal Astronomical Society	0035-8711	1365-2966	1996	278		2015	453		mnras		mnras		fulltext		Blackwell Publishing Ltd	serial								
+Modern Judaism	0276-1114	1086-3273	1996	16		2015	35		modjud		modjud		fulltext		Oxford University Press	serial								
+Molecular Human Reproduction	1360-9947	1460-2407	1996	2		2015	21		molehr		molehr		fulltext		Oxford University Press	serial								
+Journal of Molluscan Studies	0260-1230	1464-3766	1996	62		2015	81		mollus		mollus		fulltext		Oxford University Press	serial								
+The Monist	0026-9662	2153-3601	1996	79		2015	98		monist		monist		fulltext		Oxford University Press	serial								
+Music Therapy Perspectives	0734-6875	2053-7387	1997	15		2015	33		mtp		mtp		fulltext		American Music Therapy Association	serial								
+Music Theory Spectrum	0195-6167	1533-8339	1997	19		2015	37		mts		mts		fulltext		University of California Press	serial								
+Music and Letters	0027-4224	1477-4631	1996	77		2015	96		musicj		musicj		fulltext		Oxford University Press	serial								
+The Musical Quarterly	0027-4631	1741-8399	1997	81		2015	98		musqtl		musqtl		fulltext		Oxford University Press	serial								
+Mutagenesis	0267-8357	1464-3804	1996	11		2015	30		mutage		mutage		fulltext		Oxford University Press	serial								
+Nucleic Acids Research	0305-1048	1362-4962	1996	24		2015	93		nar		nar		fulltext		Oxford University Press	serial								
+Nephrology Dialysis Transplantation	0931-0509	1460-2385	1996	11		2015	30		ndt		ndt		fulltext		Oxford University Press	serial								
+Notes and Queries	0029-3970	1471-6941	2012	59		2015	62		notesj		notesj		fulltext		Oxford University Press	serial								
+Nutrition Reviews	0029-6643	1753-4887	1996	54		2015	73		nutritionreviews		nutritionreviews		fulltext		Oxford University Press	serial								
+Occupational Medicine	0962-7480	1471-8405	1996	46		2015	65		occmed		occmed		fulltext		Oxford University Press	serial								
+Oxford Economic Papers	0030-7653	1464-3812	1996	48		2015	67		oep		oep		fulltext		Oxford University Press	serial								
+The Oral History Review	0094-0798	1533-8592	1997	24		2015	42		ohr		ohr		fulltext		Oxford University Press	serial								
+The Opera Quarterly	0736-0053	1476-2870	1996	13		2015	31		operaq		operaq		fulltext		Oxford University Press	serial								
+Oxford Art Journal	0142-6540	1741-7287	1997	20		2015	38		oxartj		oxartj		fulltext		Oxford University Press	serial								
+Oxford Journal of Legal Studies	0143-6503	1464-3820	1997	17		2015	35		oxjlsj		oxjlsj		fulltext		Oxford University Press	serial								
+Parliamentary Affairs	0031-2290	1460-2482	1996	49		2015	68		parlij		parlij		fulltext		Oxford University Press	serial								
+Past & Present	0031-2746	1477-464X	1996	150		2015	229		past		past		fulltext		Oxford University Press	serial								
+Plant and Cell Physiology	0032-0781	1471-9053	1996	37		2015	56		pcp		pcp		fulltext		Oxford University Press	serial								
+Journal of Petrology	0022-3530	1460-2415	1996	37		2015	56		petroj		petroj		fulltext		Oxford University Press	serial								
+Philosophia Mathematica	0031-8019	1744-6406	1996	4		2015	23		philmat		philmat		fulltext		Oxford University Press	serial								
+The British Journal for the Philosophy of Science	0007-0882	1464-3537	1996	47		2015	66		phisci		phisci		fulltext		Oxford University Press	serial								
+Journal of Plankton Research	0142-7873	1464-3774	1996	18		2015	37		plankt		plankt		fulltext		Oxford University Press	serial								
+Proceedings of the London Mathematical Society	0024-6115	1460-244X	1996	3		2015	111		plms		plms		fulltext		Oxford University Press	serial								
+Political Analysis	1047-1987	1476-4989	1998	7		2015	23		polana		polana		fulltext		Oxford University Press	serial								
+Public Opinion Quarterly	0033-362X	1537-5331	1997	61		2015	79		poq		poq		fulltext		Oxford University Press	serial								
+The Philosophical Quarterly	0031-8094	1467-9213	1996	46		2015	65		pq		pq		fulltext		Blackwell Publishers Ltd	serial								
+Protein Engineering	1741-0126	1741-0134	1996	9		2015	28		proeng		proeng		fulltext		Oxford University Press	serial								
+Poultry Science	0032-5791	1525-3171	1996	75		2015	94		ps		ps		fulltext		Oxford University Press	serial								
+Publius: The Journal of Federalism	0048-5950	1747-7107	1997	27		2015	45		pubjof		pubjof		fulltext		Oxford University Press	serial								
+Journal of Public Health	1741-3842	1741-3850	1996	18		2015	37		pubmed		pubmed		fulltext		Oxford University Press	serial								
+The Quarterly Journal of Economics	0033-5533	1531-4650	1996	111		2015	130		qje		qje		fulltext		MIT Press	serial								
+The Quarterly Journal of Mechanics and Applied Mathematics	0033-5614	1464-3855	1996	49		2015	68		qjmamj		qjmamj		fulltext		Oxford University Press	serial								
+QJM: An International Journal of Medicine	1460-2725	1460-2393	1996	89		2015	108		qjmedj		qjmedj		fulltext		Oxford University Press	serial								
+The Quarterly Journal of Mathematics	0033-5606	1464-3847	1996	47		2015	66		qmathj		qmathj		fulltext		Oxford University Press	serial								
+Review of Asset Pricing Studies	2045-9920	2045-9939	2011	1		2015	5		raps		raps		fulltext		Oxford University Press	serial								
+The Review of Corporate Finance Studies	2046-9128	2046-9136	2012	1		2015	4		rcfs		rcfs		fulltext		Oxford University Press	serial								
+International Journal of Refugee Law	0953-8186	1464-3715	1996	8		2015	27		reflaw		reflaw		fulltext		Oxford University Press	serial								
+Refugee Survey Quarterly	1020-4067	1471-695X	1997	16		2015	34		refqtl		refqtl		fulltext		Oxford University Press	serial								
+Journal of Refugee Studies	0951-6328	1471-6925	1996	9		2015	28		refuge		refuge		fulltext		Oxford University Press	serial								
+The Review of Economic Studies	0034-6527	1467-937X	1996	63		2015	82		restud		restud		fulltext		Wiley-Blackwell	serial								
+Research Evaluation	0958-2029	1471-5449	1996	6		2015	24		rev		rev		fulltext		Beech Tree Publishing	serial								
+The Review of English Studies	0034-6551	1471-6968	1996	49		2015	66		revesj		revesj		fulltext		Oxford University Press	serial								
+Radiation Protection Dosimetry	0144-8420	1742-3406	1996	63		2015	167		rpd		rpd		fulltext		Oxford University Press	serial								
+Screen	0036-9546	1460-2474	1997	38		2015	56		screen		screen		fulltext		Oxford University Press	serial								
+Journal of Semantics	0167-5133	1477-4593	1996	13		2015	32		semant		semant		fulltext		Oxford University Press	serial								
+Journal of Semitic Studies	0022-4480	1477-8556	1997	47		2014	59		semitj		semitj		fulltext		Oxford University Press	serial								
+Social Forces	0037-7732	1534-7605	1995	74		2015	93		sf		sf		fulltext		The University of North Carolina Press	serial								
+Social History of Medicine	0951-631X	1477-4666	1996	9		2015	28		sochis		sochis		fulltext		Oxford University Press	serial								
+British Journal of Social Work	0045-3102	1468-263X	1996	26		2015	45		social		social		fulltext		Oxford University Press	serial								
+Social Politics: International Studies in Gender, State & Society	1072-4745	1468-2893	1997	4		2015	22		socpol		socpol		fulltext		Oxford University Press	serial								
+Social Problems	0037-7791	1533-8533	1996	43		2015	62		socpro		socpro		fulltext		Oxford University Press	serial								
+Sociology of Religion	1069-4404	1759-8818	1997	58		2015	76		socrel		socrel		fulltext		Oxford University Press	serial								
+Science and Public Policy	0302-3427	1471-5430	1996	23		2015	42		spp		spp		fulltext		Beech Tree Publishing	serial								
+Statute Law Review	0144-3593	1464-3863	1997	18		2015	36		stalaw		stalaw		fulltext		Oxford University Press	serial								
+Social Work	0037-8046	1545-6846	1996	41		2015	60		sw		sw		fulltext		Oxford University Press	serial								
+Social Work Research	1070-5309	1545-6838	1996	20		2015	39		swr		swr		fulltext		Oxford University Press	serial								
+Systematic Biology	1063-5157	1076-836X	1996	45		2015	64		sysbio		sysbio		fulltext		Oxford University Press	serial								
+Trusts & Trustees	1752-2110	1363-1780	1995	2		2015	21		tandt		tandt		fulltext		Oxford University Press	serial								
+The Journal of Theological Studies	0022-5185	1477-4607	1996	47		2015	66		theolj		theolj		fulltext		Oxford University Press	serial								
+Toxicological Sciences	1096-6080	1096-0929	1996	29		2015	148		toxsci		toxsci		fulltext		Oxford University Press	serial								
+Journal of Tropical Pediatrics	0142-6338	1465-3664	1996	42		2015	61		tropej		tropej		fulltext		Oxford University Press	serial								
+Transactions of The Royal Society of Tropical Medicine and Hygiene	0035-9203	1878-3503	1996	90		2015	109		trstmh		trstmh		fulltext		Royal Society of Tropical Medicine and Hygiene	serial								
+Twentieth Century British History	0955-2359	1477-4674	1997	8		2015	26		tweceb		tweceb		fulltext		Oxford University Press	serial								
+Uniform Law Review - Revue de droit uniforme	1124-3694	2050-9065	1996	1		2015	20		ulr		ulr		fulltext		Oxford University Press	serial								
+The World Bank Economic Review	0258-6770	1564-698X	1996	10		2015	29		wber		wber		fulltext		Oxford University Press	serial								
+The World Bank Research Observer	0257-3032	1564-6971	1996	11		2015	30		wbro		wbro		fulltext		Oxford University Press	serial								
+Yearbook of European Law	0263-3264	2045-0044	1997	17		2014	33		yel		yel		fulltext		Oxford University Press	serial								
+Yearbook of International Environmental Law	0965-1721	2045-0052	1997	7		2014	24		yielaw		yielaw		fulltext		Oxford University Press	serial								
+The Year's Work in Critical and Cultural Theory	1077-4254	1471-681X	1997	7		2015	23		ywcct		ywcct		fulltext		Oxford University Press	serial								
+The Year's Work in English Studies	0084-4144	1471-6801	1997	75		2015	94		ywes		ywes		fulltext		Oxford University Press	serial								

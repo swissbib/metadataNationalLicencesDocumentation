@@ -1,0 +1,19 @@
+# Dependencies
+markdown:         kramdown
+
+# Permalinks
+permalink:        pretty
+
+
+# Setup
+title:            Swissbib
+tagline:          'Licences nationales'
+description:      'Licences nationales'
+url:              http://swissbib.lionelwalter.ch
+baseurl:          /
+
+author:
+  name:           'Lionel Walter'
+  url:            https://twitter.com/liowalter
+
+exclude: [deploy.sh, files.txt, deploy-last-commit.sh, passwords.sh, tables]

@@ -1,0 +1,5 @@
+|    21|PUBLIC  "-//NLM//DTD Journal Publishing DTD v2.1 20050630//EN" "journalpublishing.dtd">|
+|   177|PUBLIC  "-//NLM//DTD Journal Publishing DTD v2.2 20060430//EN" "journalpublishing.dtd">|
+|   303|PUBLIC  "-//NLM//DTD Journal Publishing DTD v2.0 20040830//EN" "journalpublishing.dtd">|
+| 14126|PUBLIC  "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1d1 20130915//EN" "JATS-journalpublishing1.dtd">|
+|610163|PUBLIC  "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">|

@@ -1,0 +1,3587 @@
+|     1|3D Research |
+|     1|AAPS Open|
+|     1|Brain Structure and Function|
+|     1|Complex &amp; Intelligent Systems|
+|     1|Der Zauchter Zeitschrift fur Theoretische und Angewandte Genetik|
+|     1|Hernia|
+|     1|In Vitro Cellular &amp; Developmental Biology-Plant|
+|     1|Journal of Material Science|
+|     1|KSME International J|
+|     1|L1– Educational Studies in Language and Literature|
+|     1|Limnology|
+|     1|mUX: The Journal of Mobile User Experience|
+|     1|Zeitschrift für Gerontologie + Geriatrie|
+|     2|Beiträge und Referate zur Anatomie und Entwickelungsgeschichte|
+|     2|GSTF Journal of Geological Sciences (JGS)|
+|     2|In Silico Cell and Tissue Science|
+|     2|Journal of Mathematical Neuroscience|
+|     2|Pflüger, Archiv für die Gesammte Physiologie des Menschen und der Thiere|
+|     2|Technology and Economics of Smart Grids and Sustainable Energy|
+|     3|3D Printing in Medicine|
+|     3|Albrecht von Græfes Archiv für Ophthalmologie|
+|     3|Doklady Botanical Sciences|
+|     3|GSTF Journal of BioSciences (JBio)|
+|     3|GSTF Journal of Music (JMusic)|
+|     3|International Journal of Computer 11263on|
+|     3|Journal of Frugal Innovation|
+|     3|Scientific Phone Apps and Mobile Devices|
+|     4|GSTF Journal of Physics and Applications (JPA)|
+|     4|GSTF Journal on Aviation Technology (JAT)|
+|     4|Hu Nat|
+|     4|Journal of Chinese Management|
+|     4|Progress in STEM CELL|
+|     4|Review of Regional Research|
+|     4|Selecta Mathematica |
+|     4|Technology, Innovation and Education|
+|     5|Annals of PDE|
+|     5|Asia-Pacific Science Education|
+|     5|Current Psychology: Developmental • Learning • Personality • Social|
+|     5|Doklady Chemical Technology|
+|     5|Forschung auf dem Gebiete des Ingenieurwesens|
+|     5|GSTF Journal of Mathematics, Statistics and Operations Research (JMSOR)|
+|     5|Knowledge,Technology and Policy|
+|     5|L1–Educational Studies in Language and Literature|
+|     5|Taylor's Business Review (TBR)|
+|     5|The Forum|
+|     5|Wilhelm Roux'  Archiv für Entwicklungsmechanik der Organismen|
+|     6|Audio Visual Communication Review|
+|     6|Chinese Journal of Political Science|
+|     6|Complex Analysis and its Synergies|
+|     6|Food Digestion:  Research and Current Opinion|
+|     6|GSTF Journal of Veterinary Science (JVet)|
+|     6|International Journal for Educational Integrity|
+|     6|Journal of Optical and Fiber Communications Research|
+|     6|Journal of Pediatric Neuropsychology|
+|     6|Journal of Social and Economic Development|
+|     6|Kognitionswissenschaft|
+|     6|PharmacoEconomics - Italian Research Articles|
+|     6|Recherche Transports Sécurité - RTS|
+|     7|Anzeiger f\:ur Sch\:adlingskunde|
+|     7|Coaching | Theorie &amp; Praxis|
+|     7|Computational Cognitive Science|
+|     7|Computer Supported Cooperative Work|
+|     7|GSTF Journal of Chemical Sciences (JChem)|
+|     7|Journal for Interdisciplinary Research in Education (JIRE)|
+|     7|Journal of Food Measurement &amp; Characterization|
+|     7|Journal of the Knowledge Economy  |
+|     7|Journal of VLSI Signal Processing|
+|     7|Living Reviews in Solar Physics|
+|     7|Mechanics and Materials in Design|
+|     7|Mechanics of Advanced Materials and Modern Processes|
+|     7|Moroccan Journal of Pure and Applied Analysis|
+|     7|Oil amp: Soap|
+|     7|Regenerative Engineering and Translational Medicine|
+|     7|Re/Views in Environmental Science &amp; Bio/Technology|
+|     7|Surface Coatings International Part B|
+|     7|Transportation in Developing Economies|
+|     8|Academy of Marketing Science|
+|     8|Applied Nanoscience                    |
+|     8|Ethical Theory &amp; Moral Practice|
+|     8|Fuzzy Information and Engineering |
+|     8|Geometric and Functional Analysis |
+|     8|International Journal of Quality Innovation|
+|     8|Journal of Ambient Intelligence and Humanized Computing  |
+|     8|Journal of the Indian Academy of Wood Science |
+|     8|Journal of the Indian Society of Photo-Interpretation &amp; Remote Sensing|
+|     8|Pavlovian Journal of Biological Science|
+|     8|Science in China Ser. F Information Sciences|
+|     8|SEARCH: The Journal of the South East Asia Research Centre for Communication and Humanities|
+|     8|Software &amp; Systems Modeling |
+|     8|The Chemist’s Section of Cotton Oil Press|
+|     8|The Pavlovian journal of biological science: the official journal of the Pavlovian|
+|     8|Topics in Current Chemistry|
+|     8|Zeitschrift für Immobilienökonomie|
+|     8|Zentralblatt fü Didaktik der Mathematik|
+|     9|Acta Mathematica Sinica, English Series|
+|     9|Cancer Microenvironment |
+|     9|Der Züchter Zeitschrift für Theoretische und Angewandte Genetik|
+|     9|Digital Experiences in Mathematics Education|
+|     9|Fresenius Journal of Analytical Chemistry|
+|     9|GSTF Journal of General Philosophy (JPhilo)|
+|     9|Knowledge, Technology, &amp; Policy|
+|     9|Lingua Sinica|
+|     9|Logic and Analysis|
+|     9|Oesterreichische Botanische Zeitschrift|
+|     9|Oriental Pharmacy &amp; Experimental Medicine|
+|     9|Planetary Science|
+|     9|Pulmonary Therapy|
+|     9|Referate und Beiträge zur Anatomie und Entwickelungsgeschichte|
+|     9|Reviews on Reactive Species in Chemical Reactions|
+|     9|The European Journal of Health Economics|
+|     9|Transaction|
+|    10|Applied Water Science |
+|    10|Brain Tumor Pathology|
+|    10|Datenbank-Spektrum |
+|    10|Experimental Biology Online|
+|    10|Foundations of Physics |
+|    10| Inflammation Research|
+|    10|International Environmental Agreements: Politics, Law and Economics |
+|    10|International Journal of Euro-Mediterranean Studies|
+|    10|In Vitro Cellular amp; Developmental Biology|
+|    10|J Biosci|
+|    10|Journal of Cancer Survivorship |
+|    10|Textiles and Clothing Sustainability|
+|    10|The European Physical Journal B|
+|    10|The European Physical Journal D|
+|    11|10750obiologia|
+|    11|3 Biotech |
+|    11|Abhandlungen aus dem Mathematischen Seminar der Universitat Hamburg|
+|    11|Acta Endoscopica et Radiocinématographica|
+|    11|Annali Dell’Università Di Ferrara|
+|    11|Doklady Biophysics|
+|    11|Infrastructure Complexity|
+|    11|Journal of Signal Processing Systems |
+|    11|Marine Systems &amp; Ocean Technology|
+|    11|neurogenetics|
+|    11|Ocean Dynamics|
+|    11|Proceedings of the Indian Academy of Sciences - Section B. Part2, Plant Sciences|
+|    11|Science in China Series E Technological Sciences|
+|    11|Seminars in Immunopathology|
+|    11|The European Physical Journal E|
+|    11|The Irish Journal of Medical Science|
+|    11|Water Quality and Ecosystems Modeling|
+|    12|Brazilian Journal of Science and Technology|
+|    12|Debates in Neuroscience|
+|    12|Extremophiles|
+|    12|Finance and Stochastics|
+|    12|Journal of Cancer Survivorship:  Research and Practice|
+|    12|OR Spectrum|
+|    12|Proceedings of the Indian Academy of Sciences|
+|    12|Signal, Image and Video Processing |
+|    12|Soziale Probleme|
+|    12|The American Potato Journal|
+|    12|Tropical Technology Journal|
+|    13|Biophysics Reports|
+|    13|Cancer Immunology Immunotherapy|
+|    13|Clinical Phytoscience|
+|    13|coloproctology (deutschsprachig)|
+|    13|Communications in Mobile Computing|
+|    13|Computational Astrophysics and Cosmology|
+|    13|Deutsche Hydrographische Zeitschrift|
+|    13|Eating and Weight Disorders|
+|    13|Environment Systems &amp; Decisions|
+|    13|Future Cities and Environment|
+|    13|Geomechanics and Geophysics for Geo-Energy and Geo-Resources|
+|    13|In Vitro Cellular &amp; Developmental Biology – Animal|
+|    13|Journal of Mountain Science |
+|    13|Marine Biotechnology|
+|    13|Rare Cancers and Therapy|
+|    13|Technology Operation Management|
+|    14|Applied Physics B Photophysics and Laser Chemistry|
+|    14|Chinese Journal of Polymer Science|
+|    14|Clinical &amp; Translational Oncology|
+|    14|Cognition, Technology &amp; Work|
+|    14|Combination Products in Therapy|
+|    14|Die Weltwirtschaft|
+|    14|Folia Geobotanica &amp; Phytotaxonomica|
+|    14|International Journal of Geo-Engineering|
+|    14|Journal d Analyse Mathematique|
+|    14|Journal of Comparative Germanic Linguistics|
+|    14|Journal of Interaction Science|
+|    14|Journal of Reliable Intelligent Environments|
+|    14|Journal of the American Oil Chemist’ Society|
+|    14|KI - Künstliche Intelligenz |
+|    14|ProCare|
+|    14|Production Engineering |
+|    14|Sexuality Research and Social Policy Journal of NSRC|
+|    15|Advanced Structural and Chemical Imaging|
+|    15|Applied Physics A Solids and Surfaces|
+|    15|Bulletin Gæodésique|
+|    15|Chinese Annals of Mathematics|
+|    15|European Cytokine Network|
+|    15|GSTF Journal on Education (JEd)|
+|    15|Intensivmedizin und Notfallmedizin |
+|    15|Journal of Molecular Modeling|
+|    15|Kind adolescent praktijk|
+|    15|Kolloid-Zeitschrift &amp; Zeitschrift für Polymere|
+|    15|Psychological Studies |
+|    15|Rivista Internazionale di Scienze Economiche e Commerciali|
+|    15|Science in China Series F Information Sciences|
+|    15|The Computer Games Journal|
+|    16|Annali di Matematica Pura ed Applicata, Series 4|
+|    16|Applied Informatics|
+|    16|Asia Pacific Journal on Computational Engineering|
+|    16|Canadian Journal of Anesthesia/Journal canadien d’anesthésie|
+|    16|Ceskoslovenská Mikrobiologie|
+|    16|Graefe’s Archive for Clinical and Experimental Ophthalmology|
+|    16|GSTF Journal on Media &amp; Communications (JMC)|
+|    16|In Vitro Cellular &amp;Developmental Biology|
+|    16|Journal of Urban Health |
+|    16|Naunyn-Schmiedeberg’s Archives of Pharmacology|
+|    16|Psychology of Well-Being: Theory, Research and Practice|
+|    17|BIT|
+|    17|Decision Analytics|
+|    17|GSTF Journal of Advances in Medical Research  (JAMR)|
+|    17|Indian Journal of International Law|
+|    17|International Journal of Pancreatology |
+|    17|Jindal Global Law Review|
+|    17|Journal Africain d’Hépato-Gastroentérologie|
+|    17|Journal of Computational Surgery|
+|    17|Journal of Material Cycles and Waste Management|
+|    17|Journal of Religious Education|
+|    17|Journal of the Economic Science Association|
+|    17|Knowledge and Information Systems|
+|    17|Management Review Quarterly|
+|    17|Odontology|
+|    17|Proceedings of the Indian Academy of Sciences - Section A. Part 3, Mathematical Sciences|
+|    17|São Paulo Journal of Mathematical Sciences|
+|    17|Urban Rail Transit|
+|    18|Algebras and Representation|
+|    18|arktos|
+|    18|ChemTexts|
+|    18|Childs Nervous System|
+|    18|Current Psychosis and Therapeutics Reports|
+|    18|European Journal of Clinical Microbiology &amp; Infectious Diseases|
+|    18|Fire Science Reviews|
+|    18|International Journal of Research in Undergraduate Mathematics Education|
+|    18|Journal of Materials Science:  Materials in Electronics|
+|    18|Lasers in Manufacturing and Materials Processing|
+|    18|Proceedings of the Indian Academy of Sciences - Section A. Part 2, Earth and Planetary Sciences|
+|    18|Revista Latinoamericana de Biotecnología Ambiental y Algal|
+|    18|Sleep and Biological Rhythms|
+|    18|The European Physical Journal A|
+|    18| Zeitschrift für angewandte Mathematik und Physik ZAMP|
+|    19|Fresenius’ Zeitschrift für Analytische Chemie|
+|    19|GSTF Journal of Law and Social Sciences (JLSS)|
+|    19|Journal of Quantitative Economics|
+|    19|Journal of Service Science|
+|    19|Molecules|
+|    19|Pacific Journal of Mathematics for Industry|
+|    19|Science in China Ser. E Engineering &amp; Materials Science|
+|    19|Theory of Computing Systems|
+|    20|Bioprocess and Biosystems Engineering|
+|    20|Current Molecular Biology Reports|
+|    20|Economia e Politica Industriale|
+|    20|Economia Politica|
+|    20|Financial Innovation|
+|    20|International Journal of Health Economics and Management|
+|    20|Italian Economic Journal|
+|    20|Medical &amp; Biological Engineering|
+|    20|Optical Nanoscopy|
+|    20|Pattern Analysis and Applications|
+|    20|Population Ecology|
+|    20|Protection of Metals and Physical Chemistry of Surfaces |
+|    20|Renewables: Wind, Water, and Solar|
+|    20|Rheumatology and Therapy|
+|    20|Scientific Modeling and Simulation SMNS|
+|    20|The Journal of Bioethics|
+|    20|The Journal of Mathematical Neuroscience (JMN)|
+|    21|Current Pollution Reports|
+|    21|Information Retrieval Journal|
+|    21|Journal of Developmental and Life-Course Criminology|
+|    21|Journal of Reducing Space Mission Cost|
+|    21|Large-scale Assessments in Education|
+|    21|Lexicography|
+|    21|List Forum für Wirtschafts- und Finanzpolitik|
+|    21|Regional Environmental Change|
+|    21|The Journal of the American Oil Chemists’ Society|
+|    21|Virtual Reality|
+|    22|Adverse Drug Reactions and Toxicological Reviews|
+|    22|Asia-Pacific Journal of Innovation in Hospitality and Tourism (APJIHT)|
+|    22|China Finance and Economic Review|
+|    22|Chinese Journal of Mechanical Engineering|
+|    22|EPJ Nonlinear Biomedical Physics|
+|    22|EPJ Techniques and Instrumentation|
+|    22|International Journal of Asian Management|
+|    22|Journal of Trust Management|
+|    22|NTM International Journal of History and Ethics of Natural Sciences, Technology and Medicine|
+|    22|Optical Networks Magazine|
+|    22|Requirements Engineering|
+|    22|Science in China (Series G)|
+|    23|Animal Cognition|
+|    23|Bandung: Journal of the Global South|
+|    23|Clinical Oral Investigations|
+|    23|Current Forestry Reports|
+|    23|Drug Safety - Case Reports|
+|    23|Functional Linguistics|
+|    23|GSTF Journal of Psychology (JPsych)|
+|    23|International Journal of Dharma Studies|
+|    23|Jewish Sociology &amp; Social Research|
+|    23|Journal of Computer-Assisted Microscopy|
+|    23|Micro and Nano Systems Letters|
+|    23|Petroleum Geology &amp; Experiment|
+|    23|Photonic Network Communication|
+|    23|Quantitative Microbiology|
+|    23|Smart Learning Environments|
+|    23|Techniques in Coloproctology|
+|    23|The Journal of Chinese Sociology|
+|    24|Business Research|
+|    24|Current Attention Disorders Reports|
+|    24|Der Urologe A|
+|    24|European Journal of Nuclear Medicine and Molecular Imaging|
+|    24|International Journal of Food Contamination|
+|    24|Korean Social Science Journal|
+|    24|La Rivista del Nuovo Cimento|
+|    24|Psychology of Well-Being|
+|    24|Pure and Applied Geophysics PAGEOPH|
+|    24|Science in China Series E: Technolgical Science|
+|    24|Science in China Series F|
+|    24|System Familie|
+|    25|Brain Informatics|
+|    25|Computational Social Networks|
+|    25|Current Clinical Microbiology Reports|
+|    25|Emission Control Science and Technology|
+|    25|Journal of Open Innovation: Technology, Market, and Complexity|
+|    25|PharmacoEconomics&amp; Outcomes News Weekly|
+|    25|Science in China Series E: Technological Science|
+|    25|Software - Concepts &amp; Tools|
+|    25|The European Physical Journal C|
+|    25|Transportation Infrastructure Geotechnology|
+|    26|Aegean Review of the Law of the Sea and Maritime Law|
+|    26|Biologics in Therapy|
+|    26|Current Pulmonology Reports|
+|    26|International Journal of Systems Assurance Engineering and Management|
+|    26|Journal of Micro-Bio Robotics|
+|    26|Papers on Non-market Decision Making|
+|    26|Psycho Praktijk|
+|    27|Complex Adaptive Systems Modeling|
+|    27|Current Stem Cell Reports|
+|    27|Deutsche Zeitschrift für  Chirurgie|
+|    27|General Thoracic and Cardiovascular Surgery |
+|    27|Gerōn|
+|    27|Hungarica Acta Physica|
+|    27|Informatik Spektrum|
+|    27|Journal of Radioanalytical and Nuclear Chemistry Articles|
+|    27|Journal of Software Engineering Research and Development|
+|    27|Knowledge, Technology and Policy|
+|    27|Research and Practice in Technology Enhanced Learning|
+|    28|Arnold Mathematical Journal|
+|    28|ASEAN Heart Journal|
+|    28|City, Territory and Architecture|
+|    28|Current Climate Change Reports|
+|    28|Earth Perspectives|
+|    28|Empirical Research in Vocational Education and Training|
+|    28|International Communication of Chinese Culture|
+|    28|JA Clinical Reports|
+|    28|Journal of Sustainable Metallurgy|
+|    28|Latin American Economic Review|
+|    28|Networking Science|
+|    28|The GENEVA Risk and Insurance Review|
+|    28|Wuhan University Journal of Natural Sciences A|
+|    29|European Food Research and Technology|
+|    29|Evolutionary Psychological Science|
+|    29|Journal of Marine Science and Technology|
+|    29|Neurological Sciences|
+|    29|New Zealand Journal of Educational Studies|
+|    29|Pflügers Archiv European Journal of Physiology|
+|    29|Pharmaceutical Development and Regulation|
+|    29|Proceedings of the Indian Academy of Sciences - Section B. Part 3, Plant Sciences|
+|    29|QME|
+|    29|Research in Number Theory|
+|    29|Robotics and Biomimetics|
+|    29|Sozial- und Präventivmedizin SPM|
+|    29|Translational Respiratory Medicine|
+|    30|Clean Technologies and Environmental Policy|
+|    30|Current Treatment Options in Rheumatology|
+|    30|Experimental Mechanics |
+|    30|Fortschrittsberichte über Kolloide und Polymere|
+|    30|Information Technology &amp; Tourism|
+|    30|Intelligent Industrial Systems|
+|    30|International Review on Public and Non Profit Marketing|
+|    30|Journal of Bio- and Tribo-Corrosion|
+|    30|Journal of General Internal Medicine |
+|    30|Journal of Solid Phase Biochemistry|
+|    30|Proceedings of the Indian Academy of Sciences - Section A, Earth and Planetary Sciences|
+|    30|Triple Helix|
+|    30|World Journal of Microbiology &amp; Biotechnology|
+|    31|Computational Visual Media|
+|    31|Current Sleep Medicine Reports|
+|    31|GAFA Geometric And Functional Analysis|
+|    31|Global Business Perspectives|
+|    31|Indian Journal of Gynecologic Oncology|
+|    31|Journal of Solid State Lighting|
+|    32|Acoustics Australia|
+|    32|Adaptive Human Behavior and Physiology|
+|    32|Culture and Brain|
+|    32|Current Trauma Reports|
+|    32|Der Urologe B|
+|    32|GSTF Journal on Business Review (GBR)|
+|    32|Journal of Mathematics in Industry|
+|    32|Journal of Ocean Engineering and Marine Energy|
+|    32|Journal of Service Science Research|
+|    32|Magma|
+|    32|Somnologie - Zeitschrift für Schlafforschung und Schlafmedizin|
+|    32|Spatial Demography|
+|    33|Bioanalytical Reviews|
+|    33|Geoenvironmental Disasters|
+|    33|Geoscience Letters|
+|    33|International Journal of STEM Education|
+|    33|Journal of Solid State Electrochemistry|
+|    33|Medical Toxicology|
+|    33|Multilingual Education|
+|    33|Sustainable Water Resources Management|
+|    33|Tijdschrift voor Ouderengeneeskunde|
+|    33|Zeitschrift für Didaktik der Naturwissenschaften|
+|    34|European Journal of Nutrition |
+|    34|GSTF Journal of Engineering Technology (JET)|
+|    34|GSTF Journal of Nursing and Health Care (JNHC)|
+|    34|Indian Journal of Otolaryngology &amp; Head and Neck Surgery|
+|    34|Informatik-Spektrum|
+|    34|International Journal of Implant Dentistry|
+|    34|International Journal of Politics, Culture, and Society IJPS|
+|    34|Journal of Aeronautics and Space Technologies (Havacilik ve Uzay Teknolojileri Dergisi)|
+|    34|Science in China Series B|
+|    34|Science in China Series C|
+|    34|Science in China Series E|
+|    34|Supervisie en Coaching, 2005|
+|    35|Current Treatment Options in Pediatrics|
+|    35|Health &amp; Justice|
+|    35|Journal of Indian Council of Philosophical Research|
+|    35|Journal of Statistical Distributions and Applications|
+|    35|Springer Science Reviews|
+|    36|Catalysis Surveys from Japan|
+|    36|Current GERD Reports|
+|    36|Food Digestion|
+|    36|Global Social Welfare|
+|    36|Journal of Big Data|
+|    36|Journal of Systems Chemistry|
+|    36|Molecules Online|
+|    36|Science in China Series G: Physics and Astronomy|
+|    36|The Journal of prevention|
+|    37|Annales mathématiques du Québec|
+|    37|Asian Journal of Gambling Issues and Public Health|
+|    37|Conditional Reflex|
+|    37|Erziehungswissenschaft|
+|    37|Glycosylation &amp; Disease|
+|    37|International Journal of Clinical Oncology|
+|    37|Magma: Magnetic Resonance Materials in Physics, Biology, and Medicine|
+|    37|Neurology and Therapy|
+|    37|Revista de la Real Academia de Ciencias Exactas, Físicas y Naturales. Serie A. Matemáticas|
+|    37|Southern Journal of Criminal Justice|
+|    37|The HUGO Journal|
+|    37|Theoretical Chemistry Accounts|
+|    37|Türk Fizyoterapi ve Rehabilitasyon Dergisi/Turkish Journal of Physiotherapy and Rehabilitation|
+|    37|Zeitschrift für Europäisches Unternehmens- und Verbraucherrecht|
+|    38|Clinical Reviews in Allergy and Immunology|
+|    38|Contemporary School Psychology: Formerly "The California School Psychologist"|
+|    38|In Silico Pharmacology|
+|    38|Journal of Experimental Orthopaedics|
+|    38|The journal of Unified Science|
+|    39|Bollettino dell'Unione Matematica Italiana|
+|    39|Chinese Journal of Integrated Medicine|
+|    39|Development Genes and Evolution|
+|    39|EPJ Quantum Technology|
+|    39|International Journal of Geosynthetics and Ground Engineering|
+|    39|Medisch Farmaceutische Mededelingen|
+|    39|Science in China Series E Engineering &amp; Materials Science|
+|    39|Zeitschrift für Bevölkerungswissenschaft|
+|    40|Current Sustainable/Renewable Energy Reports|
+|    40|Diabetologia Notes de lecture|
+|    40|Journal of Dynamic Behavior of Materials|
+|    40|Pure and Applied Geophysics |
+|    40|Research in the Mathematical Sciences|
+|    40|ROBOMECH Journal|
+|    41|Aggiornamenti CIO|
+|    41|EURASIP Journal on Information Security|
+|    41|Gastric Cancer|
+|    41|International Journal of Applied and Computational Mathematics|
+|    41|Journal of Gender, Culture and Health|
+|    41|Journal of Global Policy and Governance|
+|    41|Journal of Real Estate Literature|
+|    41|Ophthalmology and Therapy|
+|    41|Pain and Therapy|
+|    42|Annals of Data Science|
+|    42|Basic and Clinical Andrology|
+|    42|Current Pharmacology Reports|
+|    42|EURO Journal on Computational Optimization|
+|    42|Journal of Global Entrepreneurship Research|
+|    42|Journal of Psychosocial Rehabilitation and Mental Health|
+|    42|Progress in Biomaterials|
+|    42|Prospects in Education|
+|    42|Quarterly Journal of the Belgian, French and Italian Operations Research Societies|
+|    42|Recherche Transports Sécurité|
+|    42|Sports Medicine - Open|
+|    42|The Behavior Analyst|
+|    43|Annals of Solid and Structural Mechanics|
+|    43|Brain Cell Biology|
+|    43|CallCenter INTERNATIONAL|
+|    43|China Accounting and Finance Review|
+|    43|Der Ophthalmologe|
+|    43|Journal of Remanufacturing|
+|    43|Open Systems and Information Dynamics|
+|    43|Science in China Series G|
+|    43|Zeitschrift für Weiterbildungsforschung - Report|
+|    44|Biotribune Magazine|
+|    44|International Journal of Artificial Intelligence in Education|
+|    44|Journal of Computers in Education|
+|    44|Sensing and Imaging|
+|    44|Visualization in Engineering|
+|    44|Wiener botanische Zeitschrift|
+|    45|Forest Science and Practice|
+|    45|Journal of Applied Volcanology|
+|    45|Journal of Electronics|
+|    45|Life Sciences, Society and Policy|
+|    45|Shape Memory and Superelasticity|
+|    45|Space Debris|
+|    45|The Analysis of Verbal Behavior|
+|    46|11061hilologus|
+|    46|Economic design|
+|    46|Functional Analysis and Other Mathematics|
+|    46|Integrating Materials and Manufacturing Innovation|
+|    46|IZA Journal of Labor Economics|
+|    46|Journal of Economic Structures|
+|    46|Journal of Neural Transmission |
+|    46|Theoretical and Experimental Plant Physiology|
+|    47|Acta Juridica Hungarica|
+|    47|Der Urologe|
+|    47|European Journal of Mathematics|
+|    47|Fresenius Zeitschrift für Analytische Chemie|
+|    47|Geothermal Energy|
+|    47|Journal of population|
+|    47|Vietnam Journal of Computer Science|
+|    48|Frontiers of Electrical and Electronic Engineering|
+|    48|Learning Inquiry|
+|    48|Revista Chilena de Historia Natural|
+|    48|The Forum for Social Economics|
+|    49|Asian Journal of Business Ethics|
+|    49|BMSAP|
+|    49|Chemical and Biological Technologies in Agriculture|
+|    49|Current Psychological Reviews|
+|    49|Drugs - Real World Outcomes|
+|    49|EURO Journal on Decision Processes|
+|    49|In Vitro – Plant|
+|    49|Journal of Uncertainty Analysis and Applications|
+|    49|Maxillofacial Plastic and Reconstructive Surgery|
+|    49|Proceedings of the Indian Academy of Sciences - Section B, Animal Sciences|
+|    49|Proceedings of the Indian Academy of Sciences - Section B. Part 2, Plant Sciences|
+|    49|Spatial Cognition and Computation|
+|    50|Der Onkologe|
+|    50|Fashion and Textiles|
+|    50|Journal of Micro-Nano Mechatronics|
+|    50|Journal of the multihandicapped person|
+|    50|Journal on Data Semantics|
+|    50|Nano Convergence|
+|    50|Pflügers Archiv - European Journal of Physiology|
+|    51|Advanced Modeling and Simulation in Engineering Sciences|
+|    51|BioMedicine|
+|    51|Comparative Migration Studies|
+|    51|Der Orthopäde|
+|    51|Integrated Assessment|
+|    51|Mondhygienisten vademecum|
+|    52|Bioethics Quarterly|
+|    52|Mine Water and the Environment|
+|    52|Quantum Studies: Mathematics and Foundations|
+|    52|Sleep &amp; Breathing|
+|    52|The International Entrepreneurship and Management Journal|
+|    52|Tijdschrift voor Gerontologie en Geriatrie, 2007|
+|    52|Urology and Nephrology|
+|    53|Agricultural and Food Economics|
+|    53|Cardiology and Therapy|
+|    53|International Journal of Mechanical and Materials Engineering|
+|    53|Journal of Biorheology|
+|    53|Mathematical Methods of Operations Research|
+|    53|Virchows Archiv B Cell Pathology Including Molecular Pathology|
+|    54|Intensivmedizin + Notfallmedizin|
+|    54|Psychopraxis, jaargang 2005|
+|    55|ATZagenda|
+|    55|Biomedical Research and Therapy|
+|    55|Customer Needs and Solutions|
+|    55|Giornale Italiano di Health Technology Assessment|
+|    55|Mammal Research|
+|    55|Stochastic Partial Differential Equations: Analysis and Computations|
+|    55|Tropical Plant Pathology|
+|    56|Cancer Nanotechnology|
+|    56|Current Behavioral Neuroscience Reports|
+|    56|Financial Engineering and the Japanese Markets|
+|    57|Hematology and Cell Therapy|
+|    57|Journal of Innovation and Entrepreneurship|
+|    57|Journal of Neuro-Visceral Relations|
+|    57|Sensing and Imaging: An International Journal|
+|    58|Bulletin on General Relativity and Gravitation|
+|    58|China-EU Law Journal|
+|    58|Current Epidemiology Reports|
+|    58|Eurasian Economic Review|
+|    58|European Journal of Population|
+|    58|Forest Ecosystems|
+|    58|Grundwasser|
+|    58|International Journal of Fuzzy Systems|
+|    58|Journal of Orthopaedic Science|
+|    58|Proceedings of the Indian Academy of Sciences - Section A, Chemical Sciences|
+|    58|Psychologie en Gezondheid, jaargang 2007|
+|    58|Psychotherapeut|
+|    58|Quantitative Biology|
+|    58|Russian Journal of Physical Chemistry B, Focus on Physics|
+|    58|Technische Mechanik und Thermodynamik|
+|    59|Computational Particle Mechanics|
+|    59|Journal of Engineering Research|
+|    59|Journal of Optical and Fiber Communications Reports|
+|    59|Review Journal of Autism and Developmental Disorders|
+|    59|Review Journal of Chemistry|
+|    59|Security Informatics|
+|    59|Software and Systems Modeling|
+|    60|Boletín de la Sociedad Matemática Mexicana|
+|    60|Eurasian Business Review|
+|    60|Øst-økonomi|
+|    60|Science in China Series : Information Sciences|
+|    60|Zeitschrift für Parlamentsfragen|
+|    61|Applied Adhesion Science|
+|    61|Applied Hydrogeology|
+|    61|Bioethics News|
+|    61|Contemporary School Psychology|
+|    61|Crime Science|
+|    61|Current Tropical Medicine Reports|
+|    61|Informatik Forschung und Entwicklung|
+|    61|Journal of the Indian Society of Photo-Interpretation|
+|    61|Securitas Vialis|
+|    61|The Journal of Mathematical Neuroscience|
+|    62|Current Treatment Options in Infectious Diseases|
+|    62|Current Treatment Options in Psychiatry|
+|    62|Invertebrate Neuroscience|
+|    62|Journal of Advancement in Medicine|
+|    62|Knowledge in Society|
+|    62|Metallurgical and Materials Transactions E|
+|    62|The Astronomy and Astrophysics Review|
+|    63|Environmental psychology and nonverbal behavior|
+|    63|EURO Journal on Transportation and Logistics|
+|    63|European Congress of Radiology|
+|    63|Global Change and Human Health|
+|    63|Modeling Earth Systems and Environment|
+|    63|Rendiconti del Circolo Matematico di Palermo (1952 -)|
+|    63|Speculations in Science and Technology|
+|    63|The Review of Socionetwork Strategies|
+|    63|Tijdschrift Gerontologie en Geriatrie|
+|    64|Current Translational Geriatrics and Experimental Gerontology Reports|
+|    64|Materials for Renewable and Sustainable Energy|
+|    64|Reviews in Environmental Science and Biotechnology|
+|    64|The Journal of Medical Humanities and Bioethics|
+|    64|Zeitschrift für Zellforschung und Mikroskopische Anatomie Abt. B Chromosoma|
+|    65|Iconographia mycologica|
+|    65|Journal of The Institution of Engineers (India): Series E|
+|    65|Maritime Studies|
+|    65|Sustainable Chemical Processes|
+|    65|Trabajos de Investigacion Operativa|
+|    65|Water Air &amp; Soil Pollution|
+|    66|Control Theory and Technology|
+|    66|Current Developmental Disorders Reports|
+|    66|Current Treatment Options in Allergy|
+|    66|Der Gynäkologe|
+|    66|Ergebnisse der Physiologie und experimentellen Pharmakologie|
+|    66|Injury Epidemiology|
+|    66|La Chirurgia degli Organi di Movimento|
+|    66|Plant Reproduction|
+|    66|The Liverpool Law Review|
+|    67|CSI Transactions on ICT|
+|    67|GSTF Journal on Computing (JoC)|
+|    67|In Vitro - Plant|
+|    67|Journal of business market management|
+|    67|Progress in Artificial Intelligence|
+|    67|Virchows Archiv B Cell Pathology Zell-pathologie|
+|    68|BuR - Business Research|
+|    68|Economic Theory Bulletin|
+|    68|IZA Journal of Labor &amp; Development|
+|    68|Journal of Computer Virology and Hacking Techniques|
+|    68|Molecular modeling annual|
+|    68|PharmacoEconomics German Research Articles|
+|    68|Phytotherapie|
+|    68|The Journal of Sustainable Product Design|
+|    69|Allergo Journal International|
+|    69|Autoimmunity Highlights|
+|    69|Journal of agricultural ethics|
+|    69|Journal of Fetal Medicine|
+|    70|Current Oral Health Reports|
+|    70|EPJ Data Science|
+|    70|New Zealand Journal of Forestry Science|
+|    70|Onkopipeline|
+|    70|RACSAM - Revista de la Real Academia de Ciencias Exactas, Fisicas y Naturales. Serie A. Matematicas|
+|    70|The Chemical Educator|
+|    71|International Commerce Review|
+|    71|International Journal of Bipolar Disorders|
+|    71|Metallurgical and Materials Transactions|
+|    71|Netnomics|
+|    71|Paladyn|
+|    71|Psychopraxis, jaargang 2007|
+|    72|Alpine Botany|
+|    72|AMS Review|
+|    72|Bulletin of Mathematical Sciences|
+|    72|Communications in Mathematics and Statistics|
+|    72|European journal of intensive care medicine|
+|    72|Evidence-Based Integrative Medicine|
+|    72|Mineral Economics|
+|    73|Acta Linguistica Hungarica|
+|    73|Current Environmental Health Reports|
+|    73|Current Psychological Research|
+|    73|Current Psychosis &amp; Therapeutics Reports|
+|    73|Environmental Systems Research|
+|    73|GEM - International Journal on Geomathematics|
+|    73|Lithuanian mathematical transactions of the Academy of Sciences of the Lithuanian SSR|
+|    73|Paddy and Water Environment |
+|    74|Current Hepatology Reports|
+|    74|Intensive Care Medicine Experimental|
+|    74|International Journal of Crashworthiness|
+|    74|Journal of Minerals, Metals and Materials Society|
+|    74|Journal of The Institution of Engineers (India): Series D|
+|    74|Orthopaedics and Traumatology|
+|    75|Science in China Series A|
+|    75|Tijdschrift voor Neuropsychiatrie en Gedragsneurologie|
+|    76|European Journal of Futures Research|
+|    76|Hydrogeology Journal|
+|    76|Mathematical transactions of the Academy of Sciences of the Lithuanian SSR|
+|    76|Progress in Earth and Planetary Science|
+|    77|Identity in the Information Society|
+|    77|IZA Journal of Labor Policy|
+|    77|Japanese Journal of Mathematics|
+|    77|Journal of Ocean University of Qingdao|
+|    77|Journal of the American Aging Association|
+|    77|Nederlands Tijdschrift voor Traumachirurgie|
+|    77|Psychopraxis, jaargang 2006|
+|    78|Annali dell’Università’ di Ferrara|
+|    78|Computers and translation|
+|    78|Current Addiction Reports|
+|    78|Ergebnisse der Physiologie Biologischen Chemie und Experimentellen Pharmakologie|
+|    78|Expert Evidence|
+|    78|Journal of Rational Emotive Therapy|
+|    78|Organic and Medicinal Chemistry Letters|
+|    80|Accreditation and Quality Assurance|
+|    80|Bioresources and Bioprocessing|
+|    80|Current Transplantation Reports|
+|    80|International Journal of Mining Engineering|
+|    80|Mangroves and Salt Marshes|
+|    81|Behavior Analysis in Practice|
+|    81|e-Neuroforum|
+|    81|Genomic Medicine|
+|    81|IZA Journal of European Labor Studies|
+|    81|Journal of Comparative Policy Analysis|
+|    81|Psychologie &amp; gezondheid|
+|    81|Research in Clinic and Laboratory|
+|    81|The Science of Nature|
+|    82|Acta Physica Hungarica Series B, Quantum Electronics|
+|    82|Technology, Knowledge and Learning|
+|    82|The International Sports Law Journal|
+|    83|Archives of Suicide Research|
+|    83|Current Genetic Medicine Reports|
+|    83|Current Geriatrics Reports|
+|    83|Die Naturwissenschaften|
+|    83|JBIC Journal of Biological Inorganic Chemistry|
+|    83|JCT Research|
+|    84|Bundesgesundheitsblatt Gesundheitsforsch.Gesundheitsschutz|
+|    84|Current Ophthalmology Reports|
+|    84|Ichthyological Research|
+|    84|Journal of Analytical Science and Technology|
+|    84|Journal of Cloud Computing|
+|    84|Swiss journal of hydrology|
+|    85|Acta Mathematica Academiae Scientiarum Hungaricae|
+|    85|Archival Informatics Newsletter|
+|    85|Bulletins et mémoires de la Société d'anthropologie de Paris|
+|    85|Ecological Processes|
+|    85|Revista de Universidad y Sociedad del Conocimiento|
+|    85|The journal of Human Justice|
+|    86|IZA Journal of Migration|
+|    86|Molecular and Cellular Pediatrics|
+|    86|Östereichische Zeitschrift für Soziologie|
+|    86|The Journal of VLSI Signal Processing Systems for Signal, Image, and Video Technology|
+|    86|Zeitschrift für ArbeitsmarktForschung|
+|    87|Botanica Helvetica|
+|    87|History and Philosophy of the Life Sciences|
+|    87|International Journal of Multimedia Information Retrieval|
+|    87|Journal of Infection and Chemotherapy|
+|    87|Medical &amp; Surgical Dermatology|
+|    87|Paediatric Drugs|
+|    88|Cardiovascular Engineering: An International Journal|
+|    88|Current Emergency and Hospital Medicine Reports|
+|    88|Grammars|
+|    88|International Journal of Child Care and Education Policy|
+|    88|Journal of Mathematical Modelling and Algorithms in Operations Research|
+|    88|Language Testing in Asia|
+|    88|Mathematical Programming Computation|
+|    88|Medicine Studies|
+|    88|The Journal of Nutrition Health and Aging|
+|    89|Interactive Surgery|
+|    89|International Journal of Coal Science &amp; Technology|
+|    89|Pharmacologia Clinica|
+|    90|Cardiovascular radiology|
+|    90|Československá Mikrobiologie|
+|    90|Journal d’Analyse Mathematique|
+|    90|Journal of Medical and Biological Engineering|
+|    90|Journal of the American Oil Chemist’s Society|
+|    90|Physics of condensed matter|
+|    91|Current Pediatrics Reports|
+|    91|International Journal of Precision Engineering and Manufacturing-Green Technology|
+|    93|Aquarium Sciences and Conservation|
+|    93|Fudan Journal of the Humanities and Social Sciences|
+|    93|Journal for Labour Market Research|
+|    93|Journal of Homotopy and Related Structures|
+|    93|Lettera Matematica|
+|    93|Swiss Journal of Palaeontology|
+|    94|Annalen der Philosophie|
+|    94|Comparative Clinical Pathology |
+|    94|Current Respiratory Care Reports|
+|    94|De Verpleegkundig Specialist|
+|    94|Korean Journal of Computational and Applied Mathematics|
+|    95|Journal of Market-Focused Management|
+|    95|Materiae vegetabiles|
+|    96|American Journal of Respiratory Medicine|
+|    96|Current Pathobiology Reports|
+|    96|Infectious Diseases and Therapy|
+|    96|Metamedicine|
+|    96|Science in China Series D|
+|    96|The VLDB Journal|
+|    97|Dermatology and Therapy|
+|    97|Directieve therapie|
+|    97|Friction|
+|    97|Zeitschrift für Physik C: Particles and Fields|
+|    98|European Clinics in Obstetrics and Gynaecology|
+|    98|Frontiers of Information Technology &amp; Electronic Engineering|
+|    98|Human-centric Computing and Information Sciences|
+|    98|Journal of the Operations Research Society of China|
+|    99|Computer Science in Economics and Management|
+|    99|International Aquatic Research|
+|    99|International Journal of Intelligent Transportation Systems Research|
+|   100|American Journal of Drug Delivery|
+|   100|Applied Bioinformatics|
+|   100|CEAS Space Journal|
+|   100|Current Otorhinolaryngology Reports|
+|   100|Journal of Radiosurgery|
+|   100|Medical Toxicology and Adverse Drug Experience|
+|   101|Analytical and Bioanalytical Chemistry|
+|   101|Current Physical Medicine and Rehabilitation Reports|
+|   101|Heritage Science|
+|   101|La Rivista del Nuovo Cimento (1971-1977)|
+|   102|Analysis and Mathematical Physics|
+|   102|Central European Journal of Computer Science|
+|   102|International Journal of Rehabilitation and Health|
+|   102|Journal of Clinical Geropsychology|
+|   102|Journal of Cryptographic Engineering|
+|   102|Toxicological Reviews|
+|   103|hautnah|
+|   103|L1-Educational Studies in Language and Literature|
+|   104|Environmental Chemistry Letters |
+|   104|International Journal of Advanced Structural Engineering (IJASE)|
+|   104|International Journal of Recycling of Organic Waste in Agriculture|
+|   104|Operations Management Research|
+|   104|Sankhya B|
+|   105|Applied Mathematics|
+|   105|Biointerphases|
+|   105|NETNOMICS: Economic Research and Electronic Networking|
+|   106|Geologie en Mijnbouw|
+|   107|Acta Geodaetica et Geophysica|
+|   107|Journal of Ocular Biology, Diseases, and Informatics|
+|   107|Science China Materials|
+|   108|Bio tribune magazine|
+|   108|Eclogae Geologicae Helvetiae|
+|   108|Global Journal of Flexible Systems Management|
+|   108|Huisarts Nu|
+|   108|Journal of Psychology and Judaism|
+|   108|Pharmaceutical Innovation|
+|   108|Sociological Practice|
+|   109|Brain and Mind|
+|   109|DECISION|
+|   109|Ergebnisse der Physiologie, biologischen Chemie und experimentellen Pharmakologie|
+|   109|Journal of Computational Analysis and Applications|
+|   109|Network Modeling Analysis in Health Informatics and Bioinformatics|
+|   109|Sankhya A|
+|   110|European Journal for Philosophy of Science|
+|   110|gedrag en gezondheid|
+|   110|Journal of Aquatic Ecosystem Stress and Recovery|
+|   110|Journal of gambling behavior|
+|   110|Organic Agriculture|
+|   110|Public Transport|
+|   110|wissen kompakt|
+|   111|International Environmental Agreements|
+|   111|Journal of Solid-Phase Biochemistry|
+|   113|Environmental Processes|
+|   113|Integrative Physiological &amp; Behavioral Science|
+|   113|Journal of Aging and Identity|
+|   113|Journal of Racial and Ethnic Health Disparities|
+|   113|Papers in Regional Science|
+|   113|Wiener klinische Wochenschrift Education|
+|   114|II Nuovo Cimento|
+|   115|Health and Technology|
+|   115|Swarm Intelligence|
+|   116|European Actuarial Journal|
+|   116|Journal für Betriebswirtschaft|
+|   116|Small-scale Forest Economics, Management and Policy|
+|   117|Archaeology, Ethnology and Anthropology of Eurasia|
+|   118|Electrical Engineering|
+|   118|Netherlands journal of psychology|
+|   118|Reviews of Chemical Intermediates|
+|   118|Veterinary Science Communications|
+|   118|VirusDisease|
+|   118|Zeitschrift für Hydrologie|
+|   119|Current Surgery Reports|
+|   119|Food Engineering Reviews|
+|   119|Journal of Population Ageing|
+|   120|International Journal of Concrete Structures and Materials|
+|   120|International Journal of Industrial Chemistry|
+|   120|MTZ industrial|
+|   120|Zeitschrift für Management|
+|   121|Energy, Sustainability and Society|
+|   121|Journal of Cryptology|
+|   121|Vegetation History and Archaeobotany|
+|   122|Journal of Psychotherapy Integration|
+|   123|Advances in Manufacturing|
+|   123|Current Dermatology Reports|
+|   123|Metaphysica|
+|   123|SeMA Journal|
+|   124|African Journal of Urology|
+|   124|Business Economics|
+|   124|Hague Journal on the Rule of Law|
+|   124|Logistics Research|
+|   124|NanoBiotechnology|
+|   125|Acta Mathematica Vietnamica|
+|   125|Environmental Science and Pollution Research - International|
+|   125|Sensing and Instrumentation for Food Quality and Safety|
+|   125|Statistics in Biosciences|
+|   126|Cliometrica|
+|   126|Jahresbericht der Deutschen Mathematiker-Vereinigung|
+|   126|Journal of Nonlinear Science|
+|   126|Silicon Chemistry|
+|   127|Clinical and Translational Medicine|
+|   127|Hydrobiologische Vereniging: Mededelingen van de Hydrobiologische Vereniging|
+|   127|SERIEs|
+|   128|Applied Petrochemical Research|
+|   128|CATTECH|
+|   128|Child’s Nervous System|
+|   128|International Journal of Dynamics and Control|
+|   128|International journal of mine water|
+|   128|Pastoralism|
+|   128|The California School Psychologist|
+|   129|Cryptography and Communications|
+|   129|Evolving Systems|
+|   129|HEADline|
+|   129|Journal of the Italian Statistical Society|
+|   129|Risk Analysis|
+|   130|Arabian Journal of Mathematics|
+|   130|Bulletin of the Brazilian Mathematical Society|
+|   130|Dreaming|
+|   130|Surgical Case Reports|
+|   131|Evolutionary Intelligence|
+|   131|Praktische Huisartsgeneeskunde|
+|   131|The Patient: Patient-Centered Outcomes Research|
+|   132|Cardiovascular Engineering|
+|   132|International Journal of Plastics Technology|
+|   132|Journal of Pseudo-Differential Operators and Applications|
+|   132|Research in Nondestructive Evaluation|
+|   132|The European Physical Journal H|
+|   133|Current Obstetrics and Gynecology Reports|
+|   133|Geochemistry|
+|   133|International Journal of Group Tensions|
+|   133|Maatwerk, 2007|
+|   133|Minerals and the Environment|
+|   133|Zeitschrift für Zellforschung und mikroskopische Anatomie Abt. Histochemie|
+|   134|Journal of Geodesy|
+|   134|Journal of Internet Services and Applications|
+|   134|Journal of The Institution of Engineers (India): Series A|
+|   135|Pathology Oncology Research|
+|   136|Annals of sex research|
+|   136|Bulletin of the Malaysian Mathematical Sciences Society|
+|   136|Current Radiology Reports|
+|   136|Environment Systems and Decisions|
+|   136|Journal of the Gay and Lesbian Medical Association|
+|   136|The Journal of Comparative Germanic Linguistics|
+|   137|Applied Spatial Analysis and Policy|
+|   137|Current Anesthesiology Reports|
+|   137|Dynamic Games and Applications|
+|   137|Journal of Food Measurement and Characterization|
+|   137|Knowledge and Policy|
+|   137|Letters in Spatial and Resource Sciences|
+|   137|METRON|
+|   137|Psychosomatik und Konsiliarpsychiatrie|
+|   138|Carbon Balance and Management|
+|   138|Child and Youth Care Quarterly|
+|   138|EJNMMI Physics|
+|   138|Frontiers of Literary Studies in China|
+|   138|Journal of Economic Interaction and Coordination|
+|   139|Journal of Chemical Biology|
+|   139|Journal of Civil Structural Health Monitoring|
+|   139|Journal of Industrial Engineering International|
+|   139|Treatments in Respiratory Medicine|
+|   139|Vocations and Learning|
+|   139|Zeitschrift für Bildungsforschung|
+|   141|Geoheritage|
+|   141|International Journal of Disaster Risk Science|
+|   141|Journal of African American Men|
+|   141|Lifestyles|
+|   142|Europäisches Journal für Minderheitenfragen|
+|   142|European Journal for Education Law and Policy|
+|   142|Journal of Business Economics|
+|   142|The Nucleus|
+|   143|Journal of Applied Metalworking|
+|   143|Sepsis|
+|   144|Educational Assessment, Evaluation and Accountability|
+|   144|Il Nuovo Cimento A Series 11|
+|   145|Anzeiger für Schädlingskunde, Pflanzen- und Umweltschutz|
+|   145|Drugs in R&amp;D|
+|   145|Energy Systems|
+|   145|International Journal of Mining and Geological Engineering|
+|   145|Journal of Maritime Archaeology|
+|   145|Journal of Meteorological Research|
+|   145|L'Endocrinologo|
+|   145|Progress in Orthodontics|
+|   145|Research on Language and Computation|
+|   145|The Psychological Record|
+|   145|Water History|
+|   146|Current Nutrition Reports|
+|   146|Forum|
+|   146|Zentralblatt für Didaktik der Mathematik|
+|   147|EURASIP Journal on Audio, Speech, and Music Processing|
+|   147|rheuma plus|
+|   147|The Patient - Patient-Centered Outcomes Research|
+|   148|Journal of Modern Power Systems and Clean Energy|
+|   148|Journal of the Indian Academy of Wood Science|
+|   148|Metacognition and Learning|
+|   148|Proceedings of the Indian Academy of Sciences Section C: Engineering Sciences|
+|   149|Clinical and Translational Imaging|
+|   149|International Journal of Advances in Engineering Sciences and Applied Mathematics|
+|   149|Mathematics and Financial Economics|
+|   149|Mathematics of Control, Signals, and Systems|
+|   149|The Netherlands journal of housing and environmental research|
+|   150|Biology of Metals|
+|   150|JNHA - The Journal of Nutrition, Health and Aging|
+|   150|Journal of the Indian Society of Photo-Interpretation and Remote Sensing|
+|   151|Advanced Performance Materials|
+|   151|Herzschrittmachertherapie &amp; Elektrophysiologie|
+|   151|Marine Geophysical Research|
+|   151|Oncology Reviews|
+|   152|Fuzzy Information and Engineering|
+|   152|Health Economics Review|
+|   152|Heidelberger Beiträge zur Mineralogie und Petrographie|
+|   152|Journal of Ultrasound|
+|   152|Zeitschrift für Zellforschung und Mikroskopische Anatomie Abt. A|
+|   153|Indian Geotechnical Journal|
+|   153|Journal of Cachexia, Sarcopenia and Muscle|
+|   153|Review of Managerial Science|
+|   154|East Asian Science, Technology and Society: an International Journal|
+|   154|Feminist Issues|
+|   154|Jeugdbeleid|
+|   154|Journal of elasticity and the physical science of solids|
+|   154|Tropical Plant Biology|
+|   155|Circuits, Systems &amp; Signal Processing|
+|   155|Flexible Services and Manufacturing Journal|
+|   155|Journal of The Institution of Engineers (India): Series B|
+|   155|Substance Abuse|
+|   156|Botanical Studies|
+|   156|Geochronometria|
+|   156|Journal of Transportation Security|
+|   156|Race and Social Problems|
+|   157|Journal of Evolutionary Economics|
+|   157|Journal of Petroleum Exploration and Production Technology|
+|   157|Medical Electron Microscopy|
+|   157|School Mental Health|
+|   158|Annalen der Philosophie und philosophischen Kritik|
+|   158|Applied Geomatics|
+|   158|Beiträge zur Mineralogie und Petrographie|
+|   159|Applicable Algebra in Engineering, Communication and Computing|
+|   159|LISP and Symbolic Computation|
+|   159|Proceedings of the Zoological Society|
+|   160|Biomass Conversion and Biorefinery|
+|   160|Japan Journal of Applied Mathematics|
+|   160|Journal of Management and Governance|
+|   160|Sexuality Research &amp; Social Policy|
+|   161|Bio Tribune Magazine|
+|   161|Frontiers of Structural and Civil Engineering|
+|   161|International Nano Letters|
+|   161|Plasmas and Polymers|
+|   162|neuropsychiatrie|
+|   162|Nonlinear Dynamics, Psychology, and Life Sciences|
+|   162|Physical Mesomechanics|
+|   162|Space life sciences|
+|   162|Zeitschrift für medizinische Mikrobiologie und Immunologie|
+|   163|EURASIP Journal on Bioinformatics and Systems Biology|
+|   163|Frontiers of Business Research in China|
+|   163|Hîstôry¯a yêhûdît = Jewish history|
+|   163|Journal of Materials Shaping Technology|
+|   163|Subsurface Sensing Technologies and Applications|
+|   164|Cancer Microenvironment|
+|   164|Neurochemical Pathology|
+|   165|Geochemical Transactions|
+|   165|PharmacoEconomics Spanish Research Articles|
+|   165|Revue Francophone de Psycho-Oncologie|
+|   165|Sport- und Präventivmedizin|
+|   166|Bulletin of the Crimean Astrophysical Observatory|
+|   166|Ernährung - Wissenschaft und Praxis|
+|   166|Indian Journal of Virology|
+|   166|Journal of Nanostructure in Chemistry|
+|   166|Stem Cell Reviews|
+|   167|CEAS Aeronautical Journal|
+|   167|Der Radiologe|
+|   167|Economic Change and Restructuring|
+|   167|Frontiers of History in China|
+|   167|Geophysical surveys|
+|   167|International Journal of Energy and Environmental Engineering|
+|   167|International Review on Public and Nonprofit Marketing|
+|   167|Journal of Advanced Ceramics|
+|   167|Journal of Modern Transportation|
+|   167|Logica Universalis|
+|   167|Memetic Computing|
+|   167|Mental Health Services Research|
+|   167|Quantitative Marketing and Economics|
+|   167|Research in Engineering Design|
+|   168|Current Review of Pain|
+|   168|Journal in Computer Virology|
+|   168|NeuroRX|
+|   169|La Rivista Italiana della Medicina di Laboratorio - Italian Journal of Laboratory Medicine|
+|   169|Service Oriented Computing and Applications|
+|   170|Dublin Journal of Medical Science (1920-1922)|
+|   170|The GENEVA Papers on Risk and Insurance Theory|
+|   171|Computational and Applied Mathematics|
+|   171|Morphology|
+|   172|American Journal of Pharmacogenomics|
+|   172|Der Pathologe|
+|   172|Diabetes Therapy|
+|   172|Kind &amp; Adolescent|
+|   172|Water Quality, Exposure and Health|
+|   173|AStA Wirtschafts- und Sozialstatistisches Archiv|
+|   173|Evolutionary and Institutional Economics Review|
+|   173|Journal of Systems Integration|
+|   174|ADHD Attention Deficit and Hyperactivity Disorders|
+|   174|Archives for meteorology, geophysics, and bioclimatology, Series A|
+|   174|Distributed Computing|
+|   174|Nutrafoods|
+|   174|Polymer Science Series C|
+|   174|Sexuality and Culture|
+|   175|Zeitschrift für Politikberatung|
+|   176|CEN Case Reports|
+|   176|Current Prostate Reports|
+|   176|Korea-Australia Rheology Journal|
+|   176|Mathematical Methods of Statistics|
+|   176|Theoretical and Computational Fluid Dynamics|
+|   177|Datenbank-Spektrum|
+|   177|Elemente der Mathematik|
+|   177|Mathematical Sciences|
+|   177|Siberian Advances in Mathematics|
+|   178|focus neurogeriatrie|
+|   178|International Journal of Sexuality and Gender Studies|
+|   178|NTM Zeitschrift für Geschichte der Wissenschaften, Technik und Medizin|
+|   179|3D Research|
+|   179|Biophysical Reviews|
+|   179|Clinical Oncology and Cancer Research|
+|   179|International journal of bioclimatology and biometeorology|
+|   180|Current Obesity Reports|
+|   180|International Journal for Ion Mobility Spectrometry|
+|   181|Archiv für mikroskopische Anatomie und Entwicklungsmechanik|
+|   181|Journal of The Institution of Engineers (India): Series C|
+|   181|Polymer Science. Series D|
+|   182|Agricultural Research|
+|   182|Environmental Sciences Europe|
+|   183|Journal of Rational-Emotive &amp; Cognitive-Behavior Therapy|
+|   183|Revista Matemática Complutense|
+|   184|AAPS PharmSci|
+|   184|Anzeiger für Schädlingskunde = Journal of pest science|
+|   184|BioNanoScience|
+|   184|Heat and Mass Transfer|
+|   184|Intelligent Service Robotics|
+|   184|Journal of behavioral assessment|
+|   185|Psychologie en Gezondheid|
+|   185|Systems and Synthetic Biology|
+|   185|Zeitschrift für Hygiene und Infektionskrankheiten, medizinische Mikrobiologie, Immunologie und Virologie|
+|   185|Zoological Studies|
+|   186|Medical and Surgical Dermatology|
+|   187|European Child &amp; Adolescent Psychiatry|
+|   187|Indian Journal of Plant Physiology|
+|   187|Journal of Immigrant Health|
+|   188|Alternative Lifestyles|
+|   188|European Transport Research Review|
+|   188|JGZ Tijdschrift voor jeugdgezondheidszorg|
+|   188|Journal of Theoretical and Applied Physics|
+|   188|Kidney|
+|   188|Revue internationale de semiotique juridique|
+|   189|Applied Water Science|
+|   189|Molecular Diagnosis|
+|   190|Annals of Behavioral Science and Medical Education|
+|   190|International Journal of Family Therapy|
+|   190|Natural Products and Bioprospecting|
+|   191|Computational and Mathematical Organization Theory|
+|   191|Continuum Mechanics and Thermodynamics|
+|   191|La Ricerca in Clinica e in Laboratorio|
+|   191|Senckenbergiana maritima|
+|   192|Alternative Higher Education|
+|   192|Arid Ecosystems|
+|   192|Brazilian Journal of Botany|
+|   192|Revista de la Real Academia de Ciencias Exactas, Fisicas y Naturales. Serie A. Matematicas|
+|   193|Archaeological and Anthropological Sciences|
+|   193|Clinical Research in Cardiology Supplements|
+|   193|Journal of Aquatic Ecosystem Health|
+|   193|Oriental Pharmacy and Experimental Medicine|
+|   193|Soviet journal of physical oceanography|
+|   194|Electronic Markets|
+|   194|Frontiers of Law in China|
+|   194|Journal of environmental polymer degradation|
+|   195|Frontiers of Economics in China|
+|   195|Philosophy &amp; Technology|
+|   195|Review of Derivatives Research|
+|   196|Acta Meteorologica Sinica|
+|   196|Advances in Data Analysis and Classification|
+|   196|Integrated Pest Management Reviews|
+|   196|Journal of Nephrology|
+|   196|Oceanological and Hydrobiological Studies|
+|   197|Collectanea mathematica|
+|   197|HSS Journal ®|
+|   197|Zeitschrift für Verbraucherpolitik|
+|   198|Chemosensory Perception|
+|   198|Computational &amp; Mathematical Organization Theory|
+|   198|Conditional reflex : a Pavlovian journal of research &amp; therapy|
+|   199|P-Adic Numbers, Ultrametric Analysis, and Applications|
+|   200|Probiotics and Antimicrobial Proteins|
+|   202|Il Nuovo Cimento Series 10|
+|   203|Journal of bioenergetics|
+|   204|Annals of Software Engineering|
+|   204|Frontiers of Materials Science|
+|   204|Journal on Multimodal User Interfaces|
+|   204|Soziale Passagen|
+|   205|EURASIP Journal on Image and Video Processing|
+|   205|Human Affairs|
+|   205|Orthopedics and Traumatology|
+|   206|Sexuality Research and Social Policy|
+|   207|Journal of Materials Engineering|
+|   207|Journal of Oil &amp; Fat Industries|
+|   207|Journal of the Knowledge Economy|
+|   208|Il Cimento|
+|   208|Journal of Child &amp; Adolescent Trauma|
+|   208|Proceedings Mathematical Sciences|
+|   209|Biomedical Engineering Letters|
+|   209|Kolloid-Beihefte|
+|   209|Mediterranean Journal of Nutrition and Metabolism|
+|   210|Indian Journal of Pediatrics|
+|   210|Journal of Pharmaceutical Investigation|
+|   210|Treatments in Endocrinology|
+|   211|Bioseparation|
+|   211|Geron|
+|   212|ArgoSpine News &amp; Journal|
+|   212|Diabetology International|
+|   212|Emergency Radiology|
+|   212|Journal of the Australian Population Association|
+|   212|Palaeobiodiversity and Palaeoenvironments|
+|   213|Asian Journal of Criminology|
+|   213|Food and Environmental Virology|
+|   213|Journal of Archaeological Research|
+|   213|Zoomorphologie|
+|   214|Current Sexual Health Reports|
+|   215|International Cancer Conference Journal|
+|   215|international journal of stomatology &amp; occlusion medicine|
+|   216|International Journal of Computers for Mathematical Learning|
+|   217|Differential Equations and Dynamical Systems|
+|   217|Fractional Calculus and Applied Analysis|
+|   217|Hormones and Cancer|
+|   217|Journal of Ophthalmic Inflammation and Infection|
+|   217|Microgravity - Science and Technology|
+|   217|PharmacoEconomics Italian Research Articles|
+|   218|Journal of Control, Automation and Electrical Systems|
+|   218|Journal of International Migration and Integration|
+|   218|Translational Neuroscience|
+|   220|Frontiers of Optoelectronics|
+|   222|Journal of Medicine and the Person|
+|   222|Journal of Radiation Oncology|
+|   223|Central European Journal of Engineering|
+|   223|Review of Religious Research|
+|   223|Rice|
+|   224|Archives of Computational Methods in Engineering|
+|   224|International Journal of Metalcasting|
+|   224|Journal of Applied Psychoanalytic Studies|
+|   224|Lettere Al Nuovo Cimento Series 1|
+|   224|Mind &amp; Society|
+|   224|Perspectives in Drug Discovery and Design|
+|   225|Anzeiger für Schädlingskunde und Pflanzenschutz|
+|   225|Archive for Mathematical Logic|
+|   225|Earth Science Informatics|
+|   225|Journal of Hand and Microsurgery|
+|   225|Journal of International Entrepreneurship|
+|   225|Medical electronics and biological engineering|
+|   225|The Asia-Pacific Education Researcher|
+|   227|Critical Ultrasound Journal|
+|   227|Current Breast Cancer Reports|
+|   227|Health Services and Outcomes Research Methodology|
+|   227|Organisms Diversity &amp; Evolution|
+|   227|Set-Valued and Variational Analysis|
+|   228|Proceedings of the National Academy of Sciences, India Section A: Physical Sciences|
+|   228|Qualitas Plantarum|
+|   229|Acta Physica Hungarica Series A, Heavy Ion Physics|
+|   229|Oncomagazine|
+|   229|Psychiatrie und Psychotherapie|
+|   230|Beiträge zur Algebra und Geometrie / Contributions to Algebra and Geometry|
+|   230|OPSEARCH|
+|   230|Zeitschrift für Hygiene|
+|   231|Human Relations|
+|   231|Journal of Arid Land|
+|   231|Surface Coatings International|
+|   232|International Journal for the Semiotics of Law|
+|   232|International Journal of Gastrointestinal Cancer|
+|   232|Russian Journal of Biological Invasions|
+|   233|Fortschritte der Orthodontik in Theorie und Praxis|
+|   233|Frontiers of Earth Science in China|
+|   233|Perspectives on Medical Education|
+|   233|Psychological Injury and Law|
+|   233|Zeitschrift für Vergleichende Politikwissenschaft|
+|   234|Biology Bulletin Reviews|
+|   234|Biosemiotics|
+|   234|Dynamics and Control|
+|   234|Frontiers of Mechanical Engineering|
+|   234|Journal of Heat Treating|
+|   234|Regional Research of Russia|
+|   235|Journal of Population Economics|
+|   235|NanoEthics|
+|   235|Nonrenewable Resources|
+|   235|Strategies in Trauma and Limb Reconstruction|
+|   236|International Journal on Interactive Design and Manufacturing (IJIDeM)|
+|   236|Journal of Pharmaceutical Innovation|
+|   236|Photonic Sensors|
+|   237|Acta Physica Hungarica New Series Heavy Ion Physics|
+|   237|Frontiers of Education in China|
+|   237|MAPAN|
+|   237|Neuroethics|
+|   237|The Pavlovian Journal of Biological Science|
+|   238|der junge zahnarzt|
+|   238|European Radiology Supplements|
+|   238|Jeugd en Co Kennis|
+|   238|Review of Philosophy and Psychology|
+|   238|Survey of Immunologic Research|
+|   239|International Journal of Computer-Supported Collaborative Learning|
+|   239|Journal of Plant Research|
+|   239|The Dublin Journal of Medical and Chemical Science|
+|   240|Klinische Neuroradiologie|
+|   240|WMU Journal of Maritime Affairs|
+|   241|American Journal of Cancer|
+|   241|Archives for meteorology, geophysics, and bioclimatology, Series B|
+|   241|Zeitschrift für Energiewirtschaft|
+|   242|Internationales Archiv für Arbeitsmedizin|
+|   242|International Journal of Salt Lake Research|
+|   242|Seismic Instruments|
+|   242|Teaching Business Ethics|
+|   242|Tissue Engineering and Regenerative Medicine|
+|   243|Cellular Oncology|
+|   243|Korean Journal of Computational &amp; Applied Mathematics|
+|   243|Natural Language Semantics|
+|   244|Cardiovascular Engineering and Technology|
+|   244|Metallography, Microstructure, and Analysis|
+|   244|Toxicology and Environmental Health Sciences|
+|   245|Gyroscopy and Navigation|
+|   245|Higher-Order and Symbolic Computation|
+|   245|International Journal of Health Care Finance and Economics|
+|   245|Monatshefte für Chemie - Chemical Monthly|
+|   246|Archives of Osteoporosis|
+|   246|Milan Journal of Mathematics|
+|   246|Molecular Engineering|
+|   247|Frontiers in Energy|
+|   247|Surface Coatings International Part B: Coatings Transactions|
+|   248|Frontiers of Philosophy in China|
+|   248|Soziologie|
+|   248|The Review of International Organizations|
+|   249|EURASIP Journal on Embedded Systems|
+|   249|Journal of Poetry Therapy|
+|   249|Journal of Social Distress and the Homeless|
+|   249|Journal of World Prehistory|
+|   249|Sport Sciences for Health|
+|   250|Educational Research for Policy and Practice|
+|   250|Service Business|
+|   251|Shock Waves|
+|   252|Book Research Quarterly|
+|   252|International Review of Economics|
+|   252|Journal of Community Genetics|
+|   252|Journal of Hematopathology|
+|   253|Formal Aspects of Computing|
+|   253|Frontiers of Computer Science in China|
+|   255|International Journal of System Assurance Engineering and Management|
+|   256|Geriatric Nephrology and Urology|
+|   257|Der Nervenarzt|
+|   257|Ricerche di Matematica|
+|   257|TBV - Tijdschrift voor Bedrijfs- en Verzekeringsgeneeskunde|
+|   258|Central European Journal of Geosciences|
+|   258|Molecular Genetics, Microbiology and Virology|
+|   259|Engineering with Computers|
+|   259|Journal of Elementary Science Education|
+|   259|MFM|
+|   260|Moscow University Computational Mathematics and Cybernetics|
+|   260|Netherland Journal of Aquatic Ecology|
+|   261|Drug Delivery and Translational Research|
+|   261|Journal of Materials Synthesis and Processing|
+|   261|Zeitschrift für Neurologie|
+|   262|ANNALI DELL'UNIVERSITA' DI FERRARA|
+|   262|Practical Failure Analysis|
+|   262|Theoretical Ecology|
+|   263|Journal für Ästhetische Chirurgie|
+|   263|Journal of Classification|
+|   263|Moscow University Mechanics Bulletin|
+|   264|Annals of Finance|
+|   264|Journal of Echocardiography|
+|   265|Clinical Immunotherapeutics|
+|   265|Forschung im Ingenieurwesen|
+|   265|Georgian Mathematical Journal|
+|   266|Journal of Child and Adolescent Group Therapy|
+|   266|Silicon|
+|   267|Internationales Archiv für Gewerbepathologie und Gewerbehygiene|
+|   267|The Journal of the Astronautical Sciences|
+|   269|Journal of Environmental Studies and Sciences|
+|   269|Knee Surgery, Sports Traumatology, Arthroscopy|
+|   269|Machine Vision and Applications|
+|   269|Welding International|
+|   270|Annals of Intensive Care|
+|   270|Asia-Pacific Journal of Atmospheric Sciences|
+|   271|Journal of Population Research|
+|   271|Moscow University Soil Science Bulletin|
+|   271|Rivista di matematica per le scienze economiche e sociali|
+|   272|Acta Academiae Medicinae Wuhan|
+|   272|Advances in Gerontology|
+|   272|European Journal of Political Research|
+|   272|MIRCEN journal of applied microbiology and biotechnology|
+|   273|Journal of Economic Growth|
+|   273|Journal of Materials for Energy Systems|
+|   274|International Journal of Earth Sciences |
+|   274|Irish Journal of Medical Science (1971 -)|
+|   274|Numerical Analysis and Applications|
+|   274|Stochastic Hydrology and Hydraulics|
+|   275|Innovations in Systems and Software Engineering|
+|   276|Indian Journal of Pure and Applied Mathematics|
+|   276|Journal of Experimental Criminology|
+|   276|Journal of Huazhong University of Science and Technology|
+|   276|Nano-Micro Letters|
+|   276|Qualitative Theory of Dynamical Systems|
+|   277|Computational Management Science|
+|   277|Lucide|
+|   278|Geography and Natural Resources|
+|   278|Statistical Inference for Stochastic Processes|
+|   279|Epileptic Disorders|
+|   279|Frontiers of Earth Science|
+|   280|Irish Journal of Medical Science (1922-1925)|
+|   281|BioChip Journal|
+|   281|Interdisciplinary Sciences: Computational Life Sciences|
+|   281|International Journal of Hindu Studies|
+|   281|International Journal of Stress Management|
+|   281|Journal of Crop Science and Biotechnology|
+|   282|Frontiers of Physics in China|
+|   283|Automatic Documentation and Mathematical Linguistics|
+|   283|The Quarterly Journal of Austrian Economics|
+|   284|HeilberufeScience|
+|   284|Indian Journal of Gastroenterology|
+|   284|Journal of Ambient Intelligence and Humanized Computing|
+|   285|Clinical Reviews in Allergy|
+|   285|Disease Management and Health Outcomes|
+|   286|Current Sports Medicine Reports|
+|   286|Electrocatalysis|
+|   286|International Environmental Agreements: Politics, Law and Economics|
+|   286|Journal of Mathematical Modelling and Algorithms|
+|   286|Journal of the Brazilian Computer Society|
+|   286|Opto-electronics|
+|   287|Frontiers of Optoelectronics in China|
+|   287|Gender Issues|
+|   287|Irish Journal of Medical Science (1968-1970)|
+|   288|TCA manual / Tissue Culture Association|
+|   289|Child &amp; Youth Care Forum|
+|   289|Fuß &amp; Sprunggelenk|
+|   289|HSS Journal|
+|   290|Science Bulletin|
+|   291|Frontiers of Architecture and Civil Engineering in China|
+|   291|Frontiers of Materials Science in China|
+|   291|Journal of northeast asian studies|
+|   292|Annali di Matematica Pura ed Applicata (1858-1865)|
+|   292|Netherlands journal of housing and the built environment|
+|   293|Sports Engineering|
+|   293|Zeitschrift für Morphologie der Tiere|
+|   295|Criminal Law and Philosophy|
+|   295|Journal of Academic Ethics|
+|   296|Air Quality, Atmosphere &amp; Health|
+|   296|Small-scale Forestry|
+|   297|Child Indicators Research|
+|   297|Materials Science-Poland|
+|   298|International Economics and Economic Policy|
+|   299|Frontiers of Chemical Science and Engineering|
+|   299|Frontiers of Energy and Power Engineering in China|
+|   300|Bulletin of the Brazilian Mathematical Society, New Series|
+|   301|Frontiers of Computer Science|
+|   301|Journal of Ethology|
+|   303|Erwerbs-Obstbau|
+|   303|Forensic Toxicology|
+|   303|Landscape and Ecological Engineering|
+|   303|Zeitschrift für Kristallographie, Mineralogie und Petrographie|
+|   304|Journal of Volcanology and Seismology|
+|   304|Monash Bioethics Review|
+|   305|Frontiers of Forestry in China|
+|   305|Journal of Cell Communication and Signaling|
+|   305|Social Network Analysis and Mining|
+|   306|Frontiers of Medicine|
+|   306|Journal of Engineering Thermophysics|
+|   307|Afrika Matematika|
+|   308|Journal of Coatings Technology|
+|   308|Journal of Contemporary Mathematical Analysis|
+|   308|Journal of Industry, Competition and Trade|
+|   309|International Journal for Educational and Vocational Guidance|
+|   310|Current Reviews in Musculoskeletal Medicine|
+|   310|International Journal of Machine Learning and Cybernetics|
+|   310|Radiation Medicine|
+|   311|Journal of the Brazilian Society of Mechanical Sciences and Engineering|
+|   311|Marine Biodiversity|
+|   311|Mineralogische und petrographische Mitteilungen|
+|   311|Molecular &amp; Cellular Toxicology|
+|   311|Revue de médecine périnatale|
+|   312|International Journal of Occupational Medicine and Environmental Health|
+|   312|International Journal of Social Robotics|
+|   313|Frontiers of Biology in China|
+|   313|International Journal of Mechanics and Materials in Design|
+|   313|La Lettre de médecine physique et de réadaptation|
+|   313|Sexuality &amp; Culture|
+|   314|Electronic Commerce Research|
+|   314|Journal of instructional development|
+|   315|Mathematics in Computer Science|
+|   317|PSN|
+|   318|Clinical Child and Family Psychology Review|
+|   318|Current Fungal Infection Reports|
+|   318|Design Automation for Embedded Systems|
+|   318|Mathematical Physics, Analysis and Geometry|
+|   318|Nederlands Tijdschrift voor Traumatologie|
+|   319|Journal of autism and childhood schizophrenia|
+|   319|Methods in Cell Science|
+|   320|Archaeologies|
+|   320|International Journal of Computer &amp; Information Sciences|
+|   320|KSME Journal|
+|   320|Language Resources and Evaluation|
+|   320|Radiological Physics and Technology|
+|   320|Rock mechanics|
+|   321|Annali di Matematica Pura ed Applicata (1898-1922)|
+|   321|China Ocean Engineering|
+|   321|Frontiers of Chemical Engineering in China|
+|   321|Journal of Bone and Mineral Metabolism|
+|   321|Journal of East Asian Linguistics|
+|   321|Statistical Papers|
+|   322|Transactions of the Academy of Medicine in Ireland|
+|   324|Mathematics of Control, Signals and Systems|
+|   324|Neuroscience Translations|
+|   324|Senckenbergiana lethaea|
+|   325|Acta Physica Hungarica A) Heavy Ion Physics|
+|   325|Journal of Muscle Research and Cell Motility|
+|   325|Journal of Northeast Forestry University|
+|   325|Sustainability Science|
+|   325|Vestnik St. Petersburg University: Mathematics|
+|   326|Frontiers in Biology|
+|   326|International Entrepreneurship and Management Journal|
+|   326|Peer-to-Peer Networking and Applications|
+|   326|Pharmaceutical &amp; Diagnostic Innovation|
+|   326|Philosophy of Management|
+|   327|Bijzijn|
+|   327|Contemporary Islam|
+|   327|Fuzzy Optimization and Decision Making|
+|   329|Cardiovascular Intervention and Therapeutics|
+|   329|European Orthopaedics and Traumatology|
+|   330|Analysis in Theory and Applications|
+|   330|Frontiers of Medicine in China|
+|   330|Il Nuovo Cimento (1869-1876)|
+|   331|3 Biotech|
+|   332|Journal of Computer-Aided Materials Design|
+|   332|MOST: Economic Policy in Transitional Economies|
+|   332|Updates in Surgery|
+|   333|Clinical Reviews in Bone and Mineral Metabolism|
+|   333|International Journal of Value-Based Management|
+|   333|Learning Environments Research|
+|   333|Moscow University Biological Sciences Bulletin|
+|   334|4OR|
+|   334|Journal of Structural and Functional Genomics|
+|   335|Chirurgia plastica|
+|   335|Journal of Inorganic and Organometallic Polymers|
+|   335|Translational Behavioral Medicine|
+|   336|Economic Theory|
+|   336|Frontiers of Environmental Science &amp; Engineering in China|
+|   336|Integrative Psychological and Behavioral Science|
+|   336|Psychological Studies|
+|   336|Swiss Journal of Geosciences|
+|   337|Australasian Physics &amp; Engineering Sciences in Medicine|
+|   337|Fungal Diversity|
+|   337|Publications Mathématiques de l'Institut des Hautes Études Scientifiques|
+|   338|Evolutionary Biology|
+|   338|Optical Memory and Neural Networks|
+|   338|Orthopédie Traumatologie|
+|   338|Reviews in Environmental Science and Bio/Technology|
+|   338|Soviet Radiophysics|
+|   339|Building Simulation|
+|   339|Optical Review|
+|   340|Geotectonics|
+|   340|Journal d'Analyse Mathématique|
+|   341|Frontiers of Physics|
+|   341|Tertiary Education and Management|
+|   341|Water, Air, &amp; Soil Pollution: Focus|
+|   342|Journal of Geometric Analysis|
+|   342|Journal of Real-Time Image Processing|
+|   342|Neotropical Entomology|
+|   343|Cognitive Computation|
+|   343|Current Hepatitis Reports|
+|   343|EJNMMI Research|
+|   343|Journal of Management &amp; Governance|
+|   343|Journal of Near-Death Studies|
+|   343|The Journal of Primary Prevention|
+|   344|Kinematics and Physics of Celestial Bodies|
+|   344|LO SCALPELLO-OTODI Educational|
+|   345|Constructive Approximation|
+|   345|Journal of Archaeological Method and Theory|
+|   345|Review of Economics of the Household|
+|   346|Asia-Pacific Financial Markets|
+|   346|Catalysis in Industry|
+|   347|BioTribune Magazine|
+|   347|Energy Efficiency|
+|   348|AMB Express|
+|   348|Cognitive Neurodynamics|
+|   348|Polymer Science Series D|
+|   350|Archival Science|
+|   350|The Pavlovian journal of biological science : official journal of the Pavlovian|
+|   351|AI &amp; Society|
+|   351|New Generation Computing|
+|   353|Astrophysical Bulletin|
+|   353|Catalysis Surveys from Asia|
+|   353|Nuclear Medicine and Molecular Imaging|
+|   353|Pelvi-périnéologie|
+|   354|SynthesHis|
+|   355|Physics of Wave Phenomena|
+|   356|Journal of Bioeconomics|
+|   357|International Journal of Flexible Manufacturing Systems|
+|   358|Acta Geotechnica|
+|   358|Applied Entomology and Zoology|
+|   358|Information Technology and Management|
+|   358|Operational Research|
+|   360|Archiv für mathematische Logik und Grundlagenforschung|
+|   360|Proceedings - Mathematical Sciences|
+|   360|Russian Journal of Genetics: Applied Research|
+|   362|Annals of Clinical Psychiatry|
+|   362|Brazilian Journal of Physics|
+|   362|European Demographic Information Bulletin|
+|   362|Petrology|
+|   362|The Journal of Economic Inequality|
+|   363|Kolloidchemische Beihefte|
+|   364|Open Systems &amp; Information Dynamics|
+|   364|The Journal of Headache and Pain|
+|   365|Applied Research in Quality of Life|
+|   366|Herzschrittmachertherapie + Elektrophysiologie|
+|   366|International Journal of Diabetes in Developing Countries|
+|   366|Journal of Rational-Emotive and Cognitive-Behavior Therapy|
+|   366|uwf UmweltWirtschaftsForum|
+|   367|La Rivista del Nuovo Cimento (1978-1999)|
+|   367|Mathematische Semesterberichte|
+|   368|Amino Acids|
+|   368|KI - Künstliche Intelligenz|
+|   369|Acta Analytica|
+|   369|Culture, Medicine, and Psychiatry|
+|   369|MUSCULOSKELETAL SURGERY|
+|   370|Ocean Science Journal|
+|   370|Symbiosis|
+|   371|The Environmentalist|
+|   372|Zeitschrift für Herz-, Thorax- und Gefäßchirurgie|
+|   373|European Journal of Ageing|
+|   374|Brain Imaging and Behavior|
+|   374|Journal of International Migration and Integration / Revue de l'integration et de la migration internationale|
+|   374|Plant Biotechnology Reports|
+|   375|European archives of psychiatry and neurological sciences|
+|   375|Theory in Biosciences|
+|   376|Der MKG-Chirurg|
+|   376|European View|
+|   376|Human Cell|
+|   376|Journal of Fixed Point Theory and Applications|
+|   376|Journal of Neural Transmission - Parkinson's Disease and Dementia Section|
+|   376|Targeted Oncology|
+|   377|International Journal of Steel Structures|
+|   377|Journal of Systems Science and Systems Engineering|
+|   378|Artificial Intelligence and Law|
+|   378|Forestry Studies in China|
+|   380|Australian Plant Pathology Society Newsletter|
+|   380|Extremes|
+|   380|Frontiers of Mechanical Engineering in China|
+|   381|Journal africain du cancer / African Journal of Cancer|
+|   381|The Journal of Indian Prosthodontic Society|
+|   381|The moon and the planets|
+|   382|Journal of Grid Computing|
+|   382|Pharmaceutical Medicine|
+|   384|Administration in mental health|
+|   384|Business &amp; Information Systems Engineering|
+|   387|Environmental Geology and Water Sciences|
+|   387|Financial Markets and Portfolio Management|
+|   387|Integrative Physiological and Behavioral Science|
+|   388|Contemporary Crises|
+|   388|International Journal of Self-Propagating High-Temperature Synthesis|
+|   390|Biophysik|
+|   390|International Journal for the Semiotics of Law - Revue internationale de Sémiotique juridique|
+|   390|Leviathan|
+|   394|Indian  Journal of Gastroenterology|
+|   394|Journal of African American Studies|
+|   394|Journal of Crystal and Molecular Structure|
+|   394|Lobachevskii Journal of Mathematics|
+|   394|Networks and Spatial Economics|
+|   394|Pharmacy World &amp; Science|
+|   395|Archiv für Ophthalmologie|
+|   395|Biology Bulletin of the Russian Academy of Sciences|
+|   396|Foundations of Chemistry|
+|   396|Management International Review|
+|   396|National Academy Science Letters|
+|   397|Current Hematologic Malignancy Reports|
+|   397|Genetic Programming and Evolvable Machines|
+|   397|Learning &amp; Behavior|
+|   397|Science China Physics, Mechanics &amp; Astronomy|
+|   398|Gesunde Pflanzen|
+|   398|Unternehmensforschung|
+|   399|Iranian Polymer Journal|
+|   401|Arthropod-Plant Interactions|
+|   401|Set-Valued Analysis|
+|   401|Social Choice and Welfare|
+|   401|Zeitschrift für Vererbungslehre|
+|   402|computational complexity|
+|   402|The Journal of Physiological Sciences|
+|   403|Journal of Economics|
+|   404|Child Psychiatry &amp; Human Development|
+|   404|European Journal of Dermatology|
+|   404|Russian Journal of Pacific Geology|
+|   405|Horticulture, Environment, and Biotechnology|
+|   406|Applied Nanoscience|
+|   406|Australasian Physical &amp; Engineering Sciences in Medicine|
+|   406|Bulletin de la Société de pathologie exotique|
+|   406|Comprehensive Therapy|
+|   406|Food Biophysics|
+|   406|GeoInformatica|
+|   407|Cellular and Molecular Bioengineering|
+|   407|Frontiers of Chemistry in China|
+|   407|Helminthologia|
+|   407|Sexual Abuse: A Journal of Research and Treatment|
+|   408|Controlling &amp; Management Review|
+|   408|Earthquake Science|
+|   408|Neurochemical Journal|
+|   408|Russian Journal of Physical Chemistry A, Focus on Chemistry|
+|   409|Interface Science|
+|   409|Supervisie en coaching|
+|   410|Biotherapy|
+|   410|Distributed and Parallel Databases|
+|   410|European Journal of Trauma|
+|   410|Gravitation and Cosmology|
+|   410|IIC - International Review of Intellectual Property and Competition Law|
+|   410|Law and Critique|
+|   410|Neuroinformatics|
+|   410|Physiology and Molecular Biology of Plants|
+|   413|Critical Criminology|
+|   413|Dairy Science &amp; Technology|
+|   414|Constraints|
+|   414|Indian Journal of Surgical Oncology|
+|   415|Automated Software Engineering|
+|   415|Knowledge, Technology &amp; Policy|
+|   416|Frontiers of Agriculture in China|
+|   416|International Journal of Fracture Mechanics|
+|   416|User Modeling and User-Adapted Interaction|
+|   417|Cellular &amp; Molecular Biology Letters|
+|   418|Mindfulness|
+|   418|Translational Stroke Research|
+|   419|der markt|
+|   420|Current Colorectal Cancer Reports|
+|   421|Forstwissenschaftliches Centralblatt vereinigt mit Tharandter forstliches Jahrbuch|
+|   421|Monaftchrift für das Forlt= und Jagdwelen|
+|   422|Public Organization Review|
+|   422|Reproductive Medicine and Biology|
+|   423|Information Retrieval|
+|   423|Journal of Computing in Higher Education|
+|   423|Obere Extremität|
+|   423|Scientific and Technical Information Processing|
+|   424|ECTJ|
+|   424|Journal of Plant Growth Regulation|
+|   424|Waste and Biomass Valorization|
+|   426|Current Bladder Dysfunction Reports|
+|   426|East Asia|
+|   426|Herzschrittmachertherapie und Elektrophysiologie|
+|   427|Regular and Chaotic Dynamics|
+|   429|Controlling und Management|
+|   429|Trabajos de estadistica|
+|   430|International Journal of Clinical and Laboratory Research|
+|   430|Nonlinear Oscillations|
+|   430|Optimization and Engineering|
+|   432|Proceedings of the National Academy of Sciences, India Section B: Biological Sciences|
+|   433|Selecta Mathematica|
+|   434|Australasian Plant Disease Notes|
+|   435|Annali di Matematica Pura ed Applicata (1867-1897)|
+|   435|Current Cardiovascular Imaging Reports|
+|   435|European Journal of Psychology of Education|
+|   435|Österreichische Zeitschrift für Soziologie|
+|   436|Journal of Cancer Survivorship|
+|   437|Geometric and Functional Analysis|
+|   437|Insights into Imaging|
+|   438|Natural Resources Research|
+|   438|NTM International Journal of History &amp; Ethics of Natural Sciences, Technology &amp; Medicine|
+|   439|Comparative Haematology International|
+|   443|Anatomia Clinica|
+|   443|Frontiers of Electrical and Electronic Engineering in China|
+|   443|Journal of inclusion phenomena|
+|   443|Machine Translation|
+|   444|Bundesgesundheitsblatt|
+|   444|Current HIV/AIDS Reports|
+|   444|Medical Science Educator|
+|   446|Les cahiers de l'année gérontologique|
+|   446|Software &amp; Systems Modeling|
+|   447|Journal of Parasitic Diseases|
+|   447|Russian Journal of Physical Chemistry|
+|   448|Frontiers of Environmental Science &amp; Engineering|
+|   448|Mechanics of Time-Dependent Materials|
+|   449|Applied Health Economics and Health Policy|
+|   449|Archives and Museum Informatics|
+|   449|Experimental Economics|
+|   449|Journal of Optics|
+|   449|Water, Air and Soil Pollution: Focus|
+|   450|Acta Metallurgica Sinica (English Letters)|
+|   450|Physik der kondensierten Materie|
+|   451|International Journal of Historical Archaeology|
+|   452|Journal of tissue culture methods|
+|   452|Physics in Perspective|
+|   452|The Journal of Ethics|
+|   454|Archiv für Orthopädie, Mechanotherapie und Unfallchirurgie|
+|   454|Review of World Economics|
+|   456|Biochemistry (Moscow) Supplement Series B: Biomedical Chemistry|
+|   456|Journal of Police and Criminal Psychology|
+|   456|Psycho-Oncologie|
+|   457|Stratigraphy and Geological Correlation|
+|   458|Opto-Electronics Review|
+|   459|Acta Mathematicae Applicatae Sinica|
+|   459|Forensische Psychiatrie, Psychologie, Kriminologie|
+|   459|Irrigation Science|
+|   459|Jewish History|
+|   459|Journal of Hepato-Biliary-Pancreatic Sciences|
+|   459|Medizinische Klinik - Intensivmedizin und Notfallmedizin|
+|   460|Inland Water Biology|
+|   460|Journal of Zhejiang University Science|
+|   460|Mineralogy and Petrology|
+|   460|Molecular Diagnosis &amp; Therapy|
+|   462|Hellenic Journal of Surgery|
+|   463|Biochemistry (Moscow) Supplement Series A: Membrane and Cell Biology|
+|   463|Journal of Chinese Political Science|
+|   463|Journal of Water Chemistry and Technology|
+|   463|Medical Oncology and Tumor Pharmacotherapy|
+|   463|Metals and Materials|
+|   463|Transition Studies Review|
+|   465|annals of telecommunications - annales des télécommunications|
+|   465|Cell Biophysics|
+|   465|Journal of Mathematics Teacher Education|
+|   466|Current Osteoporosis Reports|
+|   466|Revista de Oncología|
+|   467|African Archaeological Review|
+|   467|Chinese Journal of Clinical Oncology|
+|   469|Carlsberg Research Communications|
+|   469|Journal of Educational Change|
+|   470|Russian Journal of Mathematical Physics|
+|   471|Tijdschrift voor Gerontologie en Geriatrie|
+|   472|Mathematical Geosciences|
+|   472|Mathematical Models and Computer Simulations|
+|   472|Social Psychiatry and Psychiatric Epidemiology|
+|   473|Zeitschrift für Außen- und Sicherheitspolitik|
+|   474|Boletim da Sociedade Brasileira de Matemática - Bulletin/Brazilian Mathematical Society|
+|   475|Annals of Ophthalmology|
+|   475|Moscow University Geology Bulletin|
+|   475|Obésité|
+|   475|Psychopraxis|
+|   476|Tijdschrift voor Urologie|
+|   477|Jeugd en Co|
+|   478|Current Heart Failure Reports|
+|   479|Zeitschrift für Gesundheitswissenschaften = Journal of public health|
+|   480|International journal of clinical monitoring and computing|
+|   480|Tijdschrift voor VerpleeghuisGeneeskunde|
+|   481|Contemporary Jewry|
+|   481|Der Kardiologe|
+|   482|Biology &amp; Philosophy|
+|   483|Autonomous Agents and Multi-Agent Systems|
+|   483|Prävention und Gesundheitsförderung|
+|   484|Discrete Event Dynamic Systems|
+|   484|Structural optimization|
+|   486|Virchows Archiv|
+|   487|Biophysics of structure and mechanism|
+|   487|Esophagus|
+|   487|The Dublin Journal of Medical Science|
+|   488|Acta Neurologica Belgica|
+|   488|Disease Management &amp; Health Outcomes|
+|   488|medizinische genetik|
+|   489|Paddy and Water Environment|
+|   490|Forum for Social Economics|
+|   490|Kybernetik|
+|   490|Pneumonologie|
+|   491|Ergebnisse der Physiologie|
+|   491|Verslaving|
+|   491|World Wide Web|
+|   492|Husserl Studies|
+|   492|Zeitschrift für Psychodrama und Soziometrie|
+|   493|Dth|
+|   493|Journal of Contemporary Physics (Armenian Academy of Sciences)|
+|   496|Moscow University Mathematics Bulletin|
+|   496|Theoretical Medicine|
+|   498|Automatic Control and Computer Sciences|
+|   498|Journal of Soviet Laser Research|
+|   498|Neuropsychology Review|
+|   498|Springer Seminars in Immunopathology|
+|   499|Ethics and Information Technology|
+|   499|European Potato Journal|
+|   499|Journal of Superhard Materials|
+|   499|Journal of Zhejiang University SCIENCE C|
+|   499|Problems of Information Transmission|
+|   499|Reliable Computing|
+|   500|Archivum Immunologiae et Therapiae Experimentalis|
+|   500|Graphs and Combinatorics|
+|   500|International Journal of Peptide Research and Therapeutics|
+|   500|Journal of Career Development|
+|   501|Acta Mathematica Sinica|
+|   501|Origins of Life and Evolution of Biospheres|
+|   502|Computer Supported Cooperative Work (CSCW)|
+|   502|Empirical Economics|
+|   503|Bulletin of the Russian Academy of Sciences, Division of chemical science|
+|   503|Res Publica|
+|   504|International Journal of Emergency Medicine|
+|   505|Environmental Geology|
+|   505|Language Policy|
+|   505|Somatic Cell Genetics|
+|   506|Coral Reefs|
+|   506|Food Security|
+|   507|Aquatic Geochemistry|
+|   508|Neural Computing &amp; Applications|
+|   508|Social Psychology of Education|
+|   509|Phenomenology and the Cognitive Sciences|
+|   510|Geotechnical &amp; Geological Engineering|
+|   510|International Journal of Environmental Science &amp; Technology|
+|   510|Journal of Evolution Equations|
+|   511|Origins of life|
+|   512|Journal of Mathematical Fluid Mechanics|
+|   512|The Chemist’s Section of the Cotton Oil Press|
+|   514|Liverpool Law Review|
+|   516|Compositio Mathematica|
+|   517|Virologica Sinica|
+|   518|Algorithmica|
+|   518|International Journal of Speech Technology|
+|   518|Journal of Mammalian Evolution|
+|   519|Cytology and Genetics|
+|   519|Evolution: Education and Outreach|
+|   520|Discrete &amp; Computational Geometry|
+|   520|Journal of Personnel Evaluation in Education|
+|   521|Journal of Adult Development|
+|   521|Journal of Microbiology|
+|   521|World Journal of Pediatrics|
+|   522|Applied Scientific Research, Section B|
+|   522|Journal of Agricultural, Biological, and Environmental Statistics|
+|   523|Approximation Theory and its Applications|
+|   524|Genes &amp; Nutrition|
+|   525|Applied Scientific Research, Section A|
+|   525|Environmental Fluid Mechanics|
+|   525|Zoomorphology|
+|   527|Anatomical Science International|
+|   527|Journal of Robotic Surgery|
+|   528|AV communication review|
+|   528|Cardiovascular Toxicology|
+|   528|Environmental Chemistry Letters|
+|   528|Purinergic Signalling|
+|   528|Studies in East European Thought|
+|   528|Zeitschrift für die gesamte experimentelle Medizin einschließlich experimentelle Chirurgie|
+|   529|Annals of Dyslexia|
+|   529|Journal Africain d'Hépato-Gastroentérologie|
+|   529|Zeitschrift für allgemeine Wissenschaftstheorie|
+|   532|Applied Geophysics|
+|   533|Reviews in Endocrine and Metabolic Disorders|
+|   535|Biological Theory|
+|   536|Moscow University Chemistry Bulletin|
+|   537|Bulletin of the Orton Society|
+|   539|International Journal of Wireless Information Networks|
+|   539|Pädiatrie &amp; Pädologie|
+|   540|Inorganic Materials: Applied Research|
+|   540|NeuroMolecular Medicine|
+|   541|The moon|
+|   542|Nederlands Tijdschrift voor Evidence Based Practice|
+|   543|Journal of Applied and Industrial Mathematics|
+|   545|Applied Magnetic Resonance|
+|   545|Berliner Journal für Soziologie|
+|   545|Bijzijn XL|
+|   545|memo - Magazine of European Medical Oncology|
+|   545|Review of Accounting Studies|
+|   547|Axiomathes|
+|   548|Clinical Neuroradiology|
+|   548|Complex Analysis and Operator Theory|
+|   548|European Archives of Oto-Rhino-Laryngology and Head &amp; Neck|
+|   550|Human Nature|
+|   551|Computational Methods and Function Theory|
+|   551|Systems practice|
+|   552|Indian Journal of Hematology and Blood Transfusion|
+|   553|Mathematics Education Research Journal|
+|   554|Annales françaises de médecine d'urgence|
+|   554|The International Journal of Advanced Manufacturing Technology|
+|   556|Foundations of Science|
+|   556|Phytochemistry Reviews|
+|   558|Journal of Scheduling|
+|   558|Palaeontologische Zeitschrift|
+|   560|Nederlands Tijdschrift voor Diabetologie|
+|   560|Nexus Network Journal|
+|   561|Abdominal Imaging|
+|   561|Formal Methods in System Design|
+|   561|The Journal of Microbiology|
+|   562|Applied Psychophysiology and Biofeedback|
+|   562|Stem Cell Reviews and Reports|
+|   564|Continental Philosophy Review|
+|   564|Journal of Heuristics|
+|   565|European Business Organization Law Review|
+|   566|Feminist Legal Studies|
+|   566|Internationale Zeitschrift für angewandte Physiologie einschließlich Arbeitsphysiologie|
+|   567|Chinese Journal of Oceanology and Limnology|
+|   569|Economics of Planning|
+|   569|Urban Forum|
+|   570|Data Mining and Knowledge Discovery|
+|   570|Geometric &amp; Functional Analysis GAFA|
+|   571|Asia Europe Journal|
+|   572|International Journal of Mental Health and Addiction|
+|   572|Microgravity Science and Technology|
+|   574|Geo-Marine Letters|
+|   574|Irrigation and Drainage Systems|
+|   575|American Journal of Dance Therapy|
+|   575|Journal of Dynamical and Control Systems|
+|   576|Agronomy for Sustainable Development|
+|   576|Applied Mathematics and Optimization|
+|   576|Hydrobiological Bulletin|
+|   576|The Visual Computer|
+|   576|Zeitschrift für Krebsforschung und Klinische Onkologie|
+|   578|Constitutional Political Economy|
+|   578|Empirical Software Engineering|
+|   579|Dao|
+|   580|Health Care Management Science|
+|   581|Dysphagia|
+|   582|Atmospheric and Oceanic Optics|
+|   582|Herz Kardiovaskuläre Erkrankungen|
+|   582|International Journal of Anthropology|
+|   584|Acta Parasitologica|
+|   586|Beiträge zur Klinik und Erforschung der Tuberkulose und der Lungenkrankheiten|
+|   587|Fühner-Wieland's Sammlung von Vergiftungsfällen|
+|   587|Journal of Applied Genetics|
+|   587|Journal of Coal Science and Engineering (China)|
+|   587|Precision Agriculture|
+|   587|Transformation Groups|
+|   588|European Archives of Paediatric Dentistry|
+|   589|Natural Computing|
+|   589|Psychopraktijk|
+|   590|Petroleum Science|
+|   590|Software Quality Journal|
+|   592|Geology of Ore Deposits|
+|   592|The journal of mental health administration|
+|   593|Audiovisual communication review|
+|   595|Applied Solar Energy|
+|   595|Naunyn-Schmiedebergs Archiv für Pharmakologie|
+|   595|Spektrum der Augenheilkunde|
+|   596|Journal of Logic, Language and Information|
+|   597|Côlon &amp; Rectum|
+|   597|Head and Neck Pathology|
+|   597|Zentralblatt für Arbeitsmedizin, Arbeitsschutz und Ergonomie|
+|   599|Current Treatment Options in Gastroenterology|
+|   603|Journal of Pharmacokinetics and Pharmacodynamics|
+|   603|Mathematica Slovaca|
+|   604|Acta Geodaetica et Geophysica Hungarica|
+|   604|Acta Geophysica|
+|   605|Gynäkologische Endokrinologie|
+|   605|Solid Fuel Chemistry|
+|   606|Chinese Annals of Mathematics, Series B|
+|   606|International Journal of Pharmaceutical Medicine|
+|   606|Lifetime Data Analysis|
+|   607|Kew Bulletin|
+|   607|TSG|
+|   608|Journal of Neural Transmission / General Section JNT|
+|   609|Gruppendynamik und Organisationsberatung|
+|   609|Somnologie - Schlafforschung und Schlafmedizin|
+|   610|Clinical Journal of Gastroenterology|
+|   611|Methodology and Computing in Applied Probability|
+|   612|Molecular and Chemical Neuropathology|
+|   613|Drug Investigation|
+|   613|Genes &amp; Genomics|
+|   614|International Journal of Game Theory|
+|   614|Journal of Housing and the Built Environment|
+|   618|Annali dell’Università di ferrara|
+|   619|Bulletin of Volcanology|
+|   619|Neuroscience Bulletin|
+|   620|Child and Youth Care Forum|
+|   621|Chemical Research in Chinese Universities|
+|   622|Human Rights Review|
+|   623|Netherlands International Law Review|
+|   624|Zeitschrift für Betriebswirtschaft|
+|   625|Journal of Neuroimmune Pharmacology|
+|   626|Biomolecular NMR Assignments|
+|   627|Current Cardiovascular Risk Reports|
+|   627|Production Engineering|
+|   628|Transactions of Tianjin University|
+|   629|IIE Transactions|
+|   629|Zeitschrift für Herz-,Thorax- und Gefäßchirurgie|
+|   631|Mediterranean Journal of Mathematics|
+|   632|Arbeitsphysiologie|
+|   632|Frontiers of Mathematics in China|
+|   633|International Urogynecology Journal|
+|   634|Anatomische Hefte|
+|   634|Education and Information Technologies|
+|   635|Journal of in Vitro Fertilization and Embryo Transfer|
+|   636|Bioprocess Engineering|
+|   637|Landslides|
+|   637|The Review of Austrian Economics|
+|   639|Il Nuovo Cimento (1911-1923)|
+|   640|Journal of Pest Science|
+|   642|Cultural Studies of Science Education|
+|   643|Apidologie|
+|   643|Asia Pacific Education Review|
+|   643|BIOspektrum|
+|   643|Cell Stress and Chaperones|
+|   644|Cell and Tissue Biology|
+|   644|Oral Radiology|
+|   644|Social psychiatry|
+|   645|Urban Ecosystems|
+|   647|Archiv für dermatologische Forschung|
+|   647|Il Nuovo Cimento (1895-1900)|
+|   648|Geo-spatial Information Science|
+|   649|Hepatology International|
+|   649|Russian Aeronautics (Iz VUZ)|
+|   650|Earthquake Engineering and Engineering Vibration|
+|   653|Bulletin of the Lebedev Physics Institute|
+|   654|Programming and Computer Software|
+|   654|Qualitas Plantarum et Materiae Vegetabiles|
+|   655|Applications of Mathematics|
+|   655|Cardiac Electrophysiology Review|
+|   655|Educational Psychology Review|
+|   656|Japan Journal of Industrial and Applied Mathematics|
+|   656|Journal of Cardiovascular Translational Research|
+|   657|BioEnergy Research|
+|   658|Neurotherapeutics|
+|   659|Computational Mechanics|
+|   659|Journal of Behavioral Education|
+|   661|International Journal of Science and Mathematics Education|
+|   661|Journal of Coastal Conservation|
+|   662|Acta Theriologica|
+|   662|Annals of Combinatorics|
+|   662|Podosophia|
+|   663|Sammlung von Vergiftungsfällen|
+|   664|Child care quarterly|
+|   664|Journal of Friction and Wear|
+|   664|Proceedings of the Indian Academy of Sciences - Earth and Planetary Sciences|
+|   666|Neuropraxis|
+|   667|Computational Geosciences|
+|   667|Human Evolution|
+|   667|Oil &amp; Fat Industries|
+|   667|Real-Time Systems|
+|   667|Roux's archives of developmental biology|
+|   667|Wilhelm Roux's archives of developmental biology|
+|   670|International Journal of Technology and Design Education|
+|   670|Statistische Hefte|
+|   671|Clinical Orthopaedics and Related Research|
+|   671|Psychologische Forschung|
+|   671|Top|
+|   672|Chemoecology|
+|   672|Journal of Quantitative Criminology|
+|   673|Era Forum|
+|   673|Negotiation Journal|
+|   674|Systemic Practice and Action Research|
+|   676|Proceedings: Plant Sciences|
+|   678|International Journal of Angiology|
+|   679|Advances in Contraception|
+|   680|Social Justice Research|
+|   684|Science in China Series F: Information Sciences|
+|   686|Economic Bulletin|
+|   686|Lasers in Medical Science|
+|   686|Transplant International|
+|   688|Journal of Cheminformatics|
+|   690|Lettere al Nuovo Cimento|
+|   692|Journal of Children's Orthopaedics|
+|   692|Physics of Particles and Nuclei|
+|   692|Thermophysics and Aeromechanics|
+|   693|Helgoländer Meeresuntersuchungen|
+|   694|European Biophysics Journal|
+|   694|Journal for General Philosophy of Science|
+|   695|Journal of Nonverbal Behavior|
+|   696|Ricerca in clinica e in laboratorio|
+|   697|Carbonates and Evaporites|
+|   698|The clinical investigator|
+|   699|International Journal of Automation and Computing|
+|   700|Drugs in R &amp; D|
+|   701|Ambio|
+|   701|Kind &amp; Adolescent Praktijk|
+|   702|The Journal of Obstetrics and Gynecology of India|
+|   703|Der Pneumologe|
+|   703|European Journal of Wood and Wood Products|
+|   703|Theoretical Medicine and Bioethics|
+|   704|Kind en adolescent|
+|   705|Journal of Bioethical Inquiry|
+|   705|Trabajos de estadistica y de investigacion operativa|
+|   706|Journal of Marine Science and Application|
+|   707|American Journal of Cardiovascular Drugs|
+|   707|Journal of Medical Toxicology|
+|   708|European Journal on Criminal Policy and Research|
+|   708|Journal of Mammary Gland Biology and Neoplasia|
+|   708|Physical Oceanography|
+|   709|Archiv für Toxikologie|
+|   710|Prevention Science|
+|   712|Employee Responsibilities and Rights Journal|
+|   712|Protein &amp; Cell|
+|   713|Optoelectronics, Instrumentation and Data Processing|
+|   714|Journal of Intelligent Information Systems|
+|   714|Trees|
+|   717|Biofeedback and Self-regulation|
+|   717|Criminal Law Forum|
+|   717|Multidimensional Systems and Signal Processing|
+|   718|Journal of Earth Science|
+|   718|Tijdschrift voor Medisch Onderwijs|
+|   719|Current Treatment Options in Oncology|
+|   719|Pediatric Drugs|
+|   719|Test|
+|   722|Environmental Modeling &amp; Assessment|
+|   724|Environmental and Ecological Statistics|
+|   724|Journal für Mathematik-Didaktik|
+|   727|Folia Geobotanica|
+|   727|Zeitschrift für Epileptologie|
+|   728|Papers of the Regional Science Association|
+|   728|Vierteljahresschrift für Dermatologie und Syphilis|
+|   729|Japanese Journal of Human Genetics|
+|   730|Algebras and Representation Theory|
+|   731|Studies on Russian Economic Development|
+|   732|Journal of Gastrointestinal Cancer|
+|   732|Proceedings of the Indian Academy of Sciences - Mathematical Sciences|
+|   733|L’Endocrinologo|
+|   735|European Journal of Population / Revue européenne de Démographie|
+|   735|Geosciences Journal|
+|   737|High Blood Pressure &amp; Cardiovascular Prevention|
+|   737|Psychological Research|
+|   738|Indian Journal of Microbiology|
+|   738|Nanotechnologies in Russia|
+|   739|Cognitive, Affective, &amp; Behavioral Neuroscience|
+|   742|Psychobiology|
+|   743|International Journal of Clinical Pharmacy|
+|   743|Journal of Happiness Studies|
+|   746|American Journal of Criminal Justice|
+|   746|Group|
+|   750|Angiogenesis|
+|   750|PodoPost|
+|   751|Mycoscience|
+|   755|Urologic radiology|
+|   757|Journal of Risk and Uncertainty|
+|   758|International Journal of Parallel Programming|
+|   759|Journal of Coatings Technology and Research|
+|   759|Journal of Cross-Cultural Gerontology|
+|   760|Science in China Series G: Physics, Mechanics and Astronomy|
+|   760|Signal, Image and Video Processing|
+|   761|Mathematical systems theory|
+|   763|Cluster Computing|
+|   763|The Journal of Behavioral Health Services &amp; Research|
+|   764|Lithology and Mineral Resources|
+|   767|The Protein Journal|
+|   768|Applied Categorical Structures|
+|   768|Journal of Control Theory and Applications|
+|   769|Journal of Economics and Finance|
+|   770|Empirica|
+|   770|Journal of Medical Humanities|
+|   773|Il Nuovo Cimento (1901-1910)|
+|   773|Information Systems Frontiers|
+|   773|Journal of Systems Science and Complexity|
+|   773|Mikrochemie vereinigt mit Mikrochimica acta|
+|   774|Journal of Mountain Science|
+|   774|Nonlinear Differential Equations and Applications NoDEA|
+|   774|The Journal of Geometric Analysis|
+|   774|Topoi|
+|   776|Cognitive Processing|
+|   776|Journal of Medical Ultrasonics|
+|   776|Journal of Physiology and Biochemistry|
+|   777|Rheumatology International|
+|   778|HAND|
+|   778|Tijdschrift voor gezondheidswetenschappen|
+|   779|Journal of Network and Systems Management|
+|   779|Mechanics of Solids|
+|   780|Acta Oceanologica Sinica|
+|   781|Radioelectronics and Communications Systems|
+|   784|Journal of Molecular Histology|
+|   785|Zeitschrift für angewandte Mathematik und Physik|
+|   786|Mycological Progress|
+|   787|Electronic Materials Letters|
+|   787|Journal of Family and Economic Issues|
+|   787|standby|
+|   788|Multibody System Dynamics|
+|   788|Open Economies Review|
+|   790|Herald of the Russian Academy of Sciences|
+|   791|Polymer Science Series B|
+|   792|Surface Engineering and Applied Electrochemistry|
+|   793|Proceedings: Animal Sciences|
+|   793|The botanical magazine = Shokubutsu-gaku-zasshi|
+|   794|Central European Journal of Biology|
+|   795|Advances in Applied Clifford Algebras|
+|   795|Photonic Network Communications|
+|   796|Multimedia Systems|
+|   797|Positivity|
+|   799|International Tax and Public Finance|
+|   799|Journal of Infrared, Millimeter, and Terahertz Waves|
+|   799|Phytothérapie|
+|   802|Journal of Regulatory Economics|
+|   802|Journal of Science Teacher Education|
+|   803|International Journal of the Classical Tradition|
+|   803|Journal of Primary Prevention|
+|   803|Operations-Research-Spektrum|
+|   804|GPS Solutions|
+|   805|Applied Composite Materials|
+|   805|Organisationsberatung, Supervision, Coaching|
+|   808|Archiv für Gewerbepathologie und Gewerbehygiene|
+|   808|European journal of applied microbiology and biotechnology|
+|   809|Marine Geophysical Researches|
+|   809|Marketing Letters|
+|   811|Innovative Higher Education|
+|   811|Trans-action|
+|   814|Il Nuovo Cimento (1877-1894)|
+|   815|Journal of the International Association for Mathematical Geology|
+|   817|Journal of Public Health|
+|   818|Geotechnical and Geological Engineering|
+|   818|International Journal of Politics, Culture, and Society|
+|   819|Die Kulturpflanze|
+|   819|Journal of Financial Services Research|
+|   820|Marketing Review St. Gallen|
+|   822|Der Nephrologe|
+|   823|Journal of Intelligent &amp; Robotic Systems|
+|   824|Journal of Nondestructive Evaluation|
+|   829|Japanese Journal of Radiology|
+|   830|Cell and Tissue Banking|
+|   830|Contemporary Problems of Ecology|
+|   830|Journal of Dynamics and Differential Equations|
+|   830|Metal Science and Heat Treatment of Metals|
+|   833|Der Gastroenterologe|
+|   833|The International Journal of Cardiac Imaging|
+|   833|World Journal of Urology|
+|   835|Health Care Analysis|
+|   839|Group Decision and Negotiation|
+|   839|Law and Philosophy|
+|   840|Journal of Developmental and Physical Disabilities|
+|   841|Journal of Maxillofacial and Oral Surgery|
+|   842|Political Behavior|
+|   843|Environment, Development and Sustainability|
+|   844|Pharmacy World and Science|
+|   844|Reaction Kinetics, Mechanisms and Catalysis|
+|   846|Combustion, Explosion, and Shock Waves|
+|   847|Chesapeake Science|
+|   847|Circuits, Systems, and Signal Processing|
+|   847|Russian Linguistics|
+|   848|European Journal of Law and Economics|
+|   849|Linguistics and Philosophy|
+|   849|Zeitschrift für experimentelle Pathologie und Therapie|
+|   852|Chemistry Central Journal|
+|   852|Natural Language &amp; Linguistic Theory|
+|   853|Annals of Hematology|
+|   853|The Australian Educational Researcher|
+|   856|Coke and Chemistry|
+|   857|Journal of Clinical Monitoring|
+|   857|Optimization Letters|
+|   858|International Journal of Automotive Technology|
+|   858|Researches on Population Ecology|
+|   859|Analysis Mathematica|
+|   860|Archiv für Meteorologie, Geophysik und Bioklimatologie, Serie B|
+|   861|Journal of Signal Processing Systems|
+|   864|Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity|
+|   864|Minds and Machines|
+|   865|Surveys in Geophysics|
+|   868|Heart Failure Reviews|
+|   868|Journal of Clinical Psychology in Medical Settings|
+|   869|Bulletin of Earthquake Engineering|
+|   869|Moscow University Physics Bulletin|
+|   871|Computational Economics|
+|   872|European Journal of Trauma and Emergency Surgery|
+|   873|CALCOLO|
+|   873|Current Treatment Options in Neurology|
+|   873|Forensic Science, Medicine, and Pathology|
+|   875|Journal of Computer and Systems Sciences International|
+|   875|Journal of Plant Biochemistry and Biotechnology|
+|   877|Reviews in Fish Biology and Fisheries|
+|   878|Molecular Imaging and Biology|
+|   879|Cechoslovackij fiziceskij zurnal B|
+|   879|Journal of Cultural Economics|
+|   880|EcoHealth|
+|   881|Onderwijs en gezondheidszorg|
+|   882|Russian Journal of Developmental Biology|
+|   884|Annals of Forest Science|
+|   884|Auto Tech Review|
+|   885|Journal of Fourier Analysis and Applications|
+|   887|Metabolomics|
+|   887|Microbial Ecology|
+|   889|Gynecological Surgery|
+|   892|Archiv für Kreislaufforschung|
+|   893|Culture, Medicine and Psychiatry|
+|   893|Journal of Seismology|
+|   893|Russian Journal of Non-Ferrous Metals|
+|   895|Archive for History of Exact Sciences|
+|   895|Ethical Theory and Moral Practice|
+|   896|Annales Henri Poincaré|
+|   896|Journal of the Korean Society for Applied Biological Chemistry|
+|   897|Journal of Productivity Analysis|
+|   898|Journal of Machinery Manufacture and Reliability|
+|   898|The Cerebellum|
+|   899|International Journal of Environmental Science and Technology|
+|   899|Rendiconti Lincei|
+|   900|European Journal of Forest Research|
+|   903|Protection of Metals and Physical Chemistry of Surfaces|
+|   904|International Journal of Behavioral Medicine|
+|   905|Biogerontology|
+|   905|Journal of Orofacial Orthopedics / Fortschritte der Kieferorthopädie|
+|   908|Journal of the Oceanographical Society of Japan|
+|   910|Advances in Health Sciences Education|
+|   910|Archiv für Meteorologie, Geophysik und Bioklimatologie, Serie A|
+|   910|In Vitro Cellular &amp; Developmental Biology|
+|   912|Pattern Recognition and Image Analysis|
+|   912|Solar System Research|
+|   913|Journal of Polymers and the Environment|
+|   913|Trends in Organized Crime|
+|   915|Petroleum Chemistry|
+|   916|Autonomous Robots|
+|   916|Journal of Natural Medicines|
+|   916|Naunyn-Schmiedebergs Archiv für Pharmakologie und experimentelle Pathologie|
+|   916|The journal of nutrition, health &amp; aging|
+|   917|Man and World|
+|   917|The American Sociologist|
+|   918|Neural Processing Letters|
+|   919|Izvestiya, Physics of the Solid Earth|
+|   921|Acta Applicandae Mathematicae|
+|   921|BT Technology Journal|
+|   921|International Journal of Public Health|
+|   921|Standort|
+|   923|Sugar Tech|
+|   924|Izvestiya, Atmospheric and Oceanic Physics|
+|   924|The Annals of Regional Science|
+|   925|American Journal of Clinical Dermatology|
+|   926|Current Psychology|
+|   928|International Journal of Minerals, Metallurgy, and Materials|
+|   930|coloproctology|
+|   930|Wetlands Ecology and Management|
+|   931|Chinese Journal of Integrated Traditional and Western Medicine|
+|   931|Experimental Astronomy|
+|   931|Inflammopharmacology|
+|   933|Journal of Industrial Microbiology|
+|   933|Mitigation and Adaptation Strategies for Global Change|
+|   934|Current Treatment Options in Cardiovascular Medicine|
+|   934|Matériaux et Construction|
+|   934|Protection of Metals|
+|   938|Surgical and Radiologic Anatomy|
+|   940|Biology and Philosophy|
+|   941|Central European Journal of Medicine|
+|   942|Experimental and Applied Acarology|
+|   942|Fresenius' Zeitschrift für Analytische Chemie|
+|   945|Cosmic Research|
+|   948|e &amp; i Elektrotechnik und Informationstechnik|
+|   949|Tijdschrift voor kindergeneeskunde|
+|   950|European Radiology|
+|   950|Flow, Turbulence and Combustion|
+|   951|Tree Genetics &amp; Genomes|
+|   953|Journal of VLSI signal processing systems for signal, image and video technology|
+|   958|Population Research and Policy Review|
+|   960|Letters in Peptide Science|
+|   960|Molecular Diversity|
+|   962|Annals of Vascular Surgery|
+|   962|Medical Microbiology and Immunology|
+|   964|Clinical Reviews in Allergy &amp; Immunology|
+|   965|Journal of Ocean University of China|
+|   965|Population and Environment|
+|   965|Somatic Cell and Molecular Genetics|
+|   966|Journal of Computational Neuroscience|
+|   966|Russian Microelectronics|
+|   967|Journal of Gambling Studies|
+|   968|Artificial Intelligence Review|
+|   968|Environmental Health and Preventive Medicine|
+|   968|International Journal of Pancreatology|
+|   969|Helgoländer wissenschaftliche Meeresuntersuchungen|
+|   969|Sociological Forum|
+|   970|Advances in Computational Mathematics|
+|   970|American Journal of Potato Research|
+|   970|Familial Cancer|
+|   970|Foundations of Physics Letters|
+|   971|Schweizerische Zeitschrift für Hydrologie|
+|   973|Boundary Value Problems|
+|   973|HMD Praxis der Wirtschaftsinformatik|
+|   973|Studies in Comparative International Development|
+|   974|Il Nuovo Cimento A Series 10|
+|   976|Douleur et Analgésie|
+|   977|Aquatic Ecology|
+|   980|Acta Informatica|
+|   983|Journal of Indian Philosophy|
+|   983|Raumforschung und Raumordnung|
+|   984|Sexual Plant Reproduction|
+|   986|Welding in the World|
+|   988|Polar Biology|
+|   994|Russian Mathematics|
+|   995|Asia Pacific Journal of Management|
+|   995|Journal of inclusion phenomena and molecular recognition in chemistry|
+|   995|Österreichische Wasser- und Abfallwirtschaft|
+|   996|European Journal of Clinical Microbiology|
+|   997|ZDM|
+|   998|Journal für Verbraucherschutz und Lebensmittelsicherheit|
+|   999|Oceanology|
+|   999|Pituitary|
+|   999|Russian Meteorology and Hydrology|
+|  1000|Archives of orthopaedic and traumatic surgery|
+|  1000|The Ramanujan Journal|
+|  1001|The European Physical Journal Plus|
+|  1002|Child Psychiatry and Human Development|
+|  1003|Journal of Automated Reasoning|
+|  1005|Journal of Occupational Rehabilitation|
+|  1007|Aquatic Sciences|
+|  1008|Journal of Shanghai Jiaotong University (Science)|
+|  1010|Journal of Plant Biology|
+|  1011|Critical care|
+|  1014|Circuits, Systems and Signal Processing|
+|  1014|Journal of Consumer Policy|
+|  1014|Rare Metals|
+|  1015|Potential Analysis|
+|  1017|Facies|
+|  1017|Journal of Cancer Education|
+|  1019|Ethik in der Medizin|
+|  1020|Science China Life Sciences|
+|  1020|Transactions of the Indian Institute of Metals|
+|  1021|Annales Geophysicae|
+|  1022|Geochemistry International|
+|  1022|Mycotoxin Research|
+|  1023|Probability Theory and Related Fields|
+|  1023|Tijdschrift voor praktijkondersteuning|
+|  1024|HEC Forum|
+|  1024|Physiological Psychology|
+|  1024|Revue de synthèse|
+|  1027|Forschung im Ingenieurwesen A|
+|  1031|Central European Journal of Mathematics|
+|  1031|Journal of Tongji Medical University|
+|  1032|Zeitschrift für Physik A Atomic Nuclei|
+|  1035|Journal of Traumatic Stress|
+|  1037|Publishing Research Quarterly|
+|  1037|Réanimation|
+|  1039|Review of Quantitative Finance and Accounting|
+|  1041|Forschung auf dem Gebiet des Ingenieurwesens A|
+|  1041|Neurosurgical Review|
+|  1042|European Journal of Plastic Surgery|
+|  1042|Plasmonics|
+|  1046|BioDrugs|
+|  1047|Pediatric Cardiology|
+|  1048|Argumentation|
+|  1050|International Journal of Control, Automation and Systems|
+|  1050|Journal of Computational Electronics|
+|  1050|Journal of Geographical Sciences|
+|  1053|European Journal of Wildlife Research|
+|  1053|Journal of Biomedical Science|
+|  1055|Folia Geobotanica et Phytotaxonomica|
+|  1056|Journal of Agricultural and Environmental Ethics|
+|  1056|Journal of Ichthyology|
+|  1058|Acta Physica Hungarica|
+|  1060|Journal of Russian Laser Research|
+|  1061|Journal of Science Education and Technology|
+|  1064|Contemporary Family Therapy|
+|  1065|Neurotoxicity Research|
+|  1066|Rendiconti del Seminario Matematico e Fisico di Milano|
+|  1069|Brain Topography|
+|  1069|Cechoslovackij fiziceskij zurnal|
+|  1069|Power Technology and Engineering|
+|  1074|Journal of Biological Physics|
+|  1077|Journal of Crystallographic and Spectroscopic Research|
+|  1081|Bijblijven|
+|  1082|Wood Science and Technology|
+|  1083|International Journal of Early Childhood|
+|  1083|Journal of Forest Research|
+|  1084|Il Nuovo Cimento (1924-1942)|
+|  1085|Journal of Business and Psychology|
+|  1085|Journal of Mathematical Imaging and Vision|
+|  1086|Dialectical Anthropology|
+|  1086|Journal of Algebraic Combinatorics|
+|  1086|The AAPS Journal|
+|  1087|Endocrine Pathology|
+|  1090|Journal of Combinatorial Optimization|
+|  1091|Children's Literature in Education|
+|  1091|Journal of NeuroVirology|
+|  1094|Skipr|
+|  1095|Order|
+|  1096|Zeitschrift für Morphologie und Ökologie der Tiere|
+|  1098|Journal of Clinical Monitoring and Computing|
+|  1098|Statistics and Computing|
+|  1098|Zeitschrift für Erziehungswissenschaft|
+|  1099|Reading and Writing|
+|  1102|Doklady Physical Chemistry|
+|  1102|Politische Vierteljahresschrift|
+|  1103|Nano Research|
+|  1107|Applied Mathematics-A Journal of Chinese Universities|
+|  1108|Journal of the History of Biology|
+|  1108|The Mathematical Intelligencer|
+|  1109|Aesthetic Plastic Surgery|
+|  1111|Mobile Networks and Applications|
+|  1112|Tijdschrift voor Gezondheidsrecht|
+|  1114|Wirtschaftsinformatik|
+|  1117|BHM Berg- und Hüttenmännische Monatshefte|
+|  1118|BioControl|
+|  1118|Journal of Mathematical Biology|
+|  1119|The Journal of Technology Transfer|
+|  1120|Journal of Visualization|
+|  1120|Netherlands Heart Journal|
+|  1121|Russian Agricultural Sciences|
+|  1123|Annals of Global Analysis and Geometry|
+|  1123|Early Childhood Education Journal|
+|  1124|Voluntas: International Journal of Voluntary and Nonprofit Organizations|
+|  1125|Journal of Psychopathology and Behavioral Assessment|
+|  1126|Child and Adolescent Social Work Journal|
+|  1126|Quality &amp; Quantity|
+|  1127|Motivation and Emotion|
+|  1128|Zeitschrift für Präventivmedizin|
+|  1132|Qualitative Sociology|
+|  1133|Magnetic Resonance Materials in Physics, Biology and Medicine|
+|  1136|Mikrochemie|
+|  1138|Chemical Papers|
+|  1138|Medicine, Health Care and Philosophy|
+|  1145|Fixed Point Theory and Applications|
+|  1150|Andrologie|
+|  1150|Controlling &amp; Management|
+|  1151|Studies in Soviet Thought|
+|  1154|The Psychiatric Quarterly|
+|  1157|Journal of Pharmacokinetics and Biopharmaceutics|
+|  1160|The Journal of Real Estate Finance and Economics|
+|  1162|Wärme - und Stoffübertragung|
+|  1166|Journal of Surfactants and Detergents|
+|  1167|Crime, Law and Social Change|
+|  1168|Journal of General Plant Pathology|
+|  1168|Russian Journal of Marine Biology|
+|  1170|Denkbeeld|
+|  1170|Doklady Chemistry|
+|  1176|Mammalian Genome|
+|  1177|Sexuality and Disability|
+|  1178|Computational Mathematics and Modeling|
+|  1180|Annals of Mathematics and Artificial Intelligence|
+|  1181|Human Studies|
+|  1181|Quality and Quantity|
+|  1182|Biology Bulletin|
+|  1182|Instructional Science|
+|  1182|Pallium|
+|  1183|Applied Intelligence|
+|  1183|Food Analytical Methods|
+|  1184|The Botanical Review|
+|  1190|International Journal of Material Forming|
+|  1190|Journal of Insect Conservation|
+|  1193|Educational Technology Research and Development|
+|  1193|Russian Electrical Engineering|
+|  1194|Der Diabetologe|
+|  1195|Science in China Series C: Life Sciences|
+|  1196|Physics of Particles and Nuclei Letters|
+|  1197|PharmacoResources|
+|  1198|Zeitschrift für Operations Research|
+|  1199|Gold Bulletin|
+|  1204|Sophia|
+|  1206|Estuaries and Coasts|
+|  1206|Science China Mathematics|
+|  1208|Acta Neurovegetativa|
+|  1210|Journal of Comparative Physiology B|
+|  1210|Policy Sciences|
+|  1212|International Journal for the Advancement of Counselling|
+|  1214|Journal of Earth System Science|
+|  1216|Journal of Industrial Microbiology and Biotechnology|
+|  1218|Russian Journal of Physical Chemistry B|
+|  1219|La radiologia medica|
+|  1221|Behavior Research Methods|
+|  1222|Journal of Immigrant and Minority Health|
+|  1223|Paleontological Journal|
+|  1226|Entomological Review|
+|  1227|Current Pain and Headache Reports|
+|  1228|Aerobiologia|
+|  1233|International Journal of Computer Assisted Radiology and Surgery|
+|  1237|European Surgery|
+|  1238|New Forests|
+|  1238|The bulletin of mathematical biophysics|
+|  1240|Journal of Astrophysics and Astronomy|
+|  1241|The Urban Review|
+|  1246|Journal of Contemporary Psychotherapy|
+|  1249|Central European Journal of Physics|
+|  1249|Operative Orthopädie und Traumatologie|
+|  1250|Fertilizer research|
+|  1250|Studies in Philosophy and Education|
+|  1252|Quantum Information Processing|
+|  1254|Il Nuovo Cimento B Series 10|
+|  1256|Arkiv för Matematik|
+|  1256|Medical and biological engineering|
+|  1257|Archiv für klinische und experimentelle Ohren-, Nasen- und Kehlkopfheilkunde|
+|  1258|General Thoracic and Cardiovascular Surgery|
+|  1259|Indian Journal of Physics|
+|  1261|Journal of Philosophical Logic|
+|  1267|Journal of the Geological Society of India|
+|  1268|Adsorption|
+|  1269|Science China Earth Sciences|
+|  1272|Il Nuovo Cimento C|
+|  1273|Advances in Therapy|
+|  1273|Current Oncology Reports|
+|  1274|Zeitschrift für die gesamte Versicherungswissenschaft|
+|  1276|Juristische Blätter|
+|  1278|Acta Biotheoretica|
+|  1278|KSME International Journal|
+|  1280|Stochastic Environmental Research and Risk Assessment|
+|  1285|International Orthopaedics|
+|  1286|Calcified Tissue Research|
+|  1286|Journal of Failure Analysis and Prevention|
+|  1288|Proceedings of the Steklov Institute of Mathematics|
+|  1295|Archives of gynecology|
+|  1298|Current Neurology and Neuroscience Reports|
+|  1298|Journal of Shanghai University (English Edition)|
+|  1301|Current Allergy and Asthma Reports|
+|  1302|Journal of Ornithology|
+|  1303|Biomedical Microdevices|
+|  1303|Histochemie|
+|  1304|Russian Journal of Ecology|
+|  1305|Journal d’Analyse Mathématique|
+|  1314|Journal of Inorganic and Organometallic Polymers and Materials|
+|  1315|Cell Biology and Toxicology|
+|  1316|Der Freie Zahnarzt|
+|  1317|Geomagnetism and Aeronomy|
+|  1317|Metrika|
+|  1317|Stimulus|
+|  1320|Journal of Family Violence|
+|  1323|Zeitschrift für Ernährungswissenschaft|
+|  1325|The Dublin Quarterly Journal of Medical Science|
+|  1328|Current Urology Reports|
+|  1330|Advances in Difference Equations|
+|  1330|Current Diabetes Reports|
+|  1330|Law and Human Behavior|
+|  1330|Origins of life and evolution of the biosphere|
+|  1331|Bulletin Géodésique (1946-1975)|
+|  1331|Current Atherosclerosis Reports|
+|  1331|Experiments in Fluids|
+|  1331|Water Resources|
+|  1332|Physics and Chemistry of Minerals|
+|  1332|Sleep and Breathing|
+|  1334|Ageing International|
+|  1334|Computational Optimization and Applications|
+|  1334|Science and Engineering Ethics|
+|  1334|Tijdschrift voor Psychotherapie|
+|  1335|High Energy Chemistry|
+|  1335|Optoelectronics Letters|
+|  1337|Polymer Science Series A|
+|  1338|Journal of Labor Research|
+|  1339|Journal of Evolutionary Biochemistry and Physiology|
+|  1339|Medical &amp; Biological Engineering &amp; Computing|
+|  1341|Acta diabetologia latina|
+|  1341|Chinese Geographical Science|
+|  1341|The Italian Journal of Neurological Sciences|
+|  1344|Current Gastroenterology Reports|
+|  1344|Parasitology Research|
+|  1345|Current Rheumatology Reports|
+|  1345|Indian Pediatrics|
+|  1350|Japanese Journal of Ophthalmology|
+|  1352|Internal and Emergency Medicine|
+|  1353|Central European Journal of Chemistry|
+|  1356|Review of Industrial Organization|
+|  1357|Current Infectious Disease Reports|
+|  1357|Metabolic Brain Disease|
+|  1357|Mycorrhiza|
+|  1358|Combinatorica|
+|  1359|Zeitschrift für Nationalökonomie|
+|  1360|Zeitschrift für Physik A Hadrons and Nuclei|
+|  1361|Cancer and Metastasis Reviews|
+|  1364|Journal of Intelligent and Robotic Systems|
+|  1370|Indian Journal of Surgery|
+|  1371|Attention, Perception, &amp; Psychophysics|
+|  1376|Breast Cancer|
+|  1376|Indian Journal of Otolaryngology and Head and Neck Surgery|
+|  1377|Environmental Geochemistry and Health|
+|  1380|Annals of Behavioral Medicine|
+|  1380|Biophysics|
+|  1382|Journal of Applied Mathematics and Computing|
+|  1383|Maatwerk|
+|  1383|Metascience|
+|  1384|Journal of Theoretical Probability|
+|  1384|KZfSS Kölner Zeitschrift für Soziologie und Sozialpsychologie|
+|  1394|Theory and Society|
+|  1395|Environmentalist|
+|  1400|European Journal of Nutrition|
+|  1401|Journal of the Indian Society of Remote Sensing|
+|  1404|Indo-Iranian Journal|
+|  1406|Geofisica pura e applicata|
+|  1406|Journal of the Iranian Chemical Society|
+|  1407|Netherlands Journal of Plant Pathology|
+|  1409|Plant Cell, Tissue and Organ Culture (PCTOC)|
+|  1411|Journal of Cluster Science|
+|  1411|Pathology &amp; Oncology Research|
+|  1411|Surgical Endoscopy|
+|  1413|The Japanese journal of surgery|
+|  1416|Chinese Journal of Integrative Medicine|
+|  1416|Rock Mechanics and Rock Engineering|
+|  1417|Journal of Thermal Science|
+|  1418|Clinical Research in Cardiology|
+|  1418|Doklady Biochemistry and Biophysics|
+|  1418|Science in China Series B: Chemistry|
+|  1419|Journal of Psycholinguistic Research|
+|  1419|Journal of Zhejiang University Science B|
+|  1422|Journal of Genetic Counseling|
+|  1423|Transportation|
+|  1423|Wiener Medizinische Wochenschrift|
+|  1424|In Vitro|
+|  1428|Il Nuovo Cimento (1943-1954)|
+|  1429|The Review of Black Political Economy|
+|  1432|The Japanese Journal of Thoracic and Cardiovascular Surgery|
+|  1433|Indian Journal of Otolaryngology and Head &amp; Neck Surgery|
+|  1434|Biodegradation|
+|  1434|Science &amp; Education|
+|  1436|Intensivmedizin und Notfallmedizin|
+|  1436|International Journal of Earth Sciences|
+|  1439|AGE|
+|  1443|Journal of Atmospheric Chemistry|
+|  1447|Deutsche Hydrografische Zeitschrift|
+|  1451|International Advances in Economic Research|
+|  1452|Blätter der DGVFM|
+|  1455|Mednet|
+|  1456|Current Psychiatry Reports|
+|  1456|European Journal of Applied Physiology|
+|  1460|Research in Experimental Medicine|
+|  1460|Science China Information Sciences|
+|  1461|Plasma Chemistry and Plasma Processing|
+|  1464|Astronomy Letters|
+|  1465|International Journal for Philosophy of Religion|
+|  1466|Research in Science Education|
+|  1468|Administration and Policy in Mental Health and Mental Health Services Research|
+|  1469|Calculus of Variations and Partial Differential Equations|
+|  1475|Osteoporosis International|
+|  1481|Mathematical Geology|
+|  1486|Journal of Electronic Testing|
+|  1487|Day Care and Early Education|
+|  1488|Gastrointestinal Radiology|
+|  1490|Acta Seismologica Sinica|
+|  1491|Current Cardiology Reports|
+|  1491|Zeitschrift für Rechtsmedizin|
+|  1494|Archiv für Entwicklungsmechanik der Organismen|
+|  1494|Conservation Genetics Resources|
+|  1495|Queueing Systems|
+|  1497|Aquaculture International|
+|  1499|Il Nuovo Cimento|
+|  1502|Anzeiger für Schädlingskunde, Pflanzenschutz, Umweltschutz|
+|  1502|Bulletin of the International Association of Engineering Geology - Bulletin de l'Association Internationale de Géologie de l'Ingénieur|
+|  1502|Journal of Hepato-Biliary-Pancreatic Surgery|
+|  1503|Czechoslovak Mathematical Journal|
+|  1506|Annals of Microbiology|
+|  1511|Urological Research|
+|  1515|The Soviet Journal of Atomic Energy|
+|  1517|Glass Physics and Chemistry|
+|  1519|Bulletin géodésique|
+|  1522|Canadian Journal of Anesthesia/Journal canadien d'anesthésie|
+|  1524|Journal of Industrial Microbiology &amp; Biotechnology|
+|  1526|Neurocritical Care|
+|  1527|The Chinese-German Journal of Clinical Oncology|
+|  1531|Zeitschrift für Gerontologie und Geriatrie|
+|  1532|Chinese Journal of Cancer Research|
+|  1532|Humangenetik|
+|  1535|Experimental &amp; Applied Acarology|
+|  1535|Unfallchirurgie|
+|  1537|Current Hypertension Reports|
+|  1538|Science in China Series E: Technological Sciences|
+|  1539|Bulletin volcanologique|
+|  1539|Russian Journal of Bioorganic Chemistry|
+|  1543|Clinical Autonomic Research|
+|  1543|Journal of Oceanography|
+|  1543|Sozial Extra|
+|  1544|Acta Diabetologica|
+|  1545|Acta Applicandae Mathematica|
+|  1545|Sadhana|
+|  1548|Journal of Forestry Research|
+|  1549|Cardiovascular and Interventional Radiology|
+|  1550|Indian Journal of Clinical Biochemistry|
+|  1550|Journal of Scientific Computing|
+|  1551|Biologia|
+|  1551|Russian Metallurgy (Metally)|
+|  1555|Evolutionary Ecology|
+|  1558|Science China Physics, Mechanics and Astronomy|
+|  1560|Small Business Economics|
+|  1565|Nutrient Cycling in Agroecosystems|
+|  1568|Journal of Porous Materials|
+|  1572|Clinical Rheumatology|
+|  1586|Wirtschaftsdienst|
+|  1587|Interchange|
+|  1592|The Physics of Metals and Metallography|
+|  1601|Applied Scientific Research|
+|  1601|Comparative Clinical Pathology|
+|  1603|Acta Mathematica Academiae Scientiarum Hungarica|
+|  1604|Food and Bioprocess Technology|
+|  1606|Indian Journal of Thoracic and Cardiovascular Surgery|
+|  1613|Mineralium Deposita|
+|  1617|Journal of Intelligent Manufacturing|
+|  1619|Journal of Acupuncture and Tuina Science|
+|  1622|Celestial mechanics|
+|  1625|Clinical and Translational Oncology|
+|  1626|Journal of Muscle Research &amp; Cell Motility|
+|  1628|Computers and the Humanities|
+|  1628|Herz|
+|  1630|Agriculture and Human Values|
+|  1630|Environmental Management|
+|  1631|Journal of Protein Chemistry|
+|  1632|Journal of Soils and Sediments|
+|  1636|Proceedings of the Indian Academy of Sciences - Chemical Sciences|
+|  1638|Astronomy Reports|
+|  1639|Applied physics|
+|  1650|Journal of Insect Behavior|
+|  1651|Academic Questions|
+|  1654|Wireless Networks|
+|  1655|Telecommunication Systems|
+|  1659|Human Ecology|
+|  1659|Meteorology and Atmospheric Physics|
+|  1659|Molecular Neurobiology|
+|  1661|Philosophia|
+|  1672|Sportwissenschaft|
+|  1676|Microfluidics and Nanofluidics|
+|  1677|Science China Chemistry|
+|  1678|Immunologic Research|
+|  1682|Journal of Behavioral Medicine|
+|  1685|Journal of Surface Investigation. X-ray, Synchrotron and Neutron Techniques|
+|  1686|KSCE Journal of Civil Engineering|
+|  1688|Transactions of the Royal Academy of Medicine in Ireland|
+|  1690|Fisheries Science|
+|  1693|Albrecht von Graefes Archiv für klinische und experimentelle Ophthalmologie|
+|  1694|International Journal of Precision Engineering and Manufacturing|
+|  1696|Biometals|
+|  1700|Computational Mathematics and Mathematical Physics|
+|  1700|Zeitschrift für Kardiologie|
+|  1703|Periodica Mathematica Hungarica|
+|  1704|Bulletin of Alloy Phase Diagrams|
+|  1709|Monatsschrift für das Forst- und Jagdwesen|
+|  1718|Theory and Decision|
+|  1721|Eurasian Soil Science|
+|  1721|Machine Learning|
+|  1725|Journal of Urban Health|
+|  1732|Publizistik|
+|  1733|Thermal Engineering|
+|  1734|Weltwirtschaftliches Archiv|
+|  1736|Radiochemistry|
+|  1738|Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg|
+|  1742|Acoustical Physics|
+|  1747|Plant Foods for Human Nutrition|
+|  1750|Bioscience Reports|
+|  1753|Rendiconti del Circolo Matematico di Palermo (1884-1940)|
+|  1761|Oncologie|
+|  1764|Neohelicon|
+|  1765|Journal of the Academy of Marketing Science|
+|  1777|Neural Computing and Applications|
+|  1781|Wilhelm Roux' Archiv für Entwicklungsmechanik der Organismen|
+|  1784|Russian Journal of Plant Physiology|
+|  1785|Journal of Fusion Energy|
+|  1787|Oil &amp; Soap|
+|  1789|Biotechnology Techniques|
+|  1789|Journal of Elasticity|
+|  1792|Transgenic Research|
+|  1796|Arabian Journal for Science and Engineering|
+|  1796|Journal of Interventional Cardiac Electrophysiology|
+|  1797|Minerva|
+|  1801|Colloid Journal|
+|  1809|Journal of Child and Family Studies|
+|  1809|Journal of Communications Technology and Electronics|
+|  1814|Clinical Social Work Journal|
+|  1817|Journal of Electroceramics|
+|  1819|Journal of Geometry|
+|  1822|International Journal of Computer Vision|
+|  1825|Science in China Series D: Earth Sciences|
+|  1827|Research in Higher Education|
+|  1828|Metals and Materials International|
+|  1831|Behavioral Ecology and Sociobiology|
+|  1834|Environmental and Resource Economics|
+|  1837|Applied Biochemistry and Microbiology|
+|  1838|Molecular Biology|
+|  1843|Journal of Computer-Aided Molecular Design|
+|  1845|Tschermaks mineralogische und petrographische Mitteilungen|
+|  1848|Pharmaceutisch Weekblad|
+|  1850|Theoretical Foundations of Chemical Engineering|
+|  1857|Kinetics and Catalysis|
+|  1857|Microbiology|
+|  1858|Celestial Mechanics and Dynamical Astronomy|
+|  1858|Journal of Phase Equilibria and Diffusion|
+|  1859|Russian Journal of Nondestructive Testing|
+|  1862|Medizinische Klinik|
+|  1863|European Journal of Drug Metabolism and Pharmacokinetics|
+|  1865|Semigroup Forum|
+|  1878|Biotechnology and Bioprocess Engineering|
+|  1879|Estuaries|
+|  1888|Radiation and Environmental Biophysics|
+|  1892|Phytoparasitica|
+|  1893|AAPS PharmSciTech|
+|  1893|Photosynthetica|
+|  1906|Acta Endoscopica|
+|  1906|CNS Drugs|
+|  1911|Lithuanian Mathematical Journal|
+|  1917|In Vitro Cellular &amp; Developmental Biology - Plant|
+|  1919|Archive of Applied Mechanics|
+|  1923|Metallurgical Transactions B|
+|  1923|Paläontologische Zeitschrift|
+|  1931|European Archives of Psychiatry and Clinical Neuroscience|
+|  1936|Journal of Inequalities and Applications|
+|  1937|Plasma Physics Reports|
+|  1944|Chromosome Research|
+|  1944|Springer Healthcare News|
+|  1946|Biodiversity &amp; Conservation|
+|  1954|Chinese Journal of Geochemistry|
+|  1957|Indian Journal of Otolaryngology|
+|  1958|Macromolecular Research|
+|  1960|Journal of Paleolimnology|
+|  1963|Journal of Digital Imaging|
+|  1969|Steel in Translation|
+|  1979|Heart and Vessels|
+|  1979|Journal of Chemical Sciences|
+|  1986|Il Nuovo Cimento A|
+|  1992|Human Physiology|
+|  1995|Numerical Algorithms|
+|  1998|Acta Mechanica Sinica|
+|  1999|Few-Body Systems|
+|  2000|Journal of Phase Equilibria|
+|  2004|Journal of Superconductivity|
+|  2005|Entomophaga|
+|  2016|Cellular and Molecular Life Sciences CMLS|
+|  2017|The International Journal of Life Cycle Assessment|
+|  2019|Results in Mathematics|
+|  2023|Zeitschrift für Jagdwissenschaft|
+|  2024|Science in China Series A: Mathematics|
+|  2030|Journal of Zhejiang University Science A|
+|  2031|Animal Learning &amp; Behavior|
+|  2031|Journal of Food Science and Technology|
+|  2036|Journal of Bioenergetics and Biomembranes|
+|  2036|Tijdschrift over Plantenziekten|
+|  2038|Biodiversity and Conservation|
+|  2038|Zeitschrift für Wahrscheinlichkeitstheorie und Verwandte Gebiete|
+|  2044|Der Schmerz|
+|  2046|Designs, Codes and Cryptography|
+|  2046|Psychopharmacologia|
+|  2050|Cancer Immunology, Immunotherapy|
+|  2054|Refractories and Industrial Ceramics|
+|  2059|Academic Psychiatry|
+|  2065|Drugs &amp; Aging|
+|  2067|e&amp;i Elektrotechnik und Informationstechnik|
+|  2071|Ecotoxicology|
+|  2074|Systematic Parasitology|
+|  2076|Arabian Journal of Geosciences|
+|  2076|Journal of Comparative Physiology A|
+|  2078|Anatomy and Embryology|
+|  2088|Apoptosis|
+|  2088|Clinical &amp; Experimental Metastasis|
+|  2088|High Temperature|
+|  2091|Earth, Moon, and Planets|
+|  2093|Molecular Breeding|
+|  2094|Mycopathologia et mycologia applicata|
+|  2098|Acta Mathematica|
+|  2100|Maternal and Child Health Journal|
+|  2104|Journal of Central South University|
+|  2109|Journal of Huazhong University of Science and Technology [Medical Sciences]|
+|  2114|The Journal of Supercomputing|
+|  2120|Doklady Biological Sciences|
+|  2127|Soft Computing|
+|  2131|Conservation Genetics|
+|  2132|Journal of Thrombosis and Thrombolysis|
+|  2136|Virchows Archiv B|
+|  2138|Pediatric Nephrology|
+|  2139|Cognitive Therapy and Research|
+|  2141|Behavior Research Methods, Instruments, &amp; Computers|
+|  2142|Der Züchter|
+|  2149|Algebra and Logic|
+|  2155|Journal of Community Health|
+|  2155|Rendiconti del Circolo Matematico di Palermo|
+|  2157|Mathematical Programming|
+|  2159|Zeitschrift für vergleichende Physiologie|
+|  2160|Educational Studies in Mathematics|
+|  2161|Potato Research|
+|  2162|Fire Technology|
+|  2163|Oxidation of Metals|
+|  2163|The Journal of Value Inquiry|
+|  2169|Ecological Research|
+|  2170|Laser Physics|
+|  2172|Lung|
+|  2173|Cellulose|
+|  2175|Behavior Research Methods &amp; Instrumentation|
+|  2178|Cell Biochemistry and Biophysics|
+|  2181|European Journal of Clinical Microbiology and Infectious Diseases|
+|  2182|Wetlands|
+|  2188|Landscape Ecology|
+|  2190|Clinical Drug Investigation|
+|  2199|Biological Cybernetics|
+|  2200|Journal of Neurocytology|
+|  2202|Aging Clinical and Experimental Research|
+|  2203|The International Journal of Cardiovascular Imaging|
+|  2204|Fibers and Polymers|
+|  2208|Russian Journal of Coordination Chemistry|
+|  2208|Science China Technological Sciences|
+|  2213|The American Journal of Psychoanalysis|
+|  2215|Russian Engineering Research|
+|  2218|Molecular Biotechnology|
+|  2222|Current Microbiology|
+|  2232|Plant Cell Reports|
+|  2239|Metallurgical Transactions|
+|  2253|Journal of Mining Science|
+|  2257|Journal of Polymer Research|
+|  2259|Archiv für die gesamte Virusforschung|
+|  2259|Journal of Electronics (China)|
+|  2262|Commentarii Mathematici Helvetici|
+|  2262|Cytotechnology|
+|  2266|Australasian Plant Pathology|
+|  2268|Zeitschrift für Untersuchung der Lebensmittel|
+|  2271|Archiv für Ohrenheilkunde|
+|  2274|Sports Medicine|
+|  2276|Archiv für mikroskopische Anatomie|
+|  2283|Journal of Molecular Evolution|
+|  2283|Plant Molecular Biology Reporter|
+|  2288|Current Genetics|
+|  2290|Acta Physica Academiae Scientiarum Hungaricae|
+|  2290|Journal of Central South University of Technology|
+|  2291|Journal of Computer Science and Technology|
+|  2294|Österreichisches botanisches Wochenblatt|
+|  2297|Umweltwissenschaften und Schadstoff-Forschung|
+|  2304|Prospects|
+|  2305|Ingenieur-Archiv|
+|  2309|International Journal of Primatology|
+|  2310|Archives of Environmental Contamination and Toxicology|
+|  2313|Journal of Global Optimization|
+|  2313|Zeitschrift für Rheumatologie|
+|  2321|Journal of Engineering Mathematics|
+|  2326|Archives of Toxicology|
+|  2326|Doklady Mathematics|
+|  2326|Ionics|
+|  2326|Journal of Thermal Spray Technology|
+|  2327|manuscripta mathematica|
+|  2329|Genetic Resources and Crop Evolution|
+|  2339|Medisch-Farmaceutische Mededelingen|
+|  2359|Virus Genes|
+|  2377|Annals of Nuclear Medicine|
+|  2382|Zeitschrift für Physik D Atoms, Molecules and Clusters|
+|  2384|Instruments and Experimental Techniques|
+|  2413|Applied Physics B|
+|  2416|Atlantic Economic Journal|
+|  2418|American Journal of Community Psychology|
+|  2426|European Journal of Orthopaedic Surgery &amp; Traumatology|
+|  2431|Fortschritte der Kieferorthopädie|
+|  2436|Zeitschrift für Anatomie und Entwicklungsgeschichte|
+|  2437|Advances in Atmospheric Sciences|
+|  2440|AIDS and Behavior|
+|  2440|International Journal of Legal Medicine|
+|  2447|Tribology Letters|
+|  2450|SpringerPlus|
+|  2458|Fish Physiology and Biochemistry|
+|  2459|Cellular and Molecular Neurobiology|
+|  2461|EURASIP Journal on Wireless Communications and Networking|
+|  2473|Biological Invasions|
+|  2474|algebra universalis|
+|  2486|International Ophthalmology|
+|  2487|Zeitschrift für Chemie und Industrie der Kolloide|
+|  2492|Inflammation|
+|  2493|Il Nuovo Cimento D|
+|  2494|Agroforestry Systems|
+|  2499|The European Physical Journal Special Topics|
+|  2508|Journal of Molecular Medicine|
+|  2525|Acta Mechanica|
+|  2528|Wiener klinische Wochenschrift|
+|  2533|Journal of Abnormal Child Psychology|
+|  2536|Datenschutz und Datensicherheit - DuD|
+|  2540|Biogeochemistry|
+|  2545|Erkenntnis|
+|  2548|Strahlentherapie und Onkologie|
+|  2549|Water, Air, &amp; Soil Pollution|
+|  2552|Integral Equations and Operator Theory|
+|  2554|Powder Metallurgy and Metal Ceramics|
+|  2568|Journal of inclusion phenomena and macrocyclic chemistry|
+|  2574|Drugs &amp; Therapy Perspectives|
+|  2585|Doklady Physics|
+|  2591|Medicinal Chemistry Research|
+|  2592|Glycoconjugate Journal|
+|  2592|Skeletal Radiology|
+|  2600|Journal of comparative physiology|
+|  2601|Vegetatio|
+|  2602|Journal of Mathematical Chemistry|
+|  2603|Structural Chemistry|
+|  2605|Journal of Fluorescence|
+|  2607|Clinical Pharmacokinetics|
+|  2618|Theoretical and Applied Climatology|
+|  2623|Behavior Genetics|
+|  2625|Demography|
+|  2626|Materials Science|
+|  2631|Natur und Recht|
+|  2637|Journal of Religion and Health|
+|  2637|Tandartspraktijk|
+|  2638|Histochemistry and Cell Biology|
+|  2639|Journal of Wuhan University of Technology-Mater. Sci. Ed.|
+|  2642|Journal of Molecular Neuroscience|
+|  2643|Archives of oto-rhino-laryngology|
+|  2643|Investigational New Drugs|
+|  2644|Zeitschrift für Induktive Abstammungs- und Vererbungslehre|
+|  2652|Cardiovascular Drugs and Therapy|
+|  2658|Journal of Medical Systems|
+|  2658|Psychonomic Bulletin &amp; Review|
+|  2664|Multimedia Tools and Applications|
+|  2666|Cybernetics and Systems Analysis|
+|  2678|Acta Physiologiae Plantarum|
+|  2687|Primates|
+|  2689|Insectes Sociaux|
+|  2690|Numerische Mathematik|
+|  2694|Applied Physics A|
+|  2694|Journal of Youth and Adolescence|
+|  2697|Archiv für klinische und experimentelle Dermatologie|
+|  2697|Water Resources Management|
+|  2714|Plant Ecology|
+|  2720|Polymer Mechanics|
+|  2723|Inventiones mathematicae|
+|  2724|Archive for Rational Mechanics and Analysis|
+|  2736|Journal of Clinical Immunology|
+|  2741|Studia Geophysica et Geodaetica|
+|  2753|Computing|
+|  2759|Earth, Planets and Space|
+|  2762|Journal of Genetics|
+|  2763|Journal of Applied Phycology|
+|  2771|Canadian Journal of Anesthesia|
+|  2772|Archiv für experimentelle Pathologie und Pharmakologie|
+|  2776|Journal of Biosciences|
+|  2786|PharmacoEconomics|
+|  2798|Topics in Catalysis|
+|  2806|TechTrends|
+|  2825|In Vitro Cellular &amp; Developmental Biology - Animal|
+|  2851|Proceedings of the Indian Academy of Sciences - Section B|
+|  2852|Plant Growth Regulation|
+|  2854|Drug Safety|
+|  2854|Higher Education|
+|  2857|Studia Logica|
+|  2863|Zeitschrift für Parasitenkunde|
+|  2865|Cellular and Molecular Life Sciences|
+|  2866|Calcified Tissue International|
+|  2874|Wuhan University Journal of Natural Sciences|
+|  2876|Annals of the Institute of Statistical Mathematics|
+|  2877|Brittonia|
+|  2877|Intensive Care Medicine|
+|  2885|Biochemistry (Moscow)|
+|  2885|Journal of Biomolecular NMR|
+|  2886|Veterinary Research Communications|
+|  2913|Automation and Remote Control|
+|  2914|International Journal of Biometeorology|
+|  2920|Journal of Nuclear Cardiology|
+|  2925|Crystallography Reports|
+|  2925|TBV – Tijdschrift voor Bedrijfs- en Verzekeringsgeneeskunde|
+|  2931|JETP Letters|
+|  2954|Analog Integrated Circuits and Signal Processing|
+|  2956|Kolloid-Zeitschrift und Zeitschrift für Polymere|
+|  2974|Transport in Porous Media|
+|  2977|Sozial- und Präventivmedizin|
+|  2986|Acta Chirurgica Austriaca|
+|  2992|aequationes mathematicae|
+|  2999|Archiv für Mikrobiologie|
+|  3005|Russian Journal of Genetics|
+|  3020|Endocrine|
+|  3020|Zeitschrift für Physik A Atoms and Nuclei|
+|  3023|Bundesgesundheitsblatt - Gesundheitsforschung - Gesundheitsschutz|
+|  3024|Basic Research in Cardiology|
+|  3027|Journal of the Korean Physical Society|
+|  3030|Russian Journal of Inorganic Chemistry|
+|  3032|International Applied Mechanics|
+|  3033|European Journal of Plant Pathology|
+|  3053|Journal of Anesthesia|
+|  3068|Annali di Matematica Pura ed Applicata|
+|  3089|Journal of Radioanalytical Chemistry|
+|  3104|Bulletin of Mathematical Biology|
+|  3107|HNO|
+|  3112|BIT Numerical Mathematics|
+|  3130|Journal of Experimental and Theoretical Physics Letters|
+|  3150|Journal of Superconductivity and Novel Magnetism|
+|  3158|Cancer Chemotherapy and Pharmacology|
+|  3162|International Review of Education|
+|  3168|Immunogenetics|
+|  3171|Functional Analysis and Its Applications|
+|  3173|Inflammation Research|
+|  3178|The Histochemical Journal|
+|  3189|Journal of Assisted Reproduction and Genetics|
+|  3195|Acta Mathematica Hungarica|
+|  3197|Der Unfallchirurg|
+|  3200|Virchows Archiv A|
+|  3205|Community Mental Health Journal|
+|  3221|Russian Journal of Electrochemistry|
+|  3232|International Journal of Hematology|
+|  3237|Meccanica|
+|  3240|Journal of Cancer Research and Clinical Oncology|
+|  3241|Research on Chemical Intermediates|
+|  3243|Resonance|
+|  3247|Astrophysics|
+|  3249|EURASIP Journal on Advances in Signal Processing|
+|  3264|Differential Equations|
+|  3282|Metallurgical and Materials Transactions B|
+|  3288|Psychometrika|
+|  3290|Der Anaesthesist|
+|  3296|Journal of Chemical Crystallography|
+|  3301|Doklady Earth Sciences|
+|  3324|Microsystem Technologies|
+|  3332|Pediatric Radiology|
+|  3344|Medical Oncology|
+|  3357|European Journal of Nuclear Medicine|
+|  3375|Quality of Life Research|
+|  3376|Russian Journal of Physical Chemistry A|
+|  3396|Soviet Mining|
+|  3413|Cybernetics|
+|  3420|European Journal of Applied Physiology and Occupational Physiology|
+|  3425|Biochemical Genetics|
+|  3430|Biology and Fertility of Soils|
+|  3459|Archives of Sexual Behavior|
+|  3471|Neuroradiology|
+|  3474|Fresenius' Journal of Analytical Chemistry|
+|  3490|Social Indicators Research|
+|  3493|Mechanics of Composite Materials|
+|  3494|Materials and Structures|
+|  3497|Letters in Mathematical Physics|
+|  3498|Bulletin of the Russian Academy of Sciences: Physics|
+|  3498|Cancer Causes &amp; Control|
+|  3511|Plant Cell, Tissue and Organ Culture|
+|  3518|Histochemistry|
+|  3533|Climate Dynamics|
+|  3546|Medical and Biological Engineering and Computing|
+|  3579|Soil Mechanics and Foundation Engineering|
+|  3582|Canadian Anaesthetists’ Society Journal|
+|  3601|Economic Botany|
+|  3609|Documenta Ophthalmologica|
+|  3614|International Archives of Occupational and Environmental Health|
+|  3635|Monatsschrift Kinderheilkunde|
+|  3655|Applied Microbiology and Biotechnology|
+|  3664|Archiv für Elektrotechnik|
+|  3664|Neurophysiology|
+|  3695|The Journal of Membrane Biology|
+|  3699|Tumor Biology|
+|  3702|European Journal of Epidemiology|
+|  3705|International Journal of Colorectal Disease|
+|  3713|Archiv für orthopädische und Unfall-Chirurgie, mit besonderer Berücksichtigung der Frakturenlehre und der orthopädisch-chirurgischen Technik|
+|  3722|Geometriae Dedicata|
+|  3732|Photosynthesis Research|
+|  3767|Der Chirurg|
+|  3784|Journal of Analytical Chemistry|
+|  3805|Polymer Bulletin|
+|  3815|Archiv für Ohren-, Nasen- und Kehlkopfheilkunde|
+|  3823|Atomic Energy|
+|  3837|Intereconomics|
+|  3840|Nanoscale Research Letters|
+|  3885|Journal of the American Oil Chemists' Society|
+|  3885|Physics of Atomic Nuclei|
+|  3890|Clinical Orthopaedics and Related Research®|
+|  3895|Der Hautarzt|
+|  3901|Theoretica chimica acta|
+|  3902|Journal of Gastroenterology|
+|  3930|International Journal of Infrared and Millimeter Waves|
+|  3963|Monatshefte für Mathematik|
+|  3965|Der Internist|
+|  3967|Il Nuovo Cimento B (1971-1996)|
+|  4004|Natural Hazards|
+|  4023|Archiv für die gesamte Physiologie des Menschen und der Tiere|
+|  4026|Foundations of Physics|
+|  4089|Bulletin of Materials Science|
+|  4095|Annales des Télécommunications|
+|  4109|Tropical Animal Health and Production|
+|  4115|Optical and Quantum Electronics|
+|  4136|World Journal of Surgery|
+|  4138|Psychiatric Quarterly|
+|  4156|Czechoslovak Journal of Physics B|
+|  4164|Annals of Operations Research|
+|  4175|Archives of Orthopaedic and Trauma Surgery|
+|  4175|Journal of Solution Chemistry|
+|  4223|Memory &amp; Cognition|
+|  4224|Biomedical Engineering|
+|  4231|Blut|
+|  4237|Proceedings of the Indian Academy of Sciences - Section A|
+|  4244|Journal of Engineering Physics and Thermophysics|
+|  4249|Journal of Autism and Developmental Disorders|
+|  4256|Journal of Mechanical Science and Technology|
+|  4261|Plant Systematics and Evolution|
+|  4269|Inorganic Materials|
+|  4302|Journal of Neural Transmission|
+|  4318|Supportive Care in Cancer|
+|  4332|Rheologica Acta|
+|  4343|Archives of Dermatological Research|
+|  4361|Journal of Gastrointestinal Surgery|
+|  4371|Agents and Actions|
+|  4372|Experimental Mechanics|
+|  4376|Anzeiger für Schädlingskunde|
+|  4378|PharmacoEconomics &amp; Outcomes News Weekly|
+|  4410|Canadian Journal of Anaesthesia|
+|  4415|Journal of Materials Engineering and Performance|
+|  4440|International Journal of Thermophysics|
+|  4444|GeoJournal|
+|  4447|Bulletin of the Psychonomic Society|
+|  4455|Mycopathologia|
+|  4460|Scientometrics|
+|  4469|Archives of Microbiology|
+|  4469|Space Science Reviews|
+|  4474|European Journal of Pediatrics|
+|  4475|Nonlinear Dynamics|
+|  4495|Public Choice|
+|  4510|Genetica|
+|  4535|Neuroscience and Behavioral Physiology|
+|  4540|Boundary-Layer Meteorology|
+|  4613|Climatic Change|
+|  4643|Korean Journal of Chemical Engineering|
+|  4656|Archives of Pharmacal Research|
+|  4656|Society|
+|  4688|Philosophical Studies|
+|  4696|Mathematical notes of the Academy of Sciences of the USSR|
+|  4717|Journal of Sol-Gel Science and Technology|
+|  4723|Optics and Spectroscopy|
+|  4726|Wireless Personal Communications|
+|  4734|Journal of Experimental and Theoretical Physics|
+|  4777|Environmental Biology of Fishes|
+|  4781|Russian Physics Journal|
+|  4782|Zeitschrift für Hygiene und Infektionskrankheiten|
+|  4805|Journal of Nanoparticle Research|
+|  4806|Soviet materials science : a transl. of Fiziko-khimicheskaya mekhanika materialov / Academy of Sciences of the Ukrainian SSR|
+|  4827|Communications in Mathematical Physics|
+|  4860|Sex Roles|
+|  4864|Israel Journal of Mathematics|
+|  4882|Environmental Earth Sciences|
+|  4883|Zeitschrift für Kinderheilkunde|
+|  4897|Annals of Biomedical Engineering|
+|  4917|Folia Microbiologica|
+|  4928|Monatshefte für Mathematik und Physik|
+|  4929|Chromosoma|
+|  4941|Zeitschrift für Physik C Particles and Fields|
+|  4953|Zeitschrift für Physik B Condensed Matter|
+|  5002|European Archives of Oto-rhino-laryngology|
+|  5006|Mathematical Notes|
+|  5008|Neophilologus|
+|  5022|Applied Mathematics and Mechanics|
+|  5035|Journal of Soviet Mathematics|
+|  5046|Russian Journal of Organic Chemistry|
+|  5062|Geologische Rundschau|
+|  5083|Zeitschrift für angewandte Mathematik und Physik ZAMP|
+|  5085|Journal of the American Society for Mass Spectrometry|
+|  5105|Naunyn-Schmiedeberg's Archives of Pharmacology|
+|  5107|Pastoral Psychology|
+|  5120|Journal of Materials Science: Materials in Medicine|
+|  5133|Journal of Inherited Metabolic Disease|
+|  5143|Obesity Surgery|
+|  5154|Diabetologia|
+|  5190|Journal of thermal analysis|
+|  5208|Gastroenterologia Japonica|
+|  5214|Albrecht von Graefes Archiv für Ophthalmologie|
+|  5221|Langenbecks Archiv für klinische Chirurgie|
+|  5236|Theoretical and Experimental Chemistry|
+|  5243|Irish Journal of Medical Science|
+|  5302|Semiconductors|
+|  5327|Deutsche Zeitschrift für Nervenheilkunde|
+|  5337|Transition Metal Chemistry|
+|  5349|Dublin Journal of Medical Science (1872-1920)|
+|  5417|World Journal of Microbiology and Biotechnology|
+|  5422|International Urology and Nephrology|
+|  5442|European Journal of Clinical Pharmacology|
+|  5444|Il Nuovo Cimento A (1965-1970)|
+|  5447|Combustion, Explosion and Shock Waves|
+|  5505|Beiträge zur Klinik der Tuberkulose und spezifischen Tuberkulose-Forschung|
+|  5514|Czechoslovak Journal of Physics|
+|  5590|Zeitschrift für Zellforschung und Mikroskopische Anatomie|
+|  5670|Metallurgical Transactions A|
+|  5675|Biological Trace Element Research|
+|  5687|European Spine Journal|
+|  5697|Theoretical and Applied Genetics|
+|  5729|Child's Nervous System|
+|  5738|Pediatric Surgery International|
+|  5739|Synthese|
+|  5745|Zeitschrift für Untersuchung der Nahrungs- und Genußmittel, sowie der Gebrauchsgegenstände|
+|  5758|Technical Physics|
+|  5788|Infection|
+|  5791|Irish Journal of Medical Science (1926-1967)|
+|  5833|Journal of Neuro-Oncology|
+|  5877|Antonie van Leeuwenhoek|
+|  5887|Contributions to Mineralogy and Petrology|
+|  5905|Huisarts en wetenschap|
+|  5905|pure and applied geophysics|
+|  5912|Psychonomic Science|
+|  5937|General Relativity and Gravitation|
+|  5986|Zeitschrift für die gesamte Neurologie und Psychiatrie|
+|  5999|Surgery Today|
+|  6052|Zeitschrift für Krebsforschung|
+|  6093|Siberian Mathematical Journal|
+|  6135|Biologia Plantarum|
+|  6170|Russian Journal of Applied Chemistry|
+|  6198|Virchows Archiv für pathologische Anatomie und Physiologie und für klinische Medizin|
+|  6205|Soviet Applied Mechanics|
+|  6215|Molecular Biology Reports|
+|  6224|American Potato Journal|
+|  6236|Experimental Brain Research|
+|  6257|Marine Biology|
+|  6264|Human Genetics|
+|  6268|Environmental Science and Pollution Research|
+|  6285|Psychopharmacology|
+|  6288|Archiv für Psychiatrie und Nervenkrankheiten|
+|  6297|Oecologia|
+|  6309|International Journal of Fracture|
+|  6317|Reaction Kinetics and Catalysis Letters|
+|  6325|Refractories|
+|  6331|Russian Journal of General Chemistry|
+|  6340|Journal of Materials Science: Materials in Electronics|
+|  6367|Fibre Chemistry|
+|  6371|Deutsche Zeitschrift für die gesamte gerichtliche Medizin|
+|  6454|Monatshefte für Chemie / Chemical Monthly|
+|  6482|Technical Physics Letters|
+|  6505|Graefe's Archive for Clinical and Experimental Ophthalmology|
+|  6526|Il Nuovo Cimento (1955-1965)|
+|  6534|Journal of the American Oil Chemists Society|
+|  6534|Lettere al Nuovo Cimento (1971-1985)|
+|  6571|Archiv für pathologische Anatomie und Physiologie und für klinische Medicin|
+|  6572|Journal of Business Ethics|
+|  6572|Perception &amp; Psychophysics|
+|  6635|Journal of Applied Electrochemistry|
+|  6645|Bulletin of Environmental Contamination and Toxicology|
+|  6690|Journal of Chemical Ecology|
+|  6842|Pramana|
+|  6855|The American Journal of Digestive Diseases|
+|  6890|Forstwissenschaftliches Centralblatt|
+|  6893|Journal of Endocrinological Investigation|
+|  6896|Plant Molecular Biology|
+|  6953|Zeitschrift für die gesamte experimentelle Medizin|
+|  6965|Hydrotechnical Construction|
+|  6970|Journal für Ornithologie|
+|  7134|Langenbecks Archiv für Chirurgie|
+|  7163|Archives of Gynecology and Obstetrics|
+|  7196|Catalysis Letters|
+|  7240|Theoretical and Mathematical Physics|
+|  7309|Soviet Powder Metallurgy and Metal Ceramics|
+|  7317|Fluid Dynamics|
+|  7402|Pflügers Archiv|
+|  7413|Monatshefte für Chemie und verwandte Teile anderer Wissenschaften|
+|  7418|Journal of Optimization Theory and Applications|
+|  7421|Holz als Roh- und Werkstoff|
+|  7442|Applied Biochemistry and Biotechnology|
+|  7535|Neurochemical Research|
+|  7594|Journal of General Internal Medicine|
+|  7776|Ukrainian Mathematical Journal|
+|  7795|Journal of Applied Mechanics and Technical Physics|
+|  7835|Drugs|
+|  7843|Breast Cancer Research and Treatment|
+|  7882|Pflüger's Archiv für die gesamte Physiologie des Menschen und der Tiere|
+|  7887|Radiophysics and Quantum Electronics|
+|  7890|Physics of the Solid State|
+|  7896|Protoplasma|
+|  8009|Water, Air, and Soil Pollution|
+|  8010|Cell and Tissue Research|
+|  8019|Annals of Surgical Oncology|
+|  8043|Mathematische Zeitschrift|
+|  8105|Acta Neuropathologica|
+|  8116|Chemistry and Technology of Fuels and Oils|
+|  8149|Lipids|
+|  8217|Journal of engineering physics|
+|  8338|International Journal of Theoretical Physics|
+|  8450|Archiv der Mathematik|
+|  8512|Naunyn-Schmiedebergs Archiv für experimentelle Pathologie und Pharmakologie|
+|  8518|Pharmaceutical Research|
+|  8543|Deutsche Zeitschrift für Chirurgie|
+|  8587|Archives of Virology|
+|  8591|Archiv für Dermatologie und Syphilis|
+|  8897|Metallurgical and Materials Transactions A|
+|  8939|Environmental Monitoring and Assessment|
+|  9160|Journal of the American Oil Chemists’ Society|
+|  9205|Soviet Physics Journal|
+|  9244|Molecular and General Genetics MGG|
+|  9305|Soviet Atomic Energy|
+|  9308|Journal of Low Temperature Physics|
+|  9424|Biotechnology Letters|
+|  9430|Journal of Statistical Physics|
+|  9452|Microchimica Acta|
+|  9517|Journal of Mathematical Sciences|
+|  9528|JOM|
+|  9534|Journal of Electronic Materials|
+|  9544|Euphytica|
+|  9590|Strength of Materials|
+|  9593|Journal of Neurology|
+|  9604|Kolloid-Zeitschrift|
+|  9677|Mathematische Annalen|
+|  9740|Planta|
+|  9804|Archiv für Gynäkologie|
+|  9914|Acta Neurochirurgica|
+|  9934|Hyperfine Interactions|
+|  9945|Molecular and Cellular Biochemistry|
+|  9974|Russian Chemical Bulletin|
+| 10438|De Economist|
+| 10460|Chinese Science Bulletin|
+| 10499|Solar Physics|
+| 10533|Journal of Thermal Analysis and Calorimetry|
+| 10549|Pharmaceutical Chemistry Journal|
+| 10595|Journal of Structural Chemistry|
+| 10640|Österreichische botanische Zeitschrift|
+| 10858|Metal Science and Heat Treatment|
+| 11180|Metallurgist|
+| 11202|Glass and Ceramics|
+| 11309|Chemical and Petroleum Engineering|
+| 11353|The Indian Journal of Pediatrics|
+| 11356|Journal of High Energy Physics|
+| 11359|Journal of Materials Science Letters|
+| 11591|Zorg en Financiering|
+| 11666|Chromatographia|
+| 11798|Diseases of the Colon &amp; Rectum|
+| 12029|Colloid and Polymer Science|
+| 12097|Reactions|
+| 12263|Zeitschrift für Lebensmittel-Untersuchung und Forschung|
+| 12300|Chemistry of Natural Compounds|
+| 13559|Journal of Applied Spectroscopy|
+| 14229|Digestive Diseases and Sciences|
+| 14688|Plant and Soil|
+| 15358|Chemistry of Heterocyclic Compounds|
+| 15489|Zeitschrift für Physik|
+| 16180|PharmacoEconomics &amp; Outcomes News|
+| 16387|Journal of Radioanalytical and Nuclear Chemistry|
+| 17257|Astrophysics and Space Science|
+| 19681|Hydrobiologia|
+| 20889|Measurement Techniques|
+| 24282|Bulletin of the Academy of Sciences of the USSR, Division of chemical science|
+| 24861|Zeitschrift für analytische Chemie|
+| 26068|Experientia|
+| 26932|Bulletin of Experimental Biology and Medicine|
+| 30518|InPharma|
+| 33761|Klinische Wochenschrift|
+| 33929|Naturwissenschaften|
+| 34204|Journal of Materials Science|
+| 53190|Inpharma Weekly|
+| 54519|Fresenius' Zeitschrift für analytische Chemie|
+|102605|Reactions Weekly|

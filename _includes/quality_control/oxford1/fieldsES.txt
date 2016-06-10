@@ -1,0 +1,15 @@
+abstract|60%|386'569
+affiliations|83%|528'890
+article-title|99%|634'652
+author|91%|580'568
+contributor|92%|586'876
+copyright-year|66%|420'562
+eissn|97%|619'553
+emails|3%|20'612
+eyear|40%|259'921
+journal-id|100%|635'949
+journal-title|99%|635'606
+keywords|38%|244'071
+license-paragraph|0%|1'455
+license-type|3%|25'375
+pissn|98%|628'208

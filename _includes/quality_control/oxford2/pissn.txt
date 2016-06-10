@@ -1,0 +1,316 @@
+|     1|0002-7189|
+|     1|0013-826a6|
+|     1|00-b0-3802|
+|     1|0226-3554|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-10-830.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-10-857.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-10-867.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-10-880.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-10-892.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-11_Pt_1-899.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-11_Pt_1-907.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-11_Pt_1-914.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-11_Pt_1-927.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-11_Pt_1-968.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-11_Pt_1-974.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-11_Pt_2-309S.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-11_Pt_2-340S.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-11_Pt_2-375S.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-1-1.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-12-1009.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-12-1016.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-12-1033.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-1-21.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-1-28.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-12-989.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-12-996.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-1-52.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-1-59.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-1-72.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-1-8.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-2-114.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-2-127.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-2-156.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-2-164.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-2-170.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-2-174.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-2-97.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-3_Pt_1-209.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-3_Pt_1-217.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-3_Pt_1-226.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-3_Pt_1-234.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-3_Pt_2-107S.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-3_Pt_2-110S.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-3_Pt_2-24S.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-3_Pt_2-70S.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-3_Pt_2-89S.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-3_Pt_2-98S.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-4-295.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-4S-117S.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-4S-135S.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-4S-148S.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-5_Pt_1-337.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-5_Pt_1-349.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-5_Pt_1-369.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-5_Pt_1-422.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-5_Pt_2-15A.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-5_Pt_2-17A.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-5_Pt_2-39A.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-5_Pt_2-91A.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-6_Pt_1-496.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-6_Pt_1-505.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-6_Pt_1-538.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-6_Pt_2-170S.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-6_Pt_2-188S.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-6_Pt_2-201S.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-6_Pt_2-207S.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-6_Pt_2-229S.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-6_Pt_2-236S.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-7_Pt_1-564.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-7_Pt_1-579.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-7_Pt_1-626.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-7_Pt_1-630.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-7_Pt_1-636.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-8-648.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-8-674.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-8-688.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-8-693.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-8-713.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-9-750.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-9-758.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-9-780.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-9-794.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajh/ajh6/abstracts/6-9-810.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajj/ajj12/abstracts/ajj-12-1.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajj/ajj12/abstracts/ajj-12-226.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajj/ajj13/abstracts/ajj-13-163.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajj/ajj13/abstracts/ajj-13-174.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajj/ajj14/abstracts/ajj-14-100.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajj/ajj14/abstracts/ajj-14-129.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajj/ajj14/abstracts/ajj-14-148.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajj/ajj14/abstracts/ajj-14-69.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajj/ajj15/abstracts/ajj-15-175.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajj/ajj16/abstracts/ajj-16-302.xml correspondant|
+|     2|0032-0781|
+|     2|0895−7061|
+|     3|2049-8764|
+|     4|1741-0126|
+|     5|0029-6643|
+|     5|0167-5133|
+|     5|1477-8599|
+|     6|1470-482X|
+|     7|0951-6328|
+|     7|1759-5134|
+|     7|2053-4833|
+|     7|2054-4642|
+|     7|2153-3601|
+|     8|1360-9947|
+|     8|1464-3650|
+|     8|2050-0688|
+|     9|0143-6503|
+|    10|0360-5310|
+|    10|1674-2788|
+|    11|0048-5950|
+|    11|1460-2245|
+|    11|1460-2423|
+|    11|1754-9973|
+|    11|1876-3413|
+|    11|2055-6837|
+|    12|0000-0000|
+|    12|0022-5045|
+|    12|0034-6527|
+|    12|0938-5428|
+|    12|1047-1987|
+|    12|2058-5349|
+|    13|0024-6107|
+|    13|1468-2702|
+|    13|1572-3097|
+|    14|0003-4878|
+|    14|0267-8357|
+|    14|0955-792X|
+|    14|1752-9921|
+|    15|0142-7873|
+|    15|0146-8693|
+|    15|1369-3034|
+|    15|1479-8409|
+|    15|1523-9012|
+|    16|0022-1503|
+|    16|462-0324|
+|    17|0021-924X|
+|    17|0031-2290|
+|    17|0142-6338|
+|    17|0260-1230|
+|    17|1749-5016|
+|    17|2050-5698|
+|    18|0896-7148|
+|    18|1467-5463|
+|    18|1567-1364|
+|    19|1069-4404|
+|    19|1195-1982|
+|    19|1464-3529|
+|    20|1757-9619|
+|    21|0002-9319|
+|    21|0893-9454|
+|    21|1053-1858|
+|    21|1380-3606|
+|    21|1477-4577|
+|    22|0022-3069|
+|    22|0030-7653|
+|    22|2047-0770|
+|    23|0015-8518|
+|    24|0002-9173|
+|    25|0003-2638|
+|    25|0734-6875|
+|    25|1522-9645|
+|    26|0022-4529|
+|    26|1067-5027|
+|    26|1369-3786|
+|    26|1745-3925|
+|    27|1079-5006|
+|    27|1096-6080|
+|    28|0021-9665|
+|    28|1079-5014|
+|    29|0034-6551|
+|    29|0931-0509|
+|    29|0955-2340|
+|    29|1369-1465|
+|    31|0146-4760|
+|    31|1477-4542|
+|    32|1749-5679|
+|    33|1366-8781|
+|    34|0022-0957|
+|    34|0307-8337|
+|    36|0022-2585|
+|    38|1743-8586|
+|    42|0013-8746|
+|    42|1464-3502|
+|    42|1522-8517|
+|    43|0586-7614|
+|    44|1569-9293|
+|    46|1528-3577|
+|    48|0956-540X|
+|    49|0305-7364|
+|    51|1462-0324|
+|    52|1755-0637|
+|    53|0094-0798|
+|    55|0923-7534|
+|    55|1526-2375|
+|    61|0032-5791|
+|    63|0020-8833|
+|    66|0737-4038|
+|    71|0022-0493|
+|    75|0022-2372|
+|    75|1460-2725|
+|    76|1090-820X|
+|    80|1521-9488|
+|    81|2055-7671|
+|    89|2040-5790|
+|    95|1471-6771|
+|    98|0305-7453|
+|   101|1477-089X|
+|   114|1477-4569|
+|   119|0022-1899|
+|   122|1077-4254|
+|   131|1462-2203|
+|   167|0021-8723|
+|   184|1058-7195|
+|   229|1520-765X|
+|   255|0305-1048|
+|   341|0006-8950|
+|   347|0277-5921|
+|   380|0001-9909|
+|   401|0967-0769|
+|   443|1672-9145|
+|   473|0070-1998|
+|   479|1046-2821|
+|   522|1380-3603|
+|   524|0266-4658|
+|   580|1360-9939|
+|   590|0065-8995|
+|   611|1752-2110|
+|   687|0193-936X|
+|   724|0035-8711|
+|   759|2044-8422|
+|   763|1471-678X|
+|   819|0963-8024|
+|   896|0258-3690|
+|   919|1873-9946|
+|   995|0265-0754|
+|  1033|0960-6491|
+|  1034|0887-6177|
+|  1068|0950-3846|
+|  1140|0953-5438|
+|  1226|1532-8759|
+|  1233|0957-0411|
+|  1242|0954-2892|
+|  1308|1355-4786|
+|  1407|-|
+|  1422|0262-2750|
+|  1450|0266-7215|
+|  1480|0272-4979|
+|  1500|0953-8186|
+|  1585|1540-7063|
+|  1608|0008-199X|
+|  1669|0957-4824|
+|  1727|0096-7645|
+|  1799|8756-6583|
+|  1803|0165-1587|
+|  1852|0309-166X|
+|  1867|1746-5702|
+|  2031|0145-2096|
+|  2124|0268-1080|
+|  2155|0360-7283|
+|  2194|0266-3554|
+|  2213|0305-9332|
+|  2262|0735-0414|
+|  2274|1353-4505|
+|  2358|0272-4960|
+|  2406|1363-3554|
+|  2442|1076-0962|
+|  2443|0269-1191|
+|  2473|0268-1153|
+|  2646|0014-0856|
+|  2721|0002-9262|
+|  3118|0379-864X|
+|  3335|0010-3802|
+|  3335|1045-2249|
+|  3397|0141-5387|
+|  3487|0368-2811|
+|  3594|1073-7928|
+|  3657|0959-6658|
+|  3667|0007-0882|
+|  4147|0263-2136|
+|  4194|0007-0904|
+|  4313|0002-0729|
+|  4338|0953-8178|
+|  4721|0007-0955|
+|  4726|1047-3211|
+|  4920|0951-0893|
+|  4997|0013-8215|
+|  5225|1101-1262|
+|  5794|0045-3102|
+|  5816|0306-1078|
+|  6017|0024-6093|
+|  6093|0008-6363|
+|  6126|0007-1420|
+|  6532|0010-4620|
+|  7110|0006-3444|
+|  7324|1054-3139|
+|  9574|0046-225X|
+| 10429|0300-5771|
+| 10753|0964-6906|
+| 11488|0016-9013|
+| 11648|1010-7940|
+| 11888|1367-4803|
+| 12685|0143-3334|
+| 14532|0006-3568|
+| 14872|0002-9092|
+| 15767|0195-668X|
+| 17068|0016-1128|
+| 17744|0895-7061|
+| 20711|0268-1161|
+| 23612|0007-0912|
+| 25676|1058-4838|
+| 28852|0027-8874|
+| 45713|0013-8266|
+| 51737|0002-8762|

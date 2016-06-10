@@ -1,0 +1,25 @@
+|     1|PUBLIC "-//CUP-JATS//DTD Journal Publishing DTD v1.0a//EN" "journalpublishing.dtd">|
+|     1|PUBLIC "-//NLM//DTD Journal Publishing DTD v2.1 20050630//EN" "journalpublishing.dtd">|
+|    12|PUBLIC "-//EDP//DTD EDP Publishing TS v1.0 20130606//EN" "JATS-journalpublishing1.dtd">|
+|    12|PUBLIC "-//NLM//DTD Journal Publishing DTD v2.2 20060430//EN" "JATS-journalpublishing1.dtd">|
+|    23|system "cupjnl2_2.dtd">|
+|    27|SYSTEM"cupsssh.dtd">|
+|    34|SYSTEM"cupjnlhd.dtd">|
+|    66|SYSTEM "cupjnlhd1_2.dtd">|
+|    99|SYSTEM "cupsssh.dtd">|
+|   208|PUBLIC "-//NLM//DTD Journal Publishing DTD v2.2 20060430//EN" "JATS-journalpublishing0.dtd">|
+|   277|system "cupjnlhd.dtd">|
+|   874|system "cupjnl2_1.dtd">|
+|   999|PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v0.4 20110131//EN" "journalpublishing.dtd">|
+|  1009|PUBLIC "-//NLM//DTD Journal Publishing DTD v2.2 20050630//EN" "journalpublishing.dtd">|
+|  1115|system "cupjnl.dtd">|
+|  5482|PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing0.dtd">|
+| 16655|PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "journalpublishing.dtd">|
+| 22857|SYSTEM "cupjnlhd.dtd">|
+| 33326|SYSTEM "cupjnl.dtd">|
+| 39002|SYSTEM "cupjnl2_1.dtd">|
+| 41196|PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v0.4 20110131//EN" "JATS-journalpublishing1.dtd">|
+| 47763|SYSTEM "cupjnl2_2.dtd">|
+| 48196|PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">|
+|107636|PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v0.4 20110131//EN" "JATS-journalpublishing0.dtd">|
+|765840|PUBLIC "-//NLM//DTD Journal Publishing DTD v2.2 20060430//EN" "journalpublishing.dtd">|

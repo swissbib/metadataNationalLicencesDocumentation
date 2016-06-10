@@ -1,0 +1,12 @@
+nombre d'articles |1107504
+doi |987258
+nombre de champs journal-title |987264
+nombre de article titles |720516
+abstract |3150
+eissn |893657
+pissn |982356
+publisher |1312986
+keywords groups |119715
+contrib groups |801446
+auteurs |176731
+nombre d'affiliations |982469

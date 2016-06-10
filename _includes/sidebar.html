@@ -1,0 +1,84 @@
+<div class="sidebar">
+  <div class="container">
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{ site.github.url }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+
+
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url ==  site.github.url %} active{% endif %}" href="{{ site.github.url }}">Accueil</a>
+
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+
+
+      {% assign pages_list = site.pages | sort : 'url' %}
+
+      {% assign previous_parent = "" %}
+
+      {% for node in pages_list %}
+
+
+        {% assign url_parts = node.url | split: '/' %}
+
+        {% assign level = url_parts | size %}
+
+        {% assign index = level | minus: 2 %}
+
+        {% assign parent = url_parts[index] %}
+
+        {% if node.layout == "page" %}
+          {% if parent != previous_parent %}
+            <br/>
+            {% case parent %}
+              {% when 'current' %}
+                 Editeurs en cours
+              {% when 'rejected' %}
+                 Editeurs rejetés
+              {% when 'input' %}
+                 Métadonnées entrantes
+	      {% when 'general' %}
+                 Général
+	      {% when 'quality_control' %}
+                 Analyse qualité
+              {% when 'meetings' %}
+                 Réunions
+              {% when 'output' %}
+                 Exposition des métadonnées
+              {% when 'tools' %}
+                 Outils
+              {% when 'similar_projects' %}
+                 Projets similaires
+              {% else %}
+                 {{ parent }}
+            {% endcase %}
+          {% endif %}
+        {% endif %}
+
+
+       {% assign previous_parent = parent %}
+
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.github.url }}{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+
+    <p> </p>
+    <p>Powered by <a href="http://jekyllrb.com/">Jekyll</a> with a <a href="http://hyde.getpoole.com/">Hyde</a> theme.</p>
+
+    </nav>
+  </div>
+</div>

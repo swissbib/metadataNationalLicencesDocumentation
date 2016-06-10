@@ -1,0 +1,368 @@
+|     2|Journal of Applied Animal Nutrition|
+|     4|AI EDAM|
+|     4|APSIPA Transactions on Signal and Information Processing|
+|     9|International Labor and Working Class History|
+|     9|Journal of Nutritional Science|
+|    10|Journal of the Royal Asiatic Society of Great Britain &#x0026; Ireland|
+|    11|Journal of Relationships Research|
+|    12|English Profile Journal|
+|    15|Palliative &amp; Supportive Care|
+|    17|Global Constitutionalism|
+|    17|Journal of Tropical Psychology|
+|    18|Transnational Environmental Law|
+|    19|The Australian and New Zealand Journal of Organisational Psychology|
+|    19|Transactions of the Institute of Actuaries|
+|    23|Dialogue: Canadian Philosophical Association|
+|    26|Proceedings of the Royal Society of Edinburgh. Section B. Natural Environment|
+|    28|AIEDAM: Artificial Intelligence for Engineering, Design, and Manufacturing|
+|    28|Du Bois Review: Social Science and Research on Race|
+|    31|MRS Communications|
+|    33|Australian Journal of Environmental Education|
+|    33|Bulletin of entomological research supplement series|
+|    33|The Australian Journal of Indigenous Education|
+|    37|Revista de Historia Económica / Journal of Iberian and Latin American Economic History|
+|    39|Queensland Review|
+|    45|PS|
+|    46|International Journal of Disability Management|
+|    48|Australasian Journal of Special Education|
+|    55|International Review for Social History|
+|    57|The Australian Educational and Developmental Psychologist|
+|    58|Animal Genetic Resources/Ressources g&#233;n&#233;tiques animales/Recursos gen&#233;ticos animales|
+|    58|Foreign Policy Bulletin: The Documentary Record of United States Foreign Policy|
+|    58|Hegel Bulletin|
+|    60|The Cognitive Behaviour Therapist|
+|    61|Proceedings of the British Society of Animal Production (1972)|
+|    62|The Australian Journal of Rehabilitation Counselling|
+|    67|Children Australia|
+|    68|Journal of Pacific Rim Psychology|
+|    70|Asian Journal of International Law|
+|    95|Animal Genetic Resources/Ressources génétiques animales/Recursos genéticos animales|
+|    95|European Political Science Review|
+|   104|International Theory|
+|   107|Edinburgh Mathematical Notes|
+|   107|Journal of Psychiatric Intensive Care|
+|   110|Acta Numerica|
+|   110|Epidemiology and Psychiatric Sciences|
+|   111|Journal of the Marine Biological Association of the UK|
+|   118|Journal of Germanic Linguistics|
+|   120|Reproductive Medicine Review|
+|   121|The Cambridge Classical Journal|
+|   123|twentieth-century music|
+|   131|Newsletter, European Labor and Working Class History|
+|   132|British Journal of International Studies|
+|   133|Journal of Smoking Cessation|
+|   135|Annals of Actuarial Science|
+|   142|Journal of the Plainsong and Mediaeval Music Society|
+|   142|Transactions of the Royal Asiatic Society of Great Britain and Ireland|
+|   145|Journal of the Institute of Mathematics of Jussieu|
+|   148|Congress on Research in Dance Conference Proceedings|
+|   149|Australian Journal of Guidance and Counselling|
+|   149|Publications of the Astronomical Society of Australia|
+|   151|Bulletin of the International Institute of Social History|
+|   155|B.A.B.P. bulletin|
+|   160|Du Bois Review: Social Science Research on Race|
+|   161|Journal of Economic History|
+|   162|Plant Genetic Resources: Characterization and Utilization|
+|   163|Japanese Journal of Political Science|
+|   169|Acta Neuropsychiatrica|
+|   177|Modern Intellectual History|
+|   177|The Review of Symbolic Logic|
+|   178|Journal of Institutional Economics|
+|   184|Natural Language Engineering|
+|   186|Psychological Medicine. Monograph Supplement|
+|   190|Artificial Intelligence for Engineering Design, Analysis and Manufacturing|
+|   193|Journal of Wine Economics|
+|   197|Episteme|
+|   204|Expert Reviews in Molecular Medicine|
+|   205|Health Economics, Policy and Law|
+|   208|International Journal of Astrobiology|
+|   210|Arabic Sciences and Philosophy|
+|   210|Journal of Developmental Origins of Health and Disease|
+|   212|Bulletin of the British Society for the History of Science|
+|   212|International Journal of Law in Context|
+|   213|International Journal of Asian Studies|
+|   213|Legal Theory|
+|   215|Royal Institute of Philosophy Lectures|
+|   218|Theory and Practice of Logic Programming|
+|   225|Mathematical Notes|
+|   225|Plant Genetic Resources|
+|   232|BSAP Occasional Publication|
+|   239|Organised Sound|
+|   240|English Language and Linguistics|
+|   241|Studies in American Political Development|
+|   245|Animal Health Research Reviews|
+|   251|Royal Institute of Philosophy Lecture Series|
+|   252|History of Economics Society Bulletin|
+|   253|Journal of Anglican Studies|
+|   253|Primary Health Care Research &amp; Development|
+|   254|Victorian Literature and Culture|
+|   257|World Trade Review|
+|   258|Bilingualism: Language and Cognition|
+|   259|Journal of Radiotherapy in Practice|
+|   264|Brain Impairment|
+|   265|Fetal and Maternal Medicine Review|
+|   265|Genetics Research|
+|   271|Plainsong and Medieval Music|
+|   272|Journal of Pension Economics and Finance|
+|   281|Early Music History|
+|   281|Earth and Environmental Science Transactions of the Royal Society of Edinburgh|
+|   281|Environment and Development Economics|
+|   282|Government and Opposition|
+|   290|Social Policy and Society|
+|   291|Journal of the Society for American Music|
+|   293|Proceedings of the Glasgow Mathematical Association|
+|   295|Politics &amp; Gender|
+|   296|Language Variation and Change|
+|   299|Behaviour Change|
+|   299|Politics and Religion|
+|   300|American Journal of Germanic Linguistics and Literatures|
+|   304|Macroeconomic Dynamics|
+|   305|Kantian Review|
+|   307|Financial History Review|
+|   315|Bulletin of the British Association for American Studies|
+|   315|Papers of the American Society of Church History|
+|   324|International Journal of Microwave and Wireless Technologies|
+|   333|Palliative and Supportive Care|
+|   336|Artificial Intelligence for Engineering, Design, Analysis and Manufacturing|
+|   336|Browning Institute Studies|
+|   342|Renewable Agriculture and Food Systems|
+|   346|Eighteenth Century Music|
+|   352|British Journal of Anaesthetic and Recovery Nursing|
+|   367|Archaeological Dialogues|
+|   373|International Review of Poultry Science|
+|   380|Cambridge Opera Journal|
+|   384|Cambridge Historical Journal|
+|   391|Ancient Mesoamerica|
+|   394|Compositio Mathematica|
+|   396|Journal of Functional Programming|
+|   402|Microscopy Today|
+|   423|Phonology|
+|   423|The Spanish journal of psychology|
+|   444|Reviews in Clinical Gerontology|
+|   445|Annual Review of Applied Linguistics|
+|   447|Nutrition Research Reviews|
+|   450|Mathematical Structures in Computer Science|
+|   457|Nineteenth-Century Music Review|
+|   460|International Journal of Cultural Property|
+|   461|Proceedings of the Prehistoric Society of East Anglia|
+|   465|European Journal of Applied Mathematics|
+|   469|Proceedings of the Royal Society of Edinburgh. Section A. Mathematical and Physical Sciences|
+|   480|Camden Fifth Series|
+|   480|Rural History|
+|   484|Antarctic Science|
+|   485|Proceedings of the Royal Society of Edinburgh. Section B. Biology|
+|   485|Twin Research|
+|   491|Cambridge Archaeological Journal|
+|   494|CNS Spectrums|
+|   503|Contemporary European History|
+|   506|Think|
+|   508|Journal of Southeast Asian History|
+|   510|ReCALL|
+|   512|Nordic Journal of Linguistics|
+|   532|The Journal of Laryngology and Rhinology|
+|   539|Anglo-Saxon England|
+|   542|The Journal of the Gilded Age and Progressive Era|
+|   545|The ANZIAM Journal|
+|   551|Environmental Practice|
+|   560|Memoirs of the Entomological Society of Canada|
+|   562|Combinatorics, Probability and Computing|
+|   566|Animal Genetic Resources Information|
+|   567|Science in Context|
+|   568|Bird Conservation International|
+|   571|Advances in Animal Biosciences|
+|   583|Architectural Research Quarterly|
+|   589|Zygote|
+|   591|Revue Internationale de la Croix-Rouge/International Review of the Red Cross|
+|   595|Edinburgh Journal of Botany|
+|   606|Continuity and Change|
+|   608|Camden Fourth Series|
+|   617|Social Philosophy and Policy|
+|   618|British Actuarial Journal|
+|   620|Journal of Mechanics|
+|   622|Archaeological Reports|
+|   635|Journal of French Language Studies|
+|   635|Leiden Journal of International Law|
+|   639|Quarterly Reviews of Biophysics|
+|   645|Behavioural and Cognitive Psychotherapy|
+|   651|Legal Information Management|
+|   662|Abstracts of Working Papers in Economics|
+|   695|Prospects|
+|   696|Economics and Philosophy|
+|   706|The Knowledge Engineering Review|
+|   718|Journal of the Institute of Actuaries|
+|   737|Probability in the Engineering and Informational Sciences|
+|   759|European Review|
+|   764|Twin Research and Human Genetics|
+|   821|Animal Science|
+|   835|Camden New Series|
+|   835|Development and Psychopathology|
+|   837|Transactions of the Royal Society of Edinburgh: Earth Sciences|
+|   859|Journal of the International Phonetic Association|
+|   870|Journal of Policy History|
+|   876|Epidemiologia e Psichiatria Sociale|
+|   879|Utilitas|
+|   884|Journal of Public Policy|
+|   893|Cambridge Quarterly of Healthcare Ethics|
+|   904|Journal of the International Neuropsychological Society|
+|   913|Anatolian Studies|
+|   931|American Journal of Alternative Agriculture|
+|   939|Proceedings of the Cambridge Philological Society|
+|   943|Seed Science Research|
+|   953|Camden Third Series|
+|   989|Proceedings of the Royal Society of Edinburgh. Section B. Biological Sciences|
+|  1005|Transactions of the Faculty of Actuaries|
+|  1011|The Journal of the Australian Mathematical Society. Series B. Applied Mathematics|
+|  1017|Behavioural Psychotherapy|
+|  1023|Review of International Studies|
+|  1031|Journal of the History of Economic Thought|
+|  1044|Ethics &amp; International Affairs|
+|  1047|International Psychogeriatrics|
+|  1056|European Journal of Sociology|
+|  1063|Canadian journal of law and society|
+|  1074|Applied Psycholinguistics|
+|  1081|British Journal of Music Education|
+|  1116|Horizons|
+|  1117|Journal of the Staple Inn Actuarial Society|
+|  1137|British Journal of Political Science|
+|  1154|Papers of the British School at Rome|
+|  1232|Foreign Policy Bulletin|
+|  1235|Popular Music|
+|  1247|Ecclesiastical Law Journal|
+|  1256|Royal Institute of Philosophy Supplement|
+|  1276|Bulletin International des Societes de Secours aux Militaires Blesses|
+|  1298|Israel Law Review|
+|  1321|animal|
+|  1340|Econometric Theory|
+|  1358|Theatre Survey|
+|  1392|Journal of African Law|
+|  1444|Journal of Tropical Ecology|
+|  1464|Ergodic Theory and Dynamical Systems|
+|  1495|Dance Research Journal|
+|  1507|Perspectives on Politics|
+|  1512|Visual Neuroscience|
+|  1562|AJS Review|
+|  1575|Revista de Historia Econ&#243;mica / Journal of Iberian and Latin American Economic History|
+|  1579|Journal of Child Language|
+|  1580|Studies in Second Language Acquisition|
+|  1593|Laser and Particle Beams|
+|  1595|Camden Old Series|
+|  1603|English Today|
+|  1623|Glasgow Mathematical Journal|
+|  1733|Journal of Linguistics|
+|  1744|Mathematika|
+|  1791|International Review of Social History|
+|  1818|International Labor and Working-Class History|
+|  1839|International Journal of Technology Assessment in Health Care|
+|  1873|Law and History Review|
+|  1876|Language Teaching|
+|  1943|Canadian Journal on Aging / La Revue canadienne du vieillissement|
+|  1979|The Journal of British Studies|
+|  1988|Urban History|
+|  1990|New Theatre Quarterly|
+|  1991|Ageing and Society|
+|  2011|Britannia|
+|  2025|Robotica|
+|  2026|Modern Asian Studies|
+|  2145|Proceedings of the Society of Antiquaries of London|
+|  2180|The Annual of the British School at Athens|
+|  2182|Transactions of the Royal Historical Society|
+|  2202|Cardiology in the Young|
+|  2242|Proceedings of the Prehistoric Society|
+|  2247|World Politics|
+|  2257|Language in Society|
+|  2285|Theatre Research International|
+|  2318|Comparative Studies in Society and History|
+|  2364|The Lichenologist|
+|  2450|Austrian History Yearbook|
+|  2454|Journal of Biosocial Science|
+|  2483|Journal of Southeast Asian Studies|
+|  2517|New Testament Studies|
+|  2559|Revista Internacional de la Cruz Roja|
+|  2618|Journal of Financial and Quantitative Analysis|
+|  2626|Itinerario|
+|  2657|International Journal of Tropical Insect Science|
+|  2667|Religious Studies|
+|  2717|World's Poultry Science Journal|
+|  2793|Transactions of the Royal Society of Edinburgh|
+|  2833|Central European History|
+|  2834|Epidemiology and Infection|
+|  2877|Archaeologia|
+|  2898|The Historical Journal|
+|  2900|Tempo|
+|  2976|Journal of Social Policy|
+|  2993|Journal of the Royal Asiatic Society|
+|  3028|Journal of Plasma Physics|
+|  3074|Public Health Nutrition|
+|  3078|Genetical Research|
+|  3136|Experimental Agriculture|
+|  3158|Journal of Latin American Studies|
+|  3234|Journal of Fluid Mechanics|
+|  3272|Powder Diffraction|
+|  3344|The Journal of Modern African Studies|
+|  3349|Harvard Theological Review|
+|  3432|Proceedings of the Royal Society of Edinburgh: Section A Mathematics|
+|  3442|MRS Bulletin|
+|  3445|Microscopy and Microanalysis|
+|  3534|Greece and Rome|
+|  3546|Animal Production|
+|  3581|The British Journal for the History of Science|
+|  3660|Journal of Dairy Research|
+|  3741|Bulletin International des Societes de la Croix-Rouge|
+|  3844|International Organization|
+|  3903|International Journal of Middle East Studies|
+|  4072|The Journal of African History|
+|  4152|Journal of Helminthology|
+|  4226|Environmental Conservation|
+|  4235|Proceedings of the Edinburgh Mathematical Society|
+|  4241|Journal of the Australian Mathematical Society|
+|  4445|Journal of American Studies|
+|  4453|Church History|
+|  4457|Journal of Navigation|
+|  4516|Oryx|
+|  4925|The Journal of Laryngology, Rhinology, and Otology|
+|  5127|Bulletin of the Australian Mathematical Society|
+|  5285|Dialogue|
+|  5403|The Classical Quarterly|
+|  5424|Journal of Hygiene|
+|  5445|Proceedings of the Royal Society of Edinburgh|
+|  5651|The Review of Politics|
+|  5765|Proceedings of the Nutrition Society|
+|  5995|The China Quarterly|
+|  6010|International Review of the Red Cross|
+|  6180|Scottish Journal of Theology|
+|  6272|Canadian Journal of Political Science|
+|  6371|Prehospital and Disaster Medicine|
+|  6486|Revue Internationale de la Croix-Rouge|
+|  6549|Proceedings of the International Astronomical Union|
+|  6582|Bulletin of Entomological Research|
+|  6961|PS: Political Science &amp; Politics|
+|  7090|Polar Record|
+|  7113|Psychological Medicine|
+|  7121|Philosophy|
+|  7183|Journal of the Marine Biological Association of the United Kingdom|
+|  7372|The Cambridge Law Journal|
+|  7413|International and Comparative Law Quarterly|
+|  7442|Medical History|
+|  7678|Mathematical Proceedings of the Cambridge Philosophical Society|
+|  7851|Parasitology|
+|  8167|Journal of Roman Studies|
+|  8210|Business History Review|
+|  8587|The Antiquaries Journal|
+|  9012|Behavioral and Brain Sciences|
+|  9069|The Journal of Agricultural Science|
+|  9174|The Journal of Ecclesiastical History|
+|  9277|Church History: Studies in Christianity and Culture|
+|  9679|Africa|
+| 10195|Revue Internationale de la Croix-Rouge et Bulletin international des Soci&#233;t&#233;s de la Croix-Rouge|
+| 10399|Journal of Materials Research|
+| 11284|The Journal of Economic History|
+| 11752|The Journal of Hellenic Studies|
+| 11885|British Journal of Nutrition|
+| 14212|American Political Science Review|
+| 14811|Journal of the Royal Asiatic Society of Great Britain &amp; Ireland|
+| 15532|Bulletin of the School of Oriental and African Studies|
+| 15614|The Canadian Entomologist|
+| 16517|The Journal of Laryngology &amp; Otology|
+| 19005|The Journal of Asian Studies|
+| 21427|Geological Magazine|
+| 30717|The Classical Review|
