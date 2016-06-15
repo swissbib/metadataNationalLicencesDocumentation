@@ -37,6 +37,12 @@ Il y a une [liste détaillée](http://lib.consortium.ch/html_wrapper.php?dir=lib
 
 ## Fachhochschulen
 
+Tous les abonnements des HES suisses sont gérées par Susanna Landwehr (ZHAW) à l'aide du LinkSolver de Ovid ainsi que d'une vingtaine d'institutions
+
+## Intota
+
+Uni Bern et Uni Basel utilisent Intota pour la gestion des Périodiques.
+
 ## EZB
 
 Les bibliothèques suivantes utilisent EZB comme outil principal pour le signalement des périodiques électroniques et sont membres du consortium
@@ -114,6 +120,10 @@ Quelques informations sur le signalement dans EZB pour les licences nationales a
 <http://ezb.uni-regensburg.de/natli/Infoseite_EZBBibliotheken.htm>
 
 En Suisse la bibliothèque "leader" sur ce point serait l'uni de Zurich (contact esther.zaugg@hbz.uzh.ch).
+
+## Worldcat Local
+
+PHSG a worldcat local : <https://phsg.on.worldcat.org/discovery>
 
 
 
