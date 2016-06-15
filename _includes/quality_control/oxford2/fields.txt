@@ -1,13 +1,13 @@
-nombre d'articles |560928
-doi |561425
-nombre de champs journal-title |566756
-nombre de champs abbrev-journal-title abbrev-type=full |251
-nombre de article titles |570906
-abstract |191000
-eissn |560747
-pissn |554832
-publisher |694123
-keywords groups |128932
-contrib groups |524444
-auteurs |1481634
-nombre d'affiliations |721696
+nombre d'articles |939247
+doi |939931
+nombre de champs journal-title |943736
+nombre de champs abbrev-journal-title abbrev-type=full |287
+nombre de article titles |957649
+abstract |316869
+eissn |924715
+pissn |933339
+publisher |1141110
+keywords groups |193362
+contrib groups |880568
+auteurs |2381289
+nombre d'affiliations |1174988

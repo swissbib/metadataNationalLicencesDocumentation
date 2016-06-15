@@ -88,23 +88,123 @@
 |     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajj/ajj14/abstracts/ajj-14-69.xml correspondant|
 |     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajj/ajj15/abstracts/ajj-15-175.xml correspondant|
 |     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/ajj/ajj16/abstracts/ajj-16-302.xml correspondant|
-|     1|Mammalian Species|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/22-1-86.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/27-2-325.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/30-2-251.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/30-2-259.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/44-4-744.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/59-1-187.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/67-2-459.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/67-3-683.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/69-1-149.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/69-3-669.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/75-3-1002.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/77-2-673a.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/78-4-1433.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/79-4-1708.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/80-1-310.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/80-1-355.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/80-3-1114.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/80-3-1116a.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/81-4-1734a.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/82-2-679.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/82-2-826.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/83-1-186.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/84-3-1026a.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/84-3-855.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/85-2-666.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/88-4-1383.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/91-3-1022.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/92-4-1452.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/93-1-205.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/94-4-1242.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/94-4-1327.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/jas020.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/jav014.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/jav060.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jahist.tar.gz/jahist/abstracts/jav652.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jmammal.tar.gz/jmammal/jmamma_gyv032_f0002.jpg correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent14-0597.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent16-0180.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent16-0536.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent17-0398.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent20-0108.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent21-0183.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent21-0480.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent25-0315.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent25-0410.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent27-0269.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent28-0712.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent29-0284.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent29-0379.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent3-0113.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent31-0908.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent32-0428.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent33-0244.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent33-0278.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent33-0395.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent33-0496.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent34-0087.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent34-0383.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent35-0082.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent35-0891.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent38-0548.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent39-0935.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent40-0597.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent40-0882.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent4-0294.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent41-0255.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent41-0677.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent41-0779.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent41-0833.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent41-0987.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent43-0151.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent43-1129.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent44-0509.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent44-0524.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent44-0718.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent44-0840.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent45-0517.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent46-0115.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent46-0271.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent46-0832.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent46-1498.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent47-0769.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent47-0823.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent47-1179.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent47-1185.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent48-0770.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent49-0474.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent49-0939.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent49-0967.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent49-1244.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent51-0837.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent51-1002.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent51-1220.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent6-0175.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent6-0299.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent8-0108.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent8-0529.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent8-0725.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/jmedent9-0112.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/tju020.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/tjv181.xml correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/oxford/2nd_delivery_extracted/jme.tar.gz/jme/abstracts/tjw012.xml correspondant|
+|     1|Journals of Gerontology: Series A: Biomedical Sciences and Medical Sciences|
+|     1|Journals of Gerontology:Series A: Biomedical Sciences and Medical Sciences|
+|     1|Journals of Gerontology Series A: Biomedical Sciences and MEDICAL SCIENCES|
 |     1|The Journals of Gerontology|
 |     3|Information and Inference: A Journal of the IMA|
 |     4|Protein Engineering, Design and Selection|
 |     5|FEMS Microbiology Reviews|
-|     5|Journal of Semantics|
-|     5|Mathematical Medicine and Biology: A Journal of the Ima|
+|     5|Journal of the Society of Occupational Medicine|
 |     5|Nutrition Reviews|
 |     6|International Relations of the Asia-Pacific|
+|     6|Journals of Gerontology Series B: Psychological Sciences|
 |     7|Classical Receptions Journal|
 |     7|Journal of Financial Regulation|
-|     7|Journal of Refugee Studies|
-|     7|The Monist|
 |     7|Work, Aging and Retirement|
 |     8|Journal of Antitrust Enforcement|
-|     8|MHR: Basic science of reproductive medicine|
-|     9|Oxford Journal of Legal Studies|
 |    10|aesthj Journal|
 |    10|Journal of Medicine and Philosophy|
 |    10|Journal of Molecular Cell Biology|
@@ -115,32 +215,24 @@
 |    12|BJA Education|
 |    12|European Heart Journal – Quality of Care and Clinical Outcomes|
 |    12|European Journal Of International Law|
-|    12|Journal of the History of Medicine and Allied Sciences|
 |    12|Political Analysis|
 |    12|Progress of Theoretical and Experimental Physics|
+|    12|The Journal of The London Mathemathical Society|
 |    12|The Review of Economic Studies|
 |    13|Journal of Economic Geography|
-|    13|Journal of the London Mathematical Society|
 |    13|Review of Finance|
 |    14|Annals Of Occupational Hygiene|
 |    14|Genome Biology and Evolution|
-|    14|Journal of Logic and Computation|
 |    14|Journal Of Plant Ecology|
-|    14|Mutagenesis|
 |    15|British Journal for the Philosophy of Science|
 |    15|imrn|
 |    15|Journal of Financial Econometrics|
 |    15|Journal of International Economic Law|
-|    15|Journal of Pediatric Psychology|
-|    15|Journal of Plankton Research|
 |    15|Literary Imagination|
-|    16|Journal Of Heredity|
-|    17|Journal of Molluscan Studies|
-|    17|Journal of Tropical Pediatrics|
-|    17|Microscopy|
+|    16|Mammalian Species|
+|    16|Music &amp; Letters|
 |    17|Parliamentary Affairs|
 |    17|Social Cognitive and Affective Neuroscience|
-|    17|The Journal of Biochemistry|
 |    18|American Literary History|
 |    18|Briefings in Bioinformatics|
 |    18|FEMS Yeast Research|
@@ -149,35 +241,25 @@
 |    19|Sociology of Religion|
 |    20|Journal of Human Rights Practice|
 |    21|American Journal of Legal History|
-|    21|Journal Of Public Administration Research And Theory|
 |    21|The Review of Financial Studies|
 |    22|International Journal of Law Policy and the Family|
 |    22|Journal of Neuropathology &amp; Experimental Neurology|
-|    22|Oxford Economic Papers|
+|    22|MHR-Basic Science of Reproductive Medicine|
 |    22|Oxford Journal of Law and Religion|
 |    23|Forum for Modern Language Studies|
 |    24|American Journal of Clinical Pathology|
 |    25|Analysis|
-|    25|Music Therapy Perspectives|
-|    26|Journal of Social History|
-|    26|Journal of the American Medical Informatics Association|
-|    26|Medical Mycology|
 |    26|Monthly Notices of the Royal Astronomical Society: Letters|
-|    27|Journals of Gerontology Series A: Biomedical Sciences and Medical Sciences|
+|    26|The Journal of The London Mathematical Society|
 |    27|Toxicological Sciences|
-|    28|Journal of Chromatographic Science|
-|    28|Journals of Gerontology Series B: Psychological Sciences and Social Sciences|
-|    29|Journal of Islamic Studies|
-|    29|Nephrology Dialysis Transplantation|
 |    29|Social Science Japan Journal|
 |    29|The Review of English Studies|
-|    31|Journal of Analytical Toxicology|
 |    32|International Political Sociology|
 |    33|Astronomy &amp; Geophysics|
-|    34|Journal Of Experimental Botany|
 |    35|ICES Journal du Conseil|
 |    35|JNCI Journal of the National Cancer Institute|
-|    36|Journal of Medical Entomology|
+|    35|Journals of Gerontology: Series B|
+|    36|The Journal of Music Therapy|
 |    38|Foreign Policy Analysis|
 |    40|FEMS Microbiology Letters|
 |    41|English: Journal of the English Association|
@@ -186,12 +268,12 @@
 |    43|Schizophrenia Bulletin|
 |    44|Interactive CardioVascular and Thoracic Surgery|
 |    46|International Studies Perspectives|
+|    47|Organization of American Historians Magazine of History|
 |    48|Geophysical Journal International|
 |    48|Journal of National Cancer Institute|
 |    49|Annals of Botany|
 |    51|Rheumatology|
 |    52|Adaptation|
-|    53|The Oral History Review|
 |    55|Annals of Oncology|
 |    55|Pain Medicine|
 |    61|Poultry Science|
@@ -202,27 +284,37 @@
 |    75|QJM: An International Journal of Medicine|
 |    76|Aesthetic Surgery Journal|
 |    80|International Studies Review|
-|    81|Digital Scholarship in the Humanities|
 |    84|Open Forum Infectious Diseases|
 |    89|Applied Economic Perspectives and Policy|
 |    90|ICSID Review - Foreign Investment Law Journal|
-|    98|Journal of Antimicrobial Chemotherapy|
+|    94|Digital Scholarship in the Humanities|
 |   103|Acta Biochimica et Biophysica Sinica|
-|   119|The Journal of Infectious Diseases|
+|   121|Leo Baeck Institute Year Book|
 |   122|The Year's Work in Critical and Cultural Theory|
 |   127|Publications de Circonstance|
 |   131|Nicotine &amp; Tobacco Research|
+|   137|Mathematical Medicine and Biology|
 |   139|Cerebral cortex (New York, N.Y. : 1991)|
+|   141|Multi-Ethnic Literature of the United States|
 |   147|Journal of Farm Economics/Canadian Journal of Agricultural Economics|
-|   167|The Journal of American History|
+|   164|MELUS: Multi-Ethnic Literature of the United States|
 |   178|The IMA Journal of Applied Mathematics|
 |   184|Review of Agricultural Economics|
+|   184|Transactions of the Bibliographical Society|
+|   185|Journal of Law, Economics, and Organization|
 |   211|Natural Law Forum|
+|   216|Library|
 |   229|European Heart Journal Supplements|
 |   248|Bioinformatics (Oxford, England)|
 |   255|Nucleic Acids Research|
 |   268|British Journal of Aesthetics|
+|   270|The Journal of Law, Economics, &amp; Organization|
+|   298|Logic Journal of the IGPL|
+|   315|Oral History Review|
+|   327|Modern Judaism|
+|   335|MHR: Basic science of reproductive medicine|
 |   340|Acta Biochim Biophys Sin|
+|   340|The Journal of Law, Economics, and Organization|
 |   341|Brain|
 |   347|Contributions to Political Economy|
 |   379|The American Journal of Jurisprudence|
@@ -230,101 +322,175 @@
 |   400|International Journal of Law and Information Technology|
 |   479|American Entomologist|
 |   524|Economic Policy|
+|   531|Journal of Semantics|
 |   533|European Journal of Public Health|
 |   543|Christian Bioethics|
+|   552|Mathematical Medicine and Biology: A Journal of the Ima|
 |   558|International Journal of Law, Policy and the Family|
 |   611|Trusts &amp; Trustees|
+|   613|Journal of Theological Studies|
 |   643|European Journal of Orthodontics|
+|   650|Modern Judaism - A Journal of Jewish Ideas and Experience|
+|   673|Medical Law Review|
 |   687|Epidemiologic Reviews|
+|   715|The Journal of antimicrobial chemotherapy|
 |   724|Monthly Notices of the Royal Astronomical Society|
 |   731|IMA Journal of Management Mathematics|
+|   742|Music Theory Spectrum|
+|   757|Logic Journal of IGPL|
+|   803|Journal of Electron Microscopy|
 |   806|ICSID Review|
 |   819|Journal of African Economies|
+|   874|Music Therapy Perspectives|
 |   919|Journal of Crohn's and Colitis|
+|   951|Journal of the History of Collections|
+|   973|Oxford Review of Economic Policy|
 |   979|British Journal of Criminology|
+|   987|Journal of Environmental Law|
 |   995|Ima Journal of Mathematical Control and Information|
 |  1034|Archives of Clinical Neuropsychology|
 |  1041|Industrial and Corporate Change|
+|  1043|Journals of Gerontology Series B: Psychological Sciences and Social Sciences|
 |  1089|International Journal of Lexicography|
+|  1125|The Journals of Gerontology Series B: Psychological Sciences and Social Sciences|
 |  1142|Interacting with Computers|
+|  1144|Journal of American History|
+|  1161|Oxford Journal of Legal Studies|
+|  1203|Journal of Public Administration Research and Theory|
 |  1220|Human reproduction (Oxford, England)|
 |  1226|Children &amp; Schools|
 |  1231|International Journal of Public Opinion Research|
 |  1232|Current Legal Problems|
 |  1233|Arbitration International|
+|  1280|Oxford Art Journal|
 |  1307|Human Reproduction Update|
+|  1405|Journal of Music Therapy|
+|  1415|Journal of Biochemistry|
+|  1429|Journal of Design History|
 |  1433|French Studies Bulletin|
 |  1450|European Sociological Review|
 |  1455|Ima Journal of Numerical Analysis|
+|  1484|Journal of Refugee Studies|
 |  1488|International Journal of Refugee Law|
+|  1532|OAH Magazine of History|
+|  1554|Literature and Theology|
+|  1577|Journal of Logic and Computation|
 |  1585|Integrative and Comparative Biology|
 |  1608|The Cambridge Quarterly|
 |  1680|Health Promotion International|
+|  1708|The Oral History Review|
 |  1727|AIBS Bulletin|
 |  1799|Holocaust and Genocide Studies|
 |  1803|European Review of Agricultural Economics|
 |  1852|Cambridge Journal of Economics|
+|  1865|Journal of Applied Poultry Research|
 |  1867|ITNow|
+|  1904|The Leo Baeck Institute Yearbook|
+|  1977|Nephrology Dialysis Transplanation|
 |  2031|Diplomatic History|
+|  2040|Journal of Islamic Studies|
+|  2094|Medical Mycology|
+|  2119|Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association|
 |  2124|Health Policy and Planning|
+|  2134|MELUS|
+|  2144|Molecular human reproduction|
+|  2148|Journals of Gerontology Series A: Biomedical Sciences and Medical Sciences|
 |  2155|Health &amp; Social Work|
 |  2212|IMA Journal of Applied Mathematics|
 |  2213|Industrial Law Journal|
+|  2217|The Journals of Gerontology Series A: Biological Sciences and Medical Sciences|
 |  2274|International Journal for Quality in Health Care|
 |  2304|Alcohol and Alcoholism|
 |  2424|French History|
 |  2437|British Journal of Social Work|
 |  2442|Interdisciplinary Studies in Literature and Environment|
+|  2480|Oxford Economic Papers|
 |  2486|Health Education Research|
 |  2520|History Workshop Journal|
+|  2530|Journal of the American Medical Informatics Association|
 |  2646|Essays in Criticism|
+|  2661|Mutagenesis|
 |  2721|American Journal of Epidemiology|
 |  2773|The European Journal of Orthodontics|
+|  3067|Journal of Petrology|
 |  3129|Chemical Senses|
+|  3243|Microscopy|
 |  3296|Reviews of Infectious Diseases|
 |  3335|Behavioral Ecology|
 |  3335|Community Development Journal|
 |  3357|The British Journal of Social Work|
 |  3407|German History|
 |  3593|International Mathematics Research Notices|
+|  3635|Journal of pediatric psychology|
 |  3665|The British Journal for the Philosophy of Science|
 |  3669|Glycobiology|
+|  3708|Journal of Public Health|
+|  3717|The Opera Quarterly|
 |  3777|The British Journal of Criminology|
 |  3915|The British Journal of Aesthetics|
+|  4003|Journal of Analytical Toxicology|
 |  4024|FEMS Microbiology Ecology|
+|  4120|Journal of Plankton Research|
 |  4147|Family practice|
 |  4277|Age and ageing|
 |  4376|International immunology|
+|  4496|Journal of Semitic Studies|
 |  4587|Cerebral Cortex|
+|  4631|Journal of Tropical Pediatrics|
+|  4673|Journal of Molluscan Studies|
 |  4692|The European Journal of Public Health|
 |  4904|Japanese Journal of Clinical Oncology|
 |  4956|English|
 |  4972|Elt Journal|
+|  5200|The Musical Quarterly|
+|  5476|The Monist|
+|  5721|Journal of Social History|
 |  5816|Early Music|
+|  5950|Journal of Gerontology|
 |  6017|Bulletin of the London Mathematical Society|
 |  6132|British Medical Bulletin|
+|  6191|Occupational Medicine|
 |  6208|JNCI: Journal of the National Cancer Institute|
 |  6532|The Computer Journal|
+|  6840|Journal of Church and State|
 |  7111|Biometrika|
 |  7289|ICES Journal of Marine Science|
 |  7292|American Journal of Agricultural Economics|
+|  7335|Journal of Medical Entomology|
 |  7433|Journal of Farm Economics|
+|  7453|Journal of the History of Medicine and Allied Sciences|
+|  8125|The Library|
+|  8755|Journal of Chromatographic Science|
+|  9061|The Mississippi Valley Historical Review|
+|  9115|Journal of the London Mathematical Society|
 |  9571|British journal of anaesthesia|
 |  9574|Environmental Entomology|
 | 10429|International journal of epidemiology|
 | 10753|Human Molecular Genetics|
+| 10972|The Journal of Infectious Diseases|
 | 11487|The Gerontologist|
+| 11613|Journal of the American Academy of Religion|
 | 11644|Bioinformatics|
 | 11648|European Journal of Cardio-Thoracic Surgery|
 | 12444|Carcinogenesis|
 | 12987|Cardiovascular Research|
+| 13161|Journal of Experimental Botany|
+| 13292|Journal of Heredity|
+| 13535|Mind|
 | 14117|BJA: British Journal of Anaesthesia|
+| 14407|Music and Letters|
 | 14532|BioScience|
 | 15788|European Heart Journal|
+| 16038|Journal of Antimicrobial Chemotherapy|
 | 17118|French Studies|
+| 17251|The Journal of Biochemistry|
+| 17707|Nephrology Dialysis Transplantation|
 | 17745|American Journal of Hypertension|
+| 17745|The Journal of Theological Studies|
 | 19069|Human Reproduction|
+| 20340|Journal of Infectious Diseases|
 | 22380|Clinical Infectious Diseases|
 | 22561|Journal of the National Cancer Institute|
+| 26868|The Journal of American History|
 | 45923|The English Historical Review|
 | 51737|The American Historical Review|

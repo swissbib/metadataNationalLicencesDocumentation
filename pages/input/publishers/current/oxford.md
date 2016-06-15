@@ -61,8 +61,7 @@ Un fichier par article
 
  * cette fois pas de répertoires mais des fichiers tar par issue uniquement
  * ils ont livré les pdf avec !!! Mais seulement pour certains périodiques
- * il y a 4265 fichiers tar et 587 fichiers tar.gz
- * 122 journals, 188'036 fichiers et dossiers
+ * 14 juin 2016 : 973'245 fichiers et dossiers
 
 
 
