@@ -136,7 +136,7 @@ Here is what needs to be done in more details.
 
 To manage all this process, the details need to be recorded in a database. A small draft follows
 
-edu-id [unique-id](https://www.switch.ch/aai/support/documents/attributes/swissedupersonuniqueid/index.html) (or [persistendId](https://www.switch.ch/aai/support/documents/attributes/edupersontargetedid/index.html)) | conditions accepted | request temporary access with sms on swiss mobile phone | End of validity of temporary access | user is blocked | post adress | name, phone number, country... ? | last swiss edu_id activity
+edu-id [unique-id](https://www.switch.ch/aai/support/documents/attributes/swissedupersonuniqueid/index.html) (or [persistendId](https://www.switch.ch/aai/support/documents/attributes/edupersontargetedid/index.html)) | conditions accepted | requested temporary access | End of validity of temporary access | user is blocked | post adress | name, phone number, country... ? | last swiss edu_id activity
 --- | --- | --- | --- | --- | ---- |
 8247315@eduid.ch | yes | yes | 8.4.2016 at 18h30 | no | Rue Faller 2, 1202 Geneve | &nbsp; | 1.5.2015
 8783431@eduid.ch | yes | no | | yes | Novartis Campus, 4056 Basel | &nbsp; | 1.12.2015
