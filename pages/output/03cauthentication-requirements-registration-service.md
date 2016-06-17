@@ -38,8 +38,7 @@ The technical stack is
 
  * User needs to accept terms and conditions for Swiss National licences
  * User must have a swiss edu-id account
- * User must have a postal address in Switzerland
- * User must have in its swiss edu-id account a verified swiss mobile phone number and must have requested a unique token in the last 14 days OR User has a **verified** postal address in Switzerland
+ * User must have in its swiss edu-id account a verified swiss mobile phone number and must have requested a temporary access in the last 14 days **OR** User has a verified postal address in Switzerland
  * User must not have been blocked by national licences administrators
  * User must have used its swiss edu-id account in the last 12 months
 
@@ -48,14 +47,15 @@ The technical stack is
 ### List of Switch services which are to be used and are implemented
 
  * the Switch SAML attributes https://www.switch.ch/aai/support/documents/attributes/
- * All attributes are delivered using Shibboleth software
+ * All attributes are delivered using Shibboleth software (either when the user logs in Swissbib other via [Shibboleth backchannel](https://wiki.shibboleth.net/confluence/display/IDP30/SecurityAndNetworking#SecurityAndNetworking-Back-ChannelSupport))
 
 ### List of Switch services which are to be used and not implemented yet
 
- * SWITCH will provide an interface to store the shared property `national-licence-compliant` of a person, that defines if the person currently fulfills all conditions to get access to contents in the context of the national licence programme. SWITCH will use this property to set the value `urn:mace:dir:entitlement:common-lib-terms` to the SAML attribute `eduPersonEntitlement`. This SAML attribute will be delivered to the publisher's platforms.
- * SWITCH will set up a notification service for modified accounts (for example if a user change its post address). The notification service says : “something has changed for user x”. The Service Provider (swissbib) can then access the attributes of that user, check the changes and react accordingly.
- * SWITCH will add [quality statements](https://projects.switch.ch/eduid/about/quality/) to attributes. This allows for example to see if a post address has been verified or not.
- * SWITCH will fill the attribute swissLibraryPersonResidence with the country chosen in the postal address
+feature | specification date | available for development | available in production
+------- | ------------------ | ------------------------- | -----------------------  
+SWITCH will provide an interface to store the shared property `national-licence-compliant` of a person, that defines if the person currently fulfills all conditions to get access to contents in the context of the national licence program. SWITCH will use this property to set the value `urn:mace:dir:entitlement:common-lib-terms` to the SAML attribute `eduPersonEntitlement`. This SAML attribute will be delivered to the publisher's platforms.||mid Aug'16|mid Sept'16
+SWITCH will add [quality statements](https://projects.switch.ch/eduid/about/quality/) to attributes. This allows for example to see if a post address has been verified or not.|mid July'16|mid Sept'16|mid Oct'16
+SWITCH will fill the attribute swissLibraryPersonResidence with the country chosen in the postal address||mid Aug'16|mid Sept'16
 
 ---
 
@@ -111,21 +111,31 @@ The user creates a Swiss Edu Id account.
 
 This is what needs to be developed by Snowflake. To be granted access to Swiss National Licences, the conditions described above (page 1) must be satisfied.
 
-![Mockup User Account]({{ site.github.url }}/public/images/swissbib-user-account.jpg)
+Mockup :
+
+![Mockup User Account]({{ site.github.url }}/public/images/swissbib-user-account2.png)
 
 Here is what needs to be done in more details.
 
+
+**Option 1 : Temporary access**
+
+1. allow user to activate its temporary access valid 14 days. This can only be requested once. To be able to request this, the user needs to have a verified **swiss** (number begins with +41 79, 78, 77, ???) mobile phone number in its swiss edu-id account.
+
+**Option 2 : Permanent access**
+
+1. check if the shibboleth attribute `swissLibraryPersonResidence` has the value `CH` (Switzerland). If the value is missing, request user to fill its attribute `homePostalAddress` in Swiss EduId. If the value is in a foreign country, tell the user that this service is only for swiss residents.
+2. check if the [quality level](https://projects.switch.ch/eduid/about/faq/#get-quality-attr) of the shibboleth attribute `homePostalAddress` is `verified`. If not, allow user to request a verification of postal address (the verification is than done by Switch, but the request is on the Registration Service side)
+
+**Always**
 1. allow user to accept terms and conditions for Swiss National Licences (checkbox). Record that in a local database.
-2. check if the shibboleth attribute `swissLibraryPersonResidence` has the value `CH` (Switzerland). If the value is missing, request user to fill its attribute `homePostalAddress` in Swiss EduId. If the value is in a foreign country, tell the user that this service is only for swiss residents.
-3. check if the [quality level](https://projects.switch.ch/eduid/about/faq/#get-quality-attr) of the shibboleth attribute `homePostalAddress` is `verified`. If not, allow user to request a verification of postal address (the verification is than done by Switch, but the request is on the Registration Service side)
-4. allow user to request a token (valid 14 days) by sms (sms is sent via Switch sms service by sending an email to +4179XXXXXXX@sms.switch.ch using an smtp server from uni basel). The SMS is sent to the phone number registered in the shibboleth `mobile` attribute. The token sent by sms must be entered online by the user and verified by the registration service (swissbib). The token can only be requested once and can only be sent to a swiss mobile phone (number begins with +41 79, 78, 77, ???).
-5. show to the user if its account has been blocked by national licences administrators.
-6. If all conditions are met (see page one), set the flag `national-licence-compliant` using Switch REST API. Display to the user that he is "national-licence-compliant"
+2. show to the user if its account has been blocked by national licences administrators.
+3. If all conditions are met (see page one), set the flag `national-licence-compliant` using Switch REST API. Display to the user that he is "national-licence-compliant"
 
 
 To manage all this process, the details need to be recorded in a database. A small draft follows
 
-edu-id [unique-id](https://www.switch.ch/aai/support/documents/attributes/swissedupersonuniqueid/index.html) (or [persistendId](https://www.switch.ch/aai/support/documents/attributes/edupersontargetedid/index.html)) | conditions accepted | request temporary access with sms on swiss mobile phone | date/time of end of validity | user is blocked | post adress | name, phone number, country... ? | last swiss edu_id activity
+edu-id [unique-id](https://www.switch.ch/aai/support/documents/attributes/swissedupersonuniqueid/index.html) (or [persistendId](https://www.switch.ch/aai/support/documents/attributes/edupersontargetedid/index.html)) | conditions accepted | request temporary access with sms on swiss mobile phone | End of validity of temporary access | user is blocked | post adress | name, phone number, country... ? | last swiss edu_id activity
 --- | --- | --- | --- | --- | ---- |
 8247315@eduid.ch | yes | yes | 8.4.2016 at 18h30 | no | Rue Faller 2, 1202 Geneve | &nbsp; | 1.5.2015
 8783431@eduid.ch | yes | no | | yes | Novartis Campus, 4056 Basel | &nbsp; | 1.12.2015
@@ -151,9 +161,9 @@ This will be stored in the existing VuFind Database (MySQL). One option would be
 
 Develop a web interface that allows National Licences administrators (2-3 people from the Consortium) to :
 
- * block a user
- * see the list of registered users (and maybe extract a list)
- * display the total number of currently registered users for swiss national licences
+ * ~~block a user~~ (this will be done manually in the database, shouldn't happen more than once a year)
+ * see the list of registered users
+ * display the total number of currently registered users for swiss national licences as well as the number of temporary access requested
 
  A good start could be the [libadmin interface](https://github.com/swissbib/libadmin). This interface allows Swissbib Administrators to manage the >900 libraries within Swissbib. It has been developed by Snowflake in April 2013.
 
@@ -163,8 +173,9 @@ Develop a web interface that allows National Licences administrators (2-3 people
 
 ### 2.3 Maintenance Tasks
 
-* once a week, for each National Licence compliant user, get the last activity date from swiss edu-id (probably using Switch [Shibboleth Back-Channel](https://wiki.shibboleth.net/confluence/display/IDP30/SecurityAndNetworking#SecurityAndNetworking-Back-ChannelSupport) but that needs to be confirmed). If this is more than one year ago, send an email to the user with a link to extend its account (with some time). To extend its account, the user needs to log in, therefore the system can update the attributes if needed. Otherwise, unset the `national-licence-compliant` flag.
-* once a week, check if the registered accounts have been modified in swiss edu id (using Switch Notification Service and API’s). Especially if the post address has been updated. Update the flag `national-licence-compliant` accordingly in Swiss Edu-Id if needed.
+* once a week, for each National Licence compliant user, update the attributes (last activity date, postal address, country of residence, ...) from Swiss edu-ID (using Switch [Shibboleth Back-Channel](https://wiki.shibboleth.net/confluence/display/IDP30/SecurityAndNetworking#SecurityAndNetworking-Back-ChannelSupport)).
+* If the last activity date is more than one year ago, send an email to the user with a link to extend its account (with some time). To extend its account, the user needs to log in, therefore the system can update the attributes if needed. Otherwise, unset the `national-licence-compliant` flag.
+* If the post address has been updated (either it is not verified any more or it is in a foreign country), update the flag `national-licence-compliant` accordingly in Swiss Edu-Id.
 
 ---
 
