@@ -6,9 +6,9 @@ title: Requirements for the Registration service of Swiss National Licences
 
 ## Context
 
-For the [Swiss National Licences](http://www.swissuniversities.ch/fileadmin/swissuniversities/Dokumente/DE/UH/SUK_P-2/Abstract_Nationallizenzen.pdf), private users are allowed to access protected online content, if they live in Switzerland. Interested persons will need to [create a Swiss Edu-Id](https://eduid.ch/web/registration/1/) account and fulfill some special conditions.
+For the [Swiss National Licences](http://www.swissuniversities.ch/fileadmin/swissuniversities/Dokumente/DE/UH/SUK_P-2/Abstract_Nationallizenzen.pdf), private users are allowed to access protected online content, if they live in Switzerland. Interested persons will need to [create a Swiss edu-ID](https://eduid.ch/web/registration/1/) account and fulfill some special conditions.
 
-The Swiss Edu-Id framework is developed by [Switch](http://www.switch.ch/). It is a Single-Sign-On [Shibboleth based](https://en.wikipedia.org/wiki/Shibboleth_%28Internet2%29) platform. The main authentication features (user management, passwords, verified mobile phone number, verified post address) are dealt with by Switch. As some of the requirements are specific to National Licences, they need to be added to the swissbib platform.
+The Swiss edu-ID framework is developed by [Switch](http://www.switch.ch/). It is a Single-Sign-On [Shibboleth based](https://en.wikipedia.org/wiki/Shibboleth_%28Internet2%29) platform. The main authentication features (user management, passwords, verified mobile phone number, verified post address) are dealt with by Switch. As some of the requirements are specific to National Licences, they need to be added to the swissbib platform.
 
 The estimated number of potential users is 1000.
 
@@ -37,10 +37,10 @@ The technical stack is
 ### Conditions to be satisfied to get an access to Swiss National Licences
 
  * User needs to accept terms and conditions for Swiss National licences
- * User must have a swiss edu-id account
- * User must have in its swiss edu-id account a verified swiss mobile phone number and must have requested a temporary access in the last 14 days **OR** User has a verified postal address in Switzerland
+ * User must have a Swiss edu-ID account
+ * User must have in its Swiss edu-ID account a verified swiss mobile phone number and must have requested a temporary access in the last 14 days **OR** User has a verified postal address in Switzerland
  * User must not have been blocked by national licences administrators
- * User must have used its swiss edu-id account in the last 12 months
+ * User must have used its Swiss edu-ID account in the last 12 months
 
 
 
@@ -73,7 +73,7 @@ The user then clicks on a link to register for an access as a swiss resident. Th
 
 <https://eduid.ch/web/registration/1/?return=https%3A%2F%2Fwww.swissbib.ch%2FMyResearch%2FNationalLicences&forcereturn=yes&view=c920a46e>
 
-This link is a normal swiss edu id registration but
+This link is a normal Swiss edu-ID registration but
 
  * at the end the user is redirected to the national licences options in swissbib user account
  * the registration form is customized to always display the required fields for national licences ([Documentation](https://forge.switch.ch/projects/edu-id/wiki/Swiss_edu-ID_Registration_Form_Parameters) about this customization.)
@@ -88,16 +88,16 @@ Remarks :
 ---
 
 
-### 1.2. Swiss Edu Id Registration step 1
+### 1.2. Swiss edu-ID Registration step 1
 
-The user creates a Swiss Edu Id account.
+The user creates a Swiss edu-ID account.
 
 ![eduid step 1]({{ site.github.url }}/public/images/edu-id-step1.png)
 
 ---
 
 
-### 1.3. Swiss Edu Id Registration step 2
+### 1.3. Swiss edu-ID Registration step 2
 
 * Here any addresses (also foreign addresses) and phone numbers (also foreign numbers) can be registered.
 * The process of validating the phone number and the postal addresses can be triggered here
@@ -120,14 +120,15 @@ Here is what needs to be done in more details.
 
 **Option 1 : Temporary access**
 
-1. allow user to activate its temporary access valid 14 days. This can only be requested once. To be able to request this, the user needs to have a verified **swiss** (number begins with +41 79, 78, 77, ???) mobile phone number in its swiss edu-id account.
+1. allow user to activate its temporary access valid 14 days. This can only be requested once. To be able to request this, the user needs to have a verified **swiss** (number begins with +41 79, 78, 77, ???) mobile phone number in its Swiss edu-ID account.
 
 **Option 2 : Permanent access**
 
-1. check if the shibboleth attribute `swissLibraryPersonResidence` has the value `CH` (Switzerland). If the value is missing, request user to fill its attribute `homePostalAddress` in Swiss EduId. If the value is in a foreign country, tell the user that this service is only for swiss residents.
+1. check if the shibboleth attribute `swissLibraryPersonResidence` has the value `CH` (Switzerland). If the value is missing, request user to fill its attribute `homePostalAddress` in Swiss edu-ID. If the value is in a foreign country, tell the user that this service is only for swiss residents.
 2. check if the [quality level](https://projects.switch.ch/eduid/about/faq/#get-quality-attr) of the shibboleth attribute `homePostalAddress` is `verified`. If not, allow user to request a verification of postal address (the verification is than done by Switch, but the request is on the Registration Service side)
 
 **Always**
+
 1. allow user to accept terms and conditions for Swiss National Licences (checkbox). Record that in a local database.
 2. show to the user if its account has been blocked by national licences administrators.
 3. If all conditions are met (see page one), set the flag `national-licence-compliant` using Switch REST API. Display to the user that he is "national-licence-compliant"
@@ -152,8 +153,8 @@ This will be stored in the existing VuFind Database (MySQL). One option would be
 
 ### 2.1 When a user log-in to swissbib
 
- * at each login store in the database the most recent relevant attributes from user (name, address, email?, ...)
- * update the flag `national-licence-compliant` in Swiss Edu-Id if necessary
+ * at each login store in the database the most recent relevant attributes from user (email, phone number, country of residence, ...)
+ * update the flag `national-licence-compliant` in Swiss edu-ID if necessary
 
 ---
 
@@ -175,7 +176,7 @@ Develop a web interface that allows National Licences administrators (2-3 people
 
 * once a week, for each National Licence compliant user, update the attributes (last activity date, postal address, country of residence, ...) from Swiss edu-ID (using Switch [Shibboleth Back-Channel](https://wiki.shibboleth.net/confluence/display/IDP30/SecurityAndNetworking#SecurityAndNetworking-Back-ChannelSupport)).
 * If the last activity date is more than one year ago, send an email to the user with a link to extend its account (with some time). To extend its account, the user needs to log in, therefore the system can update the attributes if needed. Otherwise, unset the `national-licence-compliant` flag.
-* If the post address has been updated (either it is not verified any more or it is in a foreign country), update the flag `national-licence-compliant` accordingly in Swiss Edu-Id.
+* If the post address has been updated (either it is not verified any more or it is in a foreign country), update the flag `national-licence-compliant` accordingly in Swiss edu-ID.
 
 ---
 
@@ -208,7 +209,7 @@ The user lands on the publisher's platform. As he is not authenticated, he can n
 
 ### 3.3. Log in via Swiss edu ID - choose federation and IDP
 
-User needs to choose its own institution. For swiss private users, it will be swiss edu-id.
+User needs to choose its own institution. For swiss private users, it will be Swiss edu-ID.
 
 ![login federation]({{ site.github.url }}/public/images/login-federation-cambridge.png)
 
@@ -216,9 +217,9 @@ User needs to choose its own institution. For swiss private users, it will be sw
 
 ### 3.4. Log in
 
-User gives its swiss edu-id credentials.
+User gives its Swiss edu-ID credentials.
 
-![login swiss edu-id]({{ site.github.url }}/public/images/login-eduid.png)
+![login Swiss edu-ID]({{ site.github.url }}/public/images/login-eduid.png)
 
 ---
 
