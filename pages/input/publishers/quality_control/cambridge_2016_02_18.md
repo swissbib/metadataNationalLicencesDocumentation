@@ -80,7 +80,7 @@ On peut résumer ceci ainsi :
 </div>
 
 ## Liste des titres
-[Liste des titres pour analyse]({{ site.github.url }}/public/csv/cambridge_analysis.csv)
+[Liste des titres pour analyse](https://github.com/swissbib/metadataNationalLicences/tree/master/title-lists)
 
 
 ## Répartition sur les années de copyright
