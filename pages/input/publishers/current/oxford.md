@@ -62,6 +62,18 @@ Un fichier par article
  * cette fois pas de répertoires mais des fichiers tar par issue uniquement
  * ils ont livré les pdf avec !!! Mais seulement pour certains périodiques
  * 14 juin 2016 : 973'245 fichiers et dossiers
+ * Il y a 9 journaux qui ont certains fichier corrompus (ils sont désormais dans le folder `2nd_delivery_corrupted_folders`) :
+   - ajh6
+   - ajj11 - ajj17
+   - jahist.tar.gz
+   - jme.tar.gz
+   - proeng.tar.gz
+   - trstmh.tar.gz
+   - tweceb.tar.gz
+   - ulr.tar.gz
+   - yel.tar.gz
+ * For the year 2014, we have in the new delivery 27'814 articles and in the first delivery there were 29'867 articles. This could be related to the issue above
+ *
 
 
 
