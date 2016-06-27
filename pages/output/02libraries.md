@@ -45,7 +45,7 @@ Uni Bern et Uni Basel utilisent Intota pour la gestion des Périodiques.
 
 ## EZB
 
-Les bibliothèques suivantes utilisent EZB comme outil principal pour le signalement des périodiques électroniques et sont membres du consortium
+These libraries use EZB as the main tool for the management of periodicals and are member of the consortium.
 
  * UZH
  * Zentralbibliothek Zürich
@@ -55,7 +55,16 @@ Les bibliothèques suivantes utilisent EZB comme outil principal pour le signale
  * ZHAW
  * ZHDK
 
-De plus, d'après la liste sur le site ezb, la liste complète serait
+Under the lead of UZH (contact esther.zaugg@hbz.uzh.ch), swiss libraries organized themselves to import swiss national licences packages in EZB. For each package, there is an institution which takes care of the package :
+
+ * Oxford University Press -> UZH, Hauptbibliothek
+ * Cambridge University Press -> Zentralbibliothek Züurich
+ * De Gruyter -> HSG Bibliothek
+
+
+
+
+From EZB list, there are other libraries in Switzerland which use EZB :
 
  1. Bern, BFH, Bibliotheken der Berner Fachhochschule
  1. Buchs, FHO, Bibliotheken der Fachhochschule Ostschweiz
@@ -119,7 +128,7 @@ Quelques informations sur le signalement dans EZB pour les licences nationales a
 
 <http://ezb.uni-regensburg.de/natli/Infoseite_EZBBibliotheken.htm>
 
-En Suisse la bibliothèque "leader" sur ce point serait l'uni de Zurich (contact esther.zaugg@hbz.uzh.ch).
+
 
 ## Worldcat Local
 
