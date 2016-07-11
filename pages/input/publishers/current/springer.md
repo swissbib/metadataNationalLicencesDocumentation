@@ -80,6 +80,11 @@ Réponse de Springer pour la licence CC0 :
  * il y a 4796 qui ne passent pas encore à cause des espaces dans les champs années (corriger l'analyzer trimmer)
 
 
+## Administration
+
+ * the account lionel.walter@unibas.ch can manage swiss edu-id access on springer platform.
+
+
 ## Contact pour la technique
 
 **Mrs. Attilia Czikmantori**  

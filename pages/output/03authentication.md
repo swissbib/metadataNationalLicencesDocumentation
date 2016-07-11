@@ -16,6 +16,7 @@ Il y a une [liste détaillée](http://lib.consortium.ch/html_wrapper.php?dir=lib
 
  * [swiss edu-id](https://eduid.ch/web/registration/1/)
  * [libraries.ch](https://www.libraries.ch/users/new?locale=en) - [switch idp](https://www.switch.ch/aai/participants/allhomeorgs/#libraries.ch)
+ * [wiki de documentation switch aai](https://dokuwiki.toolbox.switch.ch/aai-lib-cons/inoperation)
 
 ## Remarque de Thomas Lenggenhager de Switch du 8 janvier 2016
 

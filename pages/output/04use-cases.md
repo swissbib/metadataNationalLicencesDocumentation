@@ -32,7 +32,7 @@ Un prétravail de tout ceci au niveau suisse simplifierait bien des choses :
 
 ## Un privé aimerait accéder à la version en ligne d'un article
 
-Public cible pour l'accès pour les privés : alumni hautes écoles, médecins, juristes, start-ups, pasteurs, bibliothèques publiques (pour service genre interroge), professeurs secondaires [link](http://ncse.com/blog/2016/03/teachers-access-to-scientific-literature-is-priceless-0016972),
+Public cible pour l'accès pour les privés : alumni hautes écoles, médecins, juristes, start-ups, pasteurs, bibliothèques publiques (pour service genre interroge), professeurs secondaires [link](http://ncse.com/blog/2016/03/teachers-access-to-scientific-literature-is-priceless-0016972), wikipediens, collaborateurs scientifiques (état, confédération)
 
 Contexte : admettons qu'un médecin non affilié à aucune université aimerait lire l'article suivant : *Patel, S., Lyons, A. and Hosking, D. (1993). Drugs Used in the Treatment of Metabolic Bone Disease. Drugs, 46(4), pp.594-617.* Cet article est compris dans les licences nationales
 

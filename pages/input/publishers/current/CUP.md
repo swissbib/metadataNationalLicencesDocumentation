@@ -36,6 +36,7 @@ Email de ameulekamp@cambridge.org, 28.9.2015.
 
 Remarque du service juridique UB Basel : "die beiden Erklärungen oder Ergänzungen haben aus meiner Sicht keine einschränkende Bedeutung, die Metadaten sind urheberrechtsfrei und Ihr könnt sie verwenden"
 
+ *  Transfertitel kommen ab 2015 dazu, aber die Archive werden dafür nicht freigeschaltet.
 
 ## Réception des données le 18.2.2016
 
@@ -83,7 +84,11 @@ Remarque du service juridique UB Basel : "die beiden Erklärungen oder Ergänzun
  * il y a 4681 fichiers qui ne passent pas dans ES, je reçois une erreur `Entity starts and ends are not balanced' while processing object: /media/lionel/Data/swissbib-data/cambridge/extracted/app/cjo/sgml-in-xml-converted/multiple_journals/S0007087400004179h.xml` mais les fichiers ont l'air corrects. J'ignore ce point. Le problème semble être une arborescence header/article/header ??? Mais ils sont quand même indexés en fait. C'est un peu étrange...
 
 
+## Commercial Use
 
+Conditions générales : 
+
+> **Commercial Use** for the purposes of monetary reward (whether by or for Licensee, a Consortium Member, an Authorised User, or any other person or entity) by means of sale, resale, loan, transfer, hire or other form of exploitation of the Product(s). For the avoidance of doubt, use by a Consortium Member or Authorised User of the Product(s) in the course of research funded by a commercial organisation is not deemed to constitute Commercial Use. Recovery of costs is not deemed as Commercial Use;
 
 
 ## Contact technique

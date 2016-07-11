@@ -38,6 +38,7 @@ Pour chaque journal, il y a une arborescence
  * Pour le journal Text & Talk, la DTD est -//Atypon//DTD Atypon Systems Archival NLM DTD Suite v2.2.0 20090301//EN
  * Pour le journal RNAM, il y a aussi le fulltext
  * Mail de Mme Näkel du 17.12.2015 : *"we agree to a Creative Commons Zero licence for our metadata"*
+ * Bei DeGruyter kommen keine Transertitel mehr dazu. Hier haben wir eine feste Kollektion, die sich abgesehen von den neuen Volumes nicht verändern wird
 
 ## Linking
 
@@ -90,11 +91,36 @@ Pour chaque journal, il y a une arborescence
  * Il y a des titres de périodiques erronés (par exemple 2007 comme titre)
  * Il y a deux périodiques pour lesquels les métadonnées ont été livrées mais qui ne sont pas dans la liste du contrat : Acta Geologica Polonica et Journal for Perspectives of Economic Political and Social Integration
  * Quand il n'y a pas d'indication de DTD alors la DTD est `<!DOCTYPE article  PUBLIC "-//Atypon//DTD Atypon Systems Archival NLM DTD Suite v2.2.0 20090301//EN" "nlm-dtd/archivearticle.dtd">` (mail de Katharina Rach du 13.5.2016)
+ * il y parfois des `xlink.href` au lieu de `xlink:href` dans les métadonnées
 
 
 Autres problèmes à notifier
 
  * il y a 3 doi avec des espaces : 10. 1515/dwir-2013-1061, 10. 1515/dwir-2013-1062, 10. 1515/jura-2013-0107. Les articles correspondants semblent absents de la plateforme.
+
+
+## Commercial Use
+
+4.6 The Licensee and the Authorized Users may use appropriate parts of the services to produce
+printed teaching materials for use by the Authorized Users within the Licensee's Authorized Sites; these materials are not permitted to be used for re-sale or any other commercial purpose.
+
+4.7 The Licensee and the Authorized Users are not permitted to use or exploit the services in whole or
+in part by sale to third parties, rent, lease, loan or any other means for commercial or trade pur-
+poses.
+Walter de Gruyter GmbH. Genthiner Str. 13. 10785 Berlin.
+Domicile Berlin. Amtsgericht Charlottenburg HRB 143490 B. Rechtsform: GmbH .
+Executive Board: Dr. Anke Beck, Carsten Buhr
+Chairman of the Supervisory Board : Rüdiger GebauerPage 4 from 30 of the General Ucense Agreement
+
+4.8 The Licensee is not permitted to be a commercial party to paid documentation services and to
+make the service available in whole or in part for this purpose. In exception to this, however, the
+Licensee is allowed to respond to a request by another library to generate a print-out of part of
+the service (e.g. an eJournal article or an eßook chapter) and to despatch this via non-commercial
+inter-library loan services. This only applies to paper print-outs; electronic copies may not be
+made. The use of the "Ariel Interlibrary Loan Software" for the transmission of a small proportion
+of the service to a printer/fax of another library is allowed, a transmission to e-mail addresses is
+not permitted . The transmission of whole eßooks via non-commercial inter-library loan services is
+not allowed
 
 
 

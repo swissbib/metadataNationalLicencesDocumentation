@@ -59,3 +59,14 @@ Article Meta :
 ### Swissbib JATS DTD
 
 Avoir une DTD plus stricte par-dessus celle de JATS ? Avec des Overrides ?
+
+### Compatibility
+
+NLM 2.1 est valide par rapport à NLM 2.2., ...
+
+Mais à partir de 3.0, cela ne marche plus. Les principaux changements :
+
+ * New container elements (exemple les titres sont regroupés dans <title-group>). For example, all translated titles used to be followed by all translated subtitles. Now, a translated title and its subtitle are grouped into a single, overarching container so that a title and its subtitle can be distinguished from all other title/subtitle pairs.
+ * Other example : for example, the <copyright-statement> inside <article-meta> is now allowed only inside <permissions> and not also as a direct child of <article-meta>.
+
+NLM 3.1 = JATS 0.4
