@@ -32,6 +32,7 @@ Un fichier par article
    * American Journal of Agricultural Economics
    * Mammalian Species
    * Teaching Mathematics and its Applications: An International Journal of the IMA
+ *  Transfertitel kommen ab 2015 dazu, aber die Archive werden dafür nicht freigeschaltet.
 
 
 
@@ -76,7 +77,14 @@ Un fichier par article
  *
 
 
+## Commercial Use
 
+> (ii) the individual is requesting access on their own behalfto satisfy their
+own private personal interest only and not in connection with
+their employment or engageme nt by any other e ntity;
+
+> (iii) any usage rights granted to these individuals are limited to use for
+non-commercial research purposes for private study
 
 
 
