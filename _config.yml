@@ -7,9 +7,9 @@ permalink:        pretty
 
 # Setup
 title:            Swissbib
-tagline:          'Licences nationales'
-description:      'Licences nationales'
-url:              http://swissbib.lionelwalter.ch
+tagline:          'National Licences'
+description:      'National Licences'
+url:              http://swissbib.github.io/metadataNationalLicencesDocumentation/
 baseurl:          /
 
 author:
