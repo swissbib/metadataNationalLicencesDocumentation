@@ -128,6 +128,9 @@ Quelques informations sur le signalement dans EZB pour les licences nationales a
 
 <http://ezb.uni-regensburg.de/natli/Infoseite_EZBBibliotheken.htm>
 
+On retrouve les suisses ici
+<http://rzblx1.uni-regensburg.de/ezeit/konsortien.phtml>
+
 
 
 ## Worldcat Local

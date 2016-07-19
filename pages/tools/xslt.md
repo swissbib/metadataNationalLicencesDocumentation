@@ -15,3 +15,5 @@ Problèmes :
 ## Problèmes
 
 C'est conseillé d'avoir 5* en RAM la taille du fichier pour l'analyser. Donc il faut splitter les fichiers en plus petites parties (fichier d'environ 1Go par exemple pour 8Go de RAM)
+
+## xsltproc
