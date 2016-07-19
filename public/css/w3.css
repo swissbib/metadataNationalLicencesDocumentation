@@ -1,8 +1,10 @@
 .w3-accordion-content a{text-decoration:none!important}
 
 .w3-accordion {width:100%;cursor:pointer}
-.w3-accordion-content{cursor:auto;display:none;position:relative;width:100%;margin:0;padding:0}
+.w3-accordion-content{cursor:auto;display:none;position:relative;width:100%;margin:0;padding-left:2rem;background-color: #c9c9c9;}
 .w3-accordion-content a{display:block}
+
+ 
 
 
 
