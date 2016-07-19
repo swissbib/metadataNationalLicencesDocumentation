@@ -371,7 +371,7 @@ All metadata will be integrated in the swissbib search engine. To display it to 
 
  * integrate all articles from national licences in the standard <http://www.swissbib.ch>. Access to the National Licences content with a specific facet
 
-![Mockup with a facet](/public/images/swissbib_search_nl.png)
+![Mockup with a facet]({{ site.github.url }}/public/images/swissbib_search_nl.png)
 
 ----
 
@@ -389,7 +389,7 @@ All metadata will be integrated in the swissbib search engine. To display it to 
 
 To ease the discovery of National Licences for private users and at the same time offer additional services from libraries (like document delivery), we plan to offer personalized links for Swiss residents in Google Scholar. It would look like this :
 
-![Mockup Google Scholar](/public/images/google_scholar.png)
+![Mockup Google Scholar]({{ site.github.url }}/public/images/google_scholar.png)
 
 To have such a display, interested users must say in their Google Scholar personal settings that they are Swiss Residents. The most efficient way to achieve this would be to use ExLibris SFX. IDS has already a subscription to this software and it allows to achieve such processes quite easily.
 
@@ -423,7 +423,7 @@ Extracted from the article metadata, title lists at the journal level in Excel a
 
 As ExLibris SFX is one of the main tool used, we took contact with ExLibris to have the possibility to create dedicated targets for Swiss National Licences in SFX KnowledgeBase. This way, the updates can be applied centrally and take effect for all libraries which use SFX. The requirement from ExLibris was to have title lists in KBART format. We complied and the targets were created at the beginning of June 2016 :
 
-![Swiss targets in SFX](/public/images/swiss_targets_SFX.png)
+![Swiss targets in SFX]({{ site.github.url }}/public/images/swiss_targets_SFX.png)
 
 We can update Swiss National Collections centrally by depositing KBART files on ExLibris FTP server.
 
