@@ -1,3 +1,15 @@
+<script>
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf("w3-show") == -1) {
+	x.className += " w3-show";
+    } else {
+	x.className = x.className.replace(" w3-show", "");
+    }
+}
+</script>
+
+
 <div class="sidebar">
   <div class="container">
     <div class="sidebar-about">
@@ -13,8 +25,15 @@
 
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url ==  site.github.url %} active{% endif %}" href="{{ site.github.url }}">Accueil</a>
 
+
+
+
+
+
+	
+      <a class="sidebar-nav-item{% if page.url ==  site.github.url %} active{% endif %}" href="{{ site.github.url }}">Accueil</a>
+	<div><div>
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
@@ -25,6 +44,20 @@
       {% assign pages_list = site.pages | sort : 'url' %}
 
       {% assign previous_parent = "" %}
+
+
+
+
+      {% assign active_page_parts = page.url | split: '/' %}
+
+      {% assign active_level = active_page_parts | size %}
+
+      {% assign active_index = active_level | minus: 2 %}
+
+      {% assign active_parent = active_page_parts[active_index] %}
+
+
+
 
       {% for node in pages_list %}
 
@@ -39,8 +72,14 @@
 
         {% if node.layout == "page" %}
           {% if parent != previous_parent %}
-            <br/>
+	    </span>
+            </span>
+	    <br/>
+		<span class="w3-accordion">
+		<span onclick="myFunction('{{parent}}')">
+		
             {% case parent %}
+		
               {% when 'current' %}
                  Editeurs en cours
               {% when 'rejected' %}
@@ -62,6 +101,8 @@
               {% else %}
                  {{ parent }}
             {% endcase %}
+		</span><br/>
+		<span id="{{parent}}" class="w3-accordion-content{% if parent == active_parent %} w3-show{% endif %}">
           {% endif %}
         {% endif %}
 
