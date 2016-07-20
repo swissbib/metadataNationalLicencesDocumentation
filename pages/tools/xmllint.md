@@ -15,6 +15,10 @@ Vérifier que tous les fichiers xml sont valides par rapport à une DTD donnée 
 
 `find . -name "*.xml" -type f -exec xmllint --noout --dropdtd --dtdvalid ~/Documents/swissbib/dtd/jats-publishing-dtd-1.0/JATS-journalpublishing1.dtd 2>>result.txt {} \;`
 
+Ou alors
+
+ `find . -name "*.xml" -type f -exec xmllint --noout --dropdtd --dtdvalid /home/lionel/Documents/mycloud/swissbib/dtd/JATS-Archiving-1-1-OASIS-MathML3-DTD/JATS-archive-oasis-article1-mathml3.dtd --nowarning {} \;`
+
 
 Ou alors sur un fichier sans warnings :
 
