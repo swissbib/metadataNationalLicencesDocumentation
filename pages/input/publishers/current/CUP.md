@@ -37,6 +37,9 @@ Email de ameulekamp@cambridge.org, 28.9.2015.
 Remarque du service juridique UB Basel : "die beiden Erklärungen oder Ergänzungen haben aus meiner Sicht keine einschränkende Bedeutung, die Metadaten sind urheberrechtsfrei und Ihr könnt sie verwenden"
 
  *  Transfertitel kommen ab 2015 dazu, aber die Archive werden dafür nicht freigeschaltet.
+ * Exemple Wayfless link <https://shibboleth.cambridge.org/Shibboleth.sso/discovery?entityID=https://aai-logon.unibas.ch/idp/shibboleth&target=https://shibboleth.cambridge.org/CJOShibb2/index?app=journals.cambridge.org/action/loginShibb> : ne marche pas en juillet 2016 mais Cambridge y travaille.
+ * Lien basé sur DOI : http://abbs.oxfordjournals.org/lookup/doi/10.1093/abbs/gmw069
+ * 
 
 ## Réception des données le 18.2.2016
 
@@ -86,7 +89,7 @@ Remarque du service juridique UB Basel : "die beiden Erklärungen oder Ergänzun
 
 ## Commercial Use
 
-Conditions générales : 
+Conditions générales :
 
 > **Commercial Use** for the purposes of monetary reward (whether by or for Licensee, a Consortium Member, an Authorised User, or any other person or entity) by means of sale, resale, loan, transfer, hire or other form of exploitation of the Product(s). For the avoidance of doubt, use by a Consortium Member or Authorised User of the Product(s) in the course of research funded by a commercial organisation is not deemed to constitute Commercial Use. Recovery of costs is not deemed as Commercial Use;
 

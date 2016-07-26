@@ -33,6 +33,8 @@ Un fichier par article
    * Mammalian Species
    * Teaching Mathematics and its Applications: An International Journal of the IMA
  *  Transfertitel kommen ab 2015 dazu, aber die Archive werden dafür nicht freigeschaltet.
+ * Wayfless links : email oxford 22.7.2016 : "At present those type of links are not available on our Journals platform however it is available on some of our online products."
+ * 
 
 
 
