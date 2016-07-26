@@ -1,7 +1,7 @@
 <script>
 function myFunction(id) {
     var y = document.getElementsByClassName("w3-show")[0];
-    if (y.className.indexOf("w3-show") != -1){
+    if (y && y.className.indexOf("w3-show") != -1){
         y.className = y.className.replace(" w3-show", "");
     }    
 
@@ -81,7 +81,7 @@ function myFunction(id) {
             </span>
 	    <br/>
 		<span class="w3-accordion">
-		<span onclick="myFunction('{{parent}}')">
+		<span class="sidebar-subtitle" onclick="myFunction('{{parent}}')">
 		
             {% case parent %}
 		

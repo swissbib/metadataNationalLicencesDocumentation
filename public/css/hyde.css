@@ -76,6 +76,10 @@ html {
   color: #fff;
 }
 
+.sidebar-subtitle {
+  background-color: #8f5536;
+}
+
 /* About section */
 .sidebar-about h1 {
   color: #fff;
