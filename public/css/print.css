@@ -13,14 +13,6 @@ p {
 	width: 0;
 }
 
-/*
-p ~ h2, table ~ h2, div.highlight ~ h3 { 
-	page-break-before: always;
-}
-
-img[title=istex_diagram] {
-	page-break-before: always;
-}*/
 
 hr {
 	page-break-after: always;
@@ -30,4 +22,30 @@ p, ul {
 	orphans: 4;
 	widows: 4;
 }
+
+
+
+@page {
+        margin-top: 149px;
+        margin-left: 2px;
+        margin-bottom: 40px;
+        margin-right: 2px;
+        size: landscape;
+        counter-increment: page;
+
+     @bottom-right {
+	padding-right:20px;
+        content: "Page " counter(page);
+      }
+
+    @bottom-left {
+    margin: 10pt 0 30pt 0;
+    border-top: .25pt solid #666;
+    content: "My book";
+    font-size: 9pt;
+    color: #333;
+  }
+
+}
+
 
