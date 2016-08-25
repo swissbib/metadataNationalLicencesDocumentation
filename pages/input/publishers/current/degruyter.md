@@ -48,7 +48,7 @@ Pour chaque journal, il y a une arborescence
  * In brackets [ ] is the information that has to be added from the source (without brackets). Accesing a specific article from volume 49, issue 11 and page 1873 from the journal Clinical Chemistry and Laboratory Medicine (CCLM) looks like this: <http://www.degruyter.com/JournalArticles?source=/j/cclm&volume=49&issue=11&page=1873>
  * Access via inbound OpenURL from linkresolvers on article level is also possible. The syntax is: `http://www.degruyter,com/openurl?genre=[Typ]&issn=[ISSN]&volume=[volume number]&issue=[issue number]&spage=[start page]&epage=[end page]` (individual parts can be omitted).
  * Which is for example: <http://www.degruyter.com/openurl?genre=article&issn=1612-703X&volume=90&issue=2&spage=396&epage=404>. **Remarque** : on ne peut pas mettre le DOI là-dedans, cela ne fonctionne pas
- * Exemple d'une SP-side WAYFLESS url <https://www.degruyter.com/applib/openathens?entityID=https%3A%2F%2Faai-logon.unibas.ch%2Fidp%2Fshibboleth&openAthens2Redirect=/view/j/abitech.2016.36.issue-1/abitech-2016-0012/abitech-2016-0012.xml>
+ * Exemple d'une SP-side WAYFLESS url <https://www.degruyter.com/applib/openathens?entityID=https%3A%2F%2Faai-logon.unibas.ch%2Fidp%2Fshibboleth&openAthens2Redirect=/view/j/abitech.2016.36.issue-1/abitech-2016-0012/abitech-2016-0012.xml>. Confirmé par De Gruyter en Juillet 2016. Il n'y a pas de liens WAYFLESS qui contiennent uniquement le doi pour la plateforme De Gruyter.
 
 
 ## Réception des données le 18 décembre 2015

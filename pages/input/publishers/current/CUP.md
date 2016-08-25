@@ -25,6 +25,7 @@ Email de ameulekamp@cambridge.org, 28.9.2015.
  * cela utilise la DTD NLM version 2.2 (2006) <http://dtd.nlm.nih.gov/publishing/2.2/>
  * mais aussi d'autres DTD
  * ils déposent les métadonnées sur notre serveur ftp www.swissbib.org dans le répertoire cambridge avec le user `247159-9-cambridge`
+ * Juillet 2016 : mise en place du dépôt par SFTP sur cambridge@sb-coai1.swissbib.unibas.ch à partir de l'adresse IP 192.153.213.50
  * message Alyssa 5.2.2016 : ils acceptent la clause CC0 ainsi :
 
 
@@ -39,7 +40,7 @@ Remarque du service juridique UB Basel : "die beiden Erklärungen oder Ergänzun
  *  Transfertitel kommen ab 2015 dazu, aber die Archive werden dafür nicht freigeschaltet.
  * Exemple Wayfless link <https://shibboleth.cambridge.org/Shibboleth.sso/discovery?entityID=https://aai-logon.unibas.ch/idp/shibboleth&target=https://shibboleth.cambridge.org/CJOShibb2/index?app=journals.cambridge.org/action/loginShibb> : ne marche pas en juillet 2016 mais Cambridge y travaille.
  * Lien basé sur DOI : http://abbs.oxfordjournals.org/lookup/doi/10.1093/abbs/gmw069
- * 
+ *
 
 ## Réception des données le 18.2.2016
 
