@@ -14,6 +14,21 @@ They are sorted by priority and are written with a user point-of-view.
 
 When I open Swissbib in my browser, the system can recognize if I am in the network of a Swiss University (or any other authorized organization from the Konsortium). This check is based on IP address and the list of authorized IP addresses provided by the consortium.
 
+## Story I : Decide how the article metadata are encoded in marc
+
+Especially, how to represent
+
+```
+<volume>27</volume>
+<issue>3</issue>
+<fpage>160</fpage>
+<lpage>168</lpage>
+```
+
+in marc (using 773$q) ?
+
+
+
 ## Story B : Construct the url to access the content (for authorized IP addresses)
 
 If I am in an authorized network, the link to the fulltext goes directly to the content. Example :
