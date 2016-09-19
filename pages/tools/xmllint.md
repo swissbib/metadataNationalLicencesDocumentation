@@ -53,6 +53,8 @@ Quelques problèmes pour résoudre les DTD
 </catalog>
 {% endhighlight %}
 
+On peut ensuite avoir le nombre de fichiers non valides ainsi (en effet il y a une ligne par erreur de validation)
+`grep -ohr "^\..*xml" result.txt | sort | uniq | wc -l`
 
 On peut ensuite avoir les erreurs principales ainsi
 `more result.txt | sed -e's/^[^:]*:[0-9]*://g' | sort  | uniq -ci | sort -nr`

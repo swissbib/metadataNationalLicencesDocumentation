@@ -25,7 +25,7 @@ Email de ameulekamp@cambridge.org, 28.9.2015.
  * cela utilise la DTD NLM version 2.2 (2006) <http://dtd.nlm.nih.gov/publishing/2.2/>
  * mais aussi d'autres DTD
  * ils déposent les métadonnées sur notre serveur ftp www.swissbib.org dans le répertoire cambridge avec le user `247159-9-cambridge`
- * Juillet 2016 : mise en place du dépôt par SFTP sur cambridge@sb-coai1.swissbib.unibas.ch à partir de l'adresse IP 192.153.213.50
+ * Juillet 2016 : mise en place du dépôt par SFTP sur cambridge@sb-coai1.swissbib.unibas.ch. L'adresse IP de Cambridge a dû être ajoutée au firewall de URZ.
  * message Alyssa 5.2.2016 : ils acceptent la clause CC0 ainsi :
 
 
@@ -80,6 +80,19 @@ Remarque du service juridique UB Basel : "die beiden Erklärungen oder Ergänzun
    * il y a des doi qui résolvent sur JSTOR (l'exemple ci-dessus)
    * il y a des journaux complètement gratuits dans le paquet (MTO, MIJ, ...). les informations sur la gratuité ne sont pas dans les métadonnées.
 
+## Réception des données : 7.9.2016
+
+ * delivery on basel ftp server : sb-coai1.swissbib.unibas.ch
+ * 997 éléments, totalisant 29.4 Mo
+ * 293 dossiers, mais certains sont vides
+ * 704 fichiers zip
+ * a première vue, il semble y avoir les métadonnées pour les articles 2016 (ou fin 2015).
+
+## Réception des données : 13.9.2016
+
+ * the journals GLO and LER are delivered this time
+
+
 ## Processing des fichiers sgml
 
  * il y a 145'463 fichiers SGML dont 27'301 ont une extension `xml` et le reste ont une extension `sgm`. Il y a 177 journaux qui ont une partie de leur contenu en SGML.
@@ -87,6 +100,10 @@ Remarque du service juridique UB Basel : "die beiden Erklärungen oder Ergänzun
  * cela prend environ 1h de convertir tous les sgml en xml
  * il y a 4681 fichiers qui ne passent pas dans ES, je reçois une erreur `Entity starts and ends are not balanced' while processing object: /media/lionel/Data/swissbib-data/cambridge/extracted/app/cjo/sgml-in-xml-converted/multiple_journals/S0007087400004179h.xml` mais les fichiers ont l'air corrects. J'ignore ce point. Le problème semble être une arborescence header/article/header ??? Mais ils sont quand même indexés en fait. C'est un peu étrange...
 
+
+## Ongoing delivery
+
+ * cambridge livre sur /swissbib/harvesting/cambridge sur sb-coai1
 
 ## Commercial Use
 

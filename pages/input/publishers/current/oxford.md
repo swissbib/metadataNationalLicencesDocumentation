@@ -34,7 +34,7 @@ Un fichier par article
    * Teaching Mathematics and its Applications: An International Journal of the IMA
  *  Transfertitel kommen ab 2015 dazu, aber die Archive werden dafür nicht freigeschaltet.
  * Wayfless links : email oxford 22.7.2016 : "At present those type of links are not available on our Journals platform however it is available on some of our online products."
- * 
+ *
 
 
 
@@ -76,7 +76,10 @@ Un fichier par article
    - ulr.tar.gz
    - yel.tar.gz
  * For the year 2014, we have in the new delivery 27'814 articles and in the first delivery there were 29'867 articles. This could be related to the issue above
- *
+
+## 3ème livraison 7.9.2016, les 65 nouveaux titres avec du contenu seulement pour 2015
+
+ * cf. quality control
 
 
 ## Commercial Use

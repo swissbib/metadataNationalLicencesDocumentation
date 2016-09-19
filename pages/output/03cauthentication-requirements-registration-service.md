@@ -30,7 +30,7 @@ The technical stack is
 
  * PHP / Zend Framework 2
  * MySQL
- * Shibboleth / SAML authentication mechanisms. [Implementation of Shibboleth in VuFind](https://github.com/swissbib/vufind/blob/master/module/VuFind/src/VuFind/Auth/Shibboleth.php)
+ * Shibboleth / SAML authentication mechanisms. [Implementation of Shibboleth in VuFind](https://github.com/swissbib/vufind/blob/master/module/VuFind/src/VuFind/Auth/Shibboleth.php). Development can be done using the test.swissbib.ch Shibboleth Service Provider.
  * [VuFind](http://vufind.org) : an open source software which is the basis of Swissbib.ch (based on PHP / Zend Framework).
 
 
@@ -120,7 +120,7 @@ Here is what needs to be done in more details.
 
 **Option 1 : Temporary access**
 
-1. allow user to activate its temporary access valid 14 days. This can only be requested once. To be able to request this, the user needs to have a verified **swiss** (number begins with +41 79, 78, 77, ???) mobile phone number in its Swiss edu-ID account.
+1. allow user to activate its temporary access valid 14 days. This can only be requested once. To be able to request this, the user needs to have a verified **swiss** (number begins with +41 79, 78, 77, ???) mobile phone number in its Swiss edu-ID account (attribute `mobile`).
 
 **Option 2 : Permanent access**
 

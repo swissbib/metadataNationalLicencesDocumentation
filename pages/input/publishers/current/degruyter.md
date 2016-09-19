@@ -99,6 +99,54 @@ Autres problèmes à notifier
 
  * il y a 3 doi avec des espaces : 10. 1515/dwir-2013-1061, 10. 1515/dwir-2013-1062, 10. 1515/jura-2013-0107. Les articles correspondants semblent absents de la plateforme.
 
+## Transformation vers Swissbib-JATS
+
+* Juillet 2016 : 1ère transformation totale vers Swissbib-JATS des ~480'000 articles de De Gruyter. 4'700 ne passent pas la validation JATS (taux d'erreur <1%). Voici les erreurs principales :
+
+```
+1014  element license: validity error : Element license content does not follow the DTD, expecting (ali:license_ref | license-p)+, got
+ 540  element article-meta: validity error : Element article-meta content does not follow the DTD, expecting (article-id* , article-categories? , title-group? , (contrib-group | aff | aff-alterna
+tives | x)* , author-notes? , pub-date* , volume* , volume-id* , volume-series? , issue* , issue-id* , issue-title* , issue-sponsor* , issue-part? , volume-issue-group* , isbn* , supplement? , (((fp
+age , lpage?)? , page-range?) | elocation-id)? , (email | ext-link | uri | product | supplementary-material)* , history? , permissions? , self-uri* , (related-article | related-object)* , abstract*
+, trans-abstract* , kwd-group* , funding-group* , conference* , counts? , custom-meta-group?), got (article-id article-id article-categories title-group contrib-group pub-date pub-date volume issue
+fpage lpage permissions permissions self-uri)
+ 468  element title-group: validity error : Element title-group content does not follow the DTD, expecting (article-title , subtitle* , trans-title-group* , alt-title* , fn-group?), got ()
+ 429  element name: validity error : Element name content does not follow the DTD, expecting (((surname , given-names?) | given-names) , prefix? , suffix?), got
+ 394  element article-meta: validity error : Element article-meta content does not follow the DTD, expecting (article-id* , article-categories? , title-group? , (contrib-group | aff | aff-alterna
+tives | x)* , author-notes? , pub-date* , volume* , volume-id* , volume-series? , issue* , issue-id* , issue-title* , issue-sponsor* , issue-part? , volume-issue-group* , isbn* , supplement? , (((fp
+age , lpage?)? , page-range?) | elocation-id)? , (email | ext-link | uri | product | supplementary-material)* , history? , permissions? , self-uri* , (related-article | related-object)* , abstract*
+, trans-abstract* , kwd-group* , funding-group* , conference* , counts? , custom-meta-group?), got (article-id article-id article-categories title-group pub-date pub-date volume issue fpage lpage pe
+rmissions permissions self-uri)
+ 373  element author-notes: validity error : Element author-notes content does not follow the DTD, expecting (label? , title? , (corresp | fn | p | x)+), got
+ 319  element permissions: validity error : Element permissions content does not follow the DTD, expecting (copyright-statement* , copyright-year* , copyright-holder* , (ali:free_to_read | licens
+e)*), got (copyright-statement copyright-year license p )
+ 221  element author-notes: validity error : Element author-notes content does not follow the DTD, expecting (label? , title? , (corresp | fn | p | x)+), got ()
+ 166  element article-meta: validity error : Element article-meta content does not follow the DTD, expecting (article-id* , article-categories? , title-group? , (contrib-group | aff | aff-alterna
+tives | x)* , author-notes? , pub-date* , volume* , volume-id* , volume-series? , issue* , issue-id* , issue-title* , issue-sponsor* , issue-part? , volume-issue-group* , isbn* , supplement? , (((fp
+age , lpage?)? , page-range?) | elocation-id)? , (email | ext-link | uri | product | supplementary-material)* , history? , permissions? , self-uri* , (related-article | related-object)* , abstract*
+, trans-abstract* , kwd-group* , funding-group* , conference* , counts? , custom-meta-group?), got (article-id article-id article-categories title-group contrib-group pub-date pub-date volume issue
+fpage lpage permissions permissions self-uri abstract abstract abstract)
+ 159  element graphic: validity error : No declaration for attribute alt-version of element graphic
+ 120  element subscript: validity error : No declaration for element subscript
+ 105  element article-meta: validity error : Element article-meta content does not follow the DTD, expecting (article-id* , article-categories? , title-group? , (contrib-group | aff | aff-alterna
+tives | x)* , author-notes? , pub-date* , volume* , volume-id* , volume-series? , issue* , issue-id* , issue-title* , issue-sponsor* , issue-part? , volume-issue-group* , isbn* , supplement? , (((fp
+age , lpage?)? , page-range?) | elocation-id)? , (email | ext-link | uri | product | supplementary-material)* , history? , permissions? , self-uri* , (related-article | related-object)* , abstract*
+, trans-abstract* , kwd-group* , funding-group* , conference* , counts? , custom-meta-group?), got (article-id article-id article-categories title-group pub-date pub-date volume issue permissions pe
+rmissions self-uri)
+```
+
+La plupart sont dues a des fichiers invalides fournis par De Gruyter.
+
+
+
+
+## Réception des données août 2016
+
+ * De Gruyter a livré les métadonnées des articles 2015
+ * Malheureusement, il y a quelques trous entre la première livraison et celle-ci (les issue de 2014 qui n'avaient pas encore été publiées fin 2015 manquent, par exemple lp)
+
+
+
 
 ## Commercial Use
 

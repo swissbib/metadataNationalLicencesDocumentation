@@ -70,3 +70,138 @@ Mais à partir de 3.0, cela ne marche plus. Les principaux changements :
  * Other example : for example, the <copyright-statement> inside <article-meta> is now allowed only inside <permissions> and not also as a direct child of <article-meta>.
 
 NLM 3.1 = JATS 0.4
+
+
+### Way to deal with affiliations
+
+Publishers are really creative with this respect. Here are various ways :
+
+Aff within the same contrib-group :
+
+{% highlight xml %}
+<contrib-group>
+<contrib contrib-type="author" corresp="yes" xlink:type="simple">
+<name name-style="western"><surname>Chen</surname><given-names>Zhihua</given-names></name>
+</contrib>
+<aff>Shanghai University of Finance and Economics</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Lookman</surname><given-names>Aziz A.</given-names></name>
+</contrib>
+<aff>AIG</aff>
+</contrib-group>
+
+{% endhighlight %}
+
+Aff with rid
+
+{% highlight xml %}
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Freitas</surname><given-names>Sandra</given-names></name>
+<xref ref-type="aff" rid="af1">1</xref>
+<xref ref-type="aff" rid="af2">2</xref>
+<xref ref-type="aff" rid="af3">3</xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Prieto</surname><given-names>Gerardo</given-names></name>
+<xref ref-type="aff" rid="af4">4</xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Simões</surname><given-names>Mário R.</given-names></name>
+<xref ref-type="aff" rid="af2">2</xref>
+<xref ref-type="aff" rid="af3">3</xref>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Santana</surname><given-names>Isabel</given-names></name>
+<xref ref-type="aff" rid="af1">1</xref>
+<xref ref-type="aff" rid="af5">5</xref>
+<xref ref-type="aff" rid="af6">6</xref>
+</contrib>
+<aff id="af1"><label>1</label><addr-line>Centre for Neuroscience and Cell Biology (CNC)</addr-line>, <institution xlink:type="simple">University of Coimbra</institution>, <addr-line>Coimbra</addr-line>, <country>Portugal</country></aff>
+<aff id="af2"><label>2</label><institution xlink:type="simple">Centro de Investigação do Núcleo de Estudos e Intervenção Cognitivo Comportamental (CINEICC)</institution>, <institution xlink:type="simple">University of Coimbra</institution>, <addr-line>Coimbra</addr-line>, <country>Portugal</country></aff>
+<aff id="af3"><label>3</label><addr-line>Psychological Assessment Lab., Faculty of Psychology and Educational Sciences</addr-line>, <institution xlink:type="simple">University of Coimbra</institution>, <addr-line>Coimbra</addr-line>, <country>Portugal</country></aff>
+<aff id="af4"><label>4</label><addr-line>Departamento de Psicología Básica, Psicobiología y Metodología de las Ciencias del Comportamiento</addr-line>, <institution xlink:type="simple">Universidad de Salamanca</institution>, <addr-line>Salamanca</addr-line>, <country>Spain</country></aff>
+<aff id="af5"><label>5</label><addr-line>Neurology Department</addr-line>, <institution xlink:type="simple">Centro Hospitalar e Universitário de Coimbra</institution>, <addr-line>Coimbra</addr-line>, <country>Portugal</country></aff>
+<aff id="af6"><label>6</label><addr-line>Faculty of Medicine</addr-line>, <institution xlink:type="simple">University of Coimbra</institution>, <addr-line>Coimbra</addr-line>, <country>Portugal</country></aff>
+</contrib-group>
+{% endhighlight %}
+
+Aff separated by ;
+
+{% highlight xml %}
+<contrib-group>
+<contrib contrib-type="author" corresp="yes" xlink:type="simple">
+<name name-style="western"><surname>Chung</surname><given-names>Kyuil</given-names></name>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Lee</surname><given-names>Jong-Eun</given-names></name>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Loukoianova</surname><given-names>Elena</given-names></name>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Park</surname><given-names>Hail</given-names></name>
+</contrib>
+<contrib contrib-type="author" xlink:type="simple">
+<name name-style="western"><surname>Shin</surname><given-names>Hyun Song</given-names></name>
+<xref ref-type="fn" rid="eiv002-FN1"><sup>1</sup></xref>
+</contrib>
+<aff>Bank of Korea; Sejong University; Statistics Department, IMF; Bank of Korea; Princeton University</aff>
+</contrib-group>
+{% endhighlight %}
+
+All the same affiliation <http://dx.doi.org/10.1093/chemse/bju026>:
+
+{% highlight xml %}
+<contrib-group>
+<contrib contrib-type="author" corresp="no" xlink:type="simple">
+<name name-style="western">
+<surname>Spiers</surname>
+<given-names>Jereme G.</given-names>
+</name>
+</contrib>
+<contrib contrib-type="author" corresp="no" xlink:type="simple">
+<name name-style="western">
+<surname>Chen</surname>
+<given-names>Hsiao-Jou Cortina</given-names>
+</name>
+</contrib>
+<contrib contrib-type="author" corresp="no" xlink:type="simple">
+<name name-style="western">
+<surname>Sernia</surname>
+<given-names>Conrad</given-names>
+</name>
+</contrib>
+<contrib contrib-type="author" corresp="yes" xlink:type="simple">
+<name name-style="western">
+<surname>Lavidis</surname>
+<given-names>Nickolas A.</given-names>
+</name>
+</contrib>
+<aff id="AF0001">
+<institution xlink:type="simple">School of Biomedical Sciences, The University of Queensland</institution>, <addr-line>St Lucia</addr-line>, <addr-line>Brisbane, Queensland 4072</addr-line>, <country>Australia </country>
+</aff>
+</contrib-group>
+{% endhighlight %}
+
+Only the order has some importance <http://dx.doi.org/10.1093/jos/16.1.1>: 
+
+{% highlight xml %}
+<contrib-group>
+    <contrib contrib-type="author" xlink:type="simple">
+        <name name-style="western"><surname>DE SWART</surname><given-names>HENRIËTTE</given-names></name>
+    </contrib>
+    <contrib contrib-type="author" xlink:type="simple">
+        <name name-style="western"><surname>MOLENDIJK</surname><given-names>ARIE</given-names></name>
+    </contrib>
+    <aff><institution xlink:type="simple">Utrecht University</institution></aff>
+    <aff><institution xlink:type="simple">University of Groningen</institution></aff>
+</contrib-group>
+
+{% endhighlight %}
+
+{% highlight xml %}
+
+{% endhighlight %}
