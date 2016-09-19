@@ -1,0 +1,70 @@
+|     1| Women's Writing|
+|     2|European Heart Journal–Cardiovascular Imaging|
+|     4|Europace|
+|     8|Journal of Competition Law and Economics|
+|    12|Applied Mathematics Research eXpress|
+|    13|European Heart Journal – Cardiovascular Imaging|
+|    16|The Chinese Journal of International Politics|
+|    19|BJA Education|
+|    19|Law, Probability and Risk|
+|    21|Acta Biochim Biophys Sin|
+|    21|Continuing Education in Anaesthesia, Critical Care &amp; Pain|
+|    22|European Review of Economic History|
+|    23|International Relations of the Asia-Pacific|
+|    23|Journal of Human Rights Practice|
+|    24|American Law and Economics Review|
+|    24|Journal of Conflict and Security Law|
+|    25|Classical Receptions Journal|
+|    25|Eur Heart J Cardiovasc Imaging Abstracts Supplement|
+|    28|Journal of Financial Econometrics|
+|    28|Review of Environmental Economics and Policy|
+|    29|Journal of International Dispute Settlement|
+|    30|CESifo Economic Studies|
+|    30|Journal of Competition Law &amp; Economics|
+|    33|International Data Privacy Law|
+|    34|The Journal of Hindu Studies|
+|    35|International Journal of Transitional Justice|
+|    36|Public Health Ethics|
+|    36|The Journal of World Energy Law &amp; Business|
+|    37|Socio-Economic Review|
+|    40|Cambridge Journal Of Regions, Economy And Society|
+|    40|Contemporary Women's Writing|
+|    44|Briefings in Functional Genomics|
+|    45|Adaptation|
+|    45|Journal of International Economic Law|
+|    45|Reports of Patent, Design and Trade Mark Cases|
+|    47|Human Rights Law Review|
+|    47|Policing: A Journal of Policy and Practice|
+|    48|Capital Markets Law Journal|
+|    49|Social Science Japan Journal|
+|    51|Public Policy &amp; Aging Report|
+|    52|Journal of Economic Geography|
+|    54|Journal Of Deaf Studies And Deaf Education|
+|    59|Journal of Molecular Cell Biology|
+|    59|Review of Finance|
+|    60|Literary Imagination|
+|    62|Biostatistics|
+|    62|ILAR Journal|
+|    68|Chinese Journal of International Law|
+|    70|Journal Of Plant Ecology|
+|    72|European Journal Of International Law|
+|    72|International Journal Of Constitutional Law|
+|    74|International Health|
+|    83|Journal of International Criminal Justice|
+|   108|Journal of European Competition Law &amp; Practice|
+|   116|Acta Biochimica et Biophysica Sinica|
+|   123|FEMS Yeast Research|
+|   131|Journal of the Pediatric Infectious Diseases Society|
+|   137|The Review of Financial Studies|
+|   145|Environmental History|
+|   171|Journal of Crohn's and Colitis|
+|   198|Astronomy &amp; Geophysics|
+|   214|Social Cognitive and Affective Neuroscience|
+|   220|Schizophrenia Bulletin|
+|   238|European Heart Journal - Cardiovascular Imaging|
+|   248|Journal of Intellectual Property Law &amp; Practice|
+|   267|Nicotine &amp; Tobacco Research|
+|   285|Molecular Biology and Evolution|
+|   345|EP Europace|
+|   856|Journal of Crohn’s and Colitis|
+|  1453|Neuro-Oncology|
