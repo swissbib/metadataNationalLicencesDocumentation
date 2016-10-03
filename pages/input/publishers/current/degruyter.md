@@ -144,6 +144,11 @@ La plupart sont dues a des fichiers invalides fournis par De Gruyter.
 
  * De Gruyter a livré les métadonnées des articles 2015
  * Malheureusement, il y a quelques trous entre la première livraison et celle-ci (les issue de 2014 qui n'avaient pas encore été publiées fin 2015 manquent, par exemple lp)
+ * A l'extraction : 1177 archives had warnings but no fatal errors. 2 archives had fatal errors. Mais impossible de trouver lesquelles ont des erreurs
+ * cela fait 14678 fichiers xml
+ * ils ont tous 2015 comme année de publication print
+ * ils ont livré 4 journaux open access avec le reste.
+
 
 
 

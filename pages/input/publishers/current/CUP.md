@@ -100,6 +100,25 @@ Remarque du service juridique UB Basel : "die beiden Erklärungen oder Ergänzun
  * cela prend environ 1h de convertir tous les sgml en xml
  * il y a 4681 fichiers qui ne passent pas dans ES, je reçois une erreur `Entity starts and ends are not balanced' while processing object: /media/lionel/Data/swissbib-data/cambridge/extracted/app/cjo/sgml-in-xml-converted/multiple_journals/S0007087400004179h.xml` mais les fichiers ont l'air corrects. J'ignore ce point. Le problème semble être une arborescence header/article/header ??? Mais ils sont quand même indexés en fait. C'est un peu étrange...
 
+## Transformation vers Swissbib-jats
+
+ * 22.9.2016 : transformation vers swissbib-jats. *55'134* files don't pass xml validation. Most common errors
+ * wrong order for permissions tag. It's an error in the delivery of xml
+
+```
+5702  element article-meta: validity error : Element article-meta content does not follow the DTD, expecting (article-id* , article-categories? , title-group? , (contrib-group | aff | aff-alternat
+ives | x)* , author-notes? , pub-date* , volume* , volume-id* , volume-series? , issue* , issue-id* , issue-title* , issue-sponsor* , issue-part? , volume-issue-group* , isbn* , supplement? , (((fpag
+e , lpage?)? , page-range?) | elocation-id)? , (email | ext-link | uri | product | supplementary-material)* , history? , permissions? , self-uri* , (related-article | related-object)* , abstract* , t
+rans-abstract* , kwd-group* , funding-group* , conference* , counts? , custom-meta-group?), got (article-id article-id article-id title-group contrib-group aff pub-date volume issue fpage lpage histo
+ry abstract counts custom-meta-group permissions )
+```
+
+  * idref in abstract to references but no references in the xml
+
+```
+./SJP/SJP18/S1138741615000372h.xml:58: element xref: validity error : IDREFS attribute rid references an unknown ID "ref24"
+```
+
 
 ## Ongoing delivery
 
