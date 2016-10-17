@@ -73,7 +73,7 @@ The url is the same as in Story B, but :
 Result :
 
  * De Gruyter : <https://www.degruyter.com/applib/openathens?entityID=https%3A%2F%2Feduid.ch%2Fidp%2Fshibboleth&openAthens2Redirect=https%3A%2F%2Fwww.degruyter.com%2Fopenurl%3Fgenre%3Darticle%26issn%3D2191-4664%26volume%3D27%26issue%3D3%26spage%3D160>
- * Cambridge : https://shibboleth.cambridge.org/Shibboleth.sso/discovery?entityID=https%3A%2F%2Feduid.ch%2Fidp%2Fshibboleth&target=https://shibboleth.cambridge.org/CJOShibb2/index?app=https://www.cambridge.org/core/shibboleth?ref=%2Fcore%2Fproduct%2Fidentifier%2FS0001972015000248%2Ftype%2FJOURNAL_ARTICLE
+ * Cambridge : <https://shibboleth.cambridge.org/Shibboleth.sso/discovery?entityID=https%3A%2F%2Feduid.ch%2Fidp%2Fshibboleth&target=https://shibboleth.cambridge.org/CJOShibb2/index?app=https://www.cambridge.org/core/shibboleth?ref=%2Fcore%2Fproduct%2Fidentifier%2FS0001972015000248%2Ftype%2FJOURNAL_ARTICLE>
  * Oxford : TBD
 
 
