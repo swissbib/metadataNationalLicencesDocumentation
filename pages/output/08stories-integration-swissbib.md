@@ -33,15 +33,37 @@ in marc (using 773$q) ?
 
 If I am in an authorized network, the link to the fulltext goes directly to the content. Example :
 
+**De Gruyter**
+
 Article : ABI-Technik. Volume 27, Issue 3, Pages 160–168, ISSN (Online) 2191-4664, ISSN (Print) 0720-6763, DOI: 10.1515/ABITECH.2007.27.3.160, March 2011
 
 URL : <https://www.degruyter.com/openurl?genre=article&issn=2191-4664&volume=27&issue=3&spage=160>
 
+**Cambridge**
+
+Article : Africa, Volume 85, Issue 3, pp. 385-394,  ISSN: 0001-9720 (Print), 1750-0184 (Online), DOI: 10.1017/S0001972015000248
+
+URL (using article identifier) : <http://www.cambridge.org/core/product/identifier/S0001972015000248/type/JOURNAL_ARTICLE>
+Not working : URL (openurl) : <http://www.cambridge.org/core/openurl?genre=article&issn=1750-0184&volume=85&issue=3&spage=385>
+
+
+**Oxford**
+
+TBD
+
+
+
+
+## Story J : Send private users to registration process if needed
+
+If I am not in an authorized network, the link requires a Swissbib registration (same as save in list for example). If the person already registered for national licences (using the new national_licence_user table), we send it back to the publishers platform using link from Story C.
+
+If the person didn't register we send her to the tab National Licences (https://test.swissbib.ch/NationalLicences from branch feature/nationalLicence) in the user account to activate its National Licence account.
 
 
 ## Story C : Construct the url to access the content (for private users - unauthorized IP addresses)
 
-If I am not in an authorized network, the url to access the content changes. It requires a Shibboleth authentication first.
+If I am not in an authorized network, the url to access the content changes. It requires a Shibboleth authentication on the publisher platform first.
 
 The url is the same as in Story B, but :
 
@@ -49,11 +71,12 @@ The url is the same as in Story B, but :
  * needs to url-encode the url from Story B
 
 Result :
-<https://www.degruyter.com/applib/openathens?entityID=https%3A%2F%2Feduid.ch%2Fidp%2Fshibboleth&openAthens2Redirect=https%3A%2F%2Fwww.degruyter.com%2Fopenurl%3Fgenre%3Darticle%26issn%3D2191-4664%26volume%3D27%26issue%3D3%26spage%3D160>
+ * De Gruyter : <https://www.degruyter.com/applib/openathens?entityID=https%3A%2F%2Feduid.ch%2Fidp%2Fshibboleth&openAthens2Redirect=https%3A%2F%2Fwww.degruyter.com%2Fopenurl%3Fgenre%3Darticle%26issn%3D2191-4664%26volume%3D27%26issue%3D3%26spage%3D160>
+ * Cambridge : https://shibboleth.cambridge.org/Shibboleth.sso/discovery?entityID=https%3A%2F%2Feduid.ch%2Fidp%2Fshibboleth&target=https://shibboleth.cambridge.org/CJOShibb2/index?app=https://www.cambridge.org/core/shibboleth?ref=%2Fcore%2Fproduct%2Fidentifier%2FS0001972015000248%2Ftype%2FJOURNAL_ARTICLE
 
-Note : this url doesn't work right now, but it is possible to use unibas shibboleth endpoint instead :
+ * Oxford : TBD
 
-<https://www.degruyter.com/applib/openathens?entityID=https%3A%2F%2Faai-logon.unibas.ch%2Fidp%2Fshibboleth&openAthens2Redirect=https%3A%2F%2Fwww.degruyter.com%2Fopenurl%3Fgenre%3Darticle%26issn%3D2191-4664%26volume%3D27%26issue%3D3%26spage%3D160>
+
 
 
 ## Story D : Initial integration
