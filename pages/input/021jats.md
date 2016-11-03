@@ -186,7 +186,7 @@ All the same affiliation <http://dx.doi.org/10.1093/chemse/bju026>:
 </contrib-group>
 {% endhighlight %}
 
-Only the order has some importance <http://dx.doi.org/10.1093/jos/16.1.1>: 
+Only the order has some importance <http://dx.doi.org/10.1093/jos/16.1.1>:
 
 {% highlight xml %}
 <contrib-group>
@@ -202,6 +202,8 @@ Only the order has some importance <http://dx.doi.org/10.1093/jos/16.1.1>:
 
 {% endhighlight %}
 
-{% highlight xml %}
+Plusieurs adresses dans le même <aff>
 
+{% highlight xml %}
+<aff><target id="AFF1" target-type="aff"/><label>1</label>Mathematics Department, University of British Columbia, Vancouver, BC V6T 1Z2, Canada  <target id="AFF2" target-type="aff"/><label>2</label>Seminar für Angewandte Mathematik, ETH Zürich, Rämistrasse 101, 8092 Zürich, Switzerland </aff>
 {% endhighlight %}

@@ -49,8 +49,9 @@ Not working : URL (openurl) : <http://www.cambridge.org/core/openurl?genre=artic
 
 **Oxford**
 
-TBD
+Article :  Acta Biochim Biophys Sin (2016) volume 48 issue 9, pp 856-858. Online ISSN 1745-7270 - Print ISSN 1672-9145.  doi: 10.1093/abbs/gmw069.
 
+URL : <http://abbs.oxfordjournals.org/lookup/doi/10.1093/abbs/gmw069>
 
 
 
