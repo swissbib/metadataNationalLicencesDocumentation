@@ -50,6 +50,7 @@ Not working : URL (openurl) : <http://www.cambridge.org/core/openurl?genre=artic
 **Oxford**
 
 Article :  Acta Biochim Biophys Sin (2016) volume 48 issue 9, pp 856-858. Online ISSN 1745-7270 - Print ISSN 1672-9145.  doi: 10.1093/abbs/gmw069.
+The code after the http:// is a url-code which is not part of the metadata delievered by Oxford. But Oxford provides a mapping on its website <http://www.oxfordjournals.org/en/help/tech-info/linking.html>
 
 URL : <http://abbs.oxfordjournals.org/lookup/doi/10.1093/abbs/gmw069>
 
@@ -76,17 +77,12 @@ Result :
 
  * De Gruyter : <https://www.degruyter.com/applib/openathens?entityID=https%3A%2F%2Feduid.ch%2Fidp%2Fshibboleth&openAthens2Redirect=https%3A%2F%2Fwww.degruyter.com%2Fopenurl%3Fgenre%3Darticle%26issn%3D2191-4664%26volume%3D27%26issue%3D3%26spage%3D160>
  * Cambridge : <https://shibboleth.cambridge.org/Shibboleth.sso/discovery?entityID=https%3A%2F%2Feduid.ch%2Fidp%2Fshibboleth&target=https://shibboleth.cambridge.org/CJOShibb2/index?app=https://www.cambridge.org/core/shibboleth?ref=%2Fcore%2Fproduct%2Fidentifier%2FS0001972015000248%2Ftype%2FJOURNAL_ARTICLE>
- * Oxford New Platform (swiss edu-id not working now): <https://shibboleth.highwire.org/session/init?entityID=https%3A%2F%2Feduid.ch%2Fidp%2Fshibboleth&hw-shib-return-uri=http%3A%2F%2Fbrain.oxfordjournals.org%2Flookup%2Fdoi%2F10.1093%2Fbrain%2Fawv301&subcode=oupjournals&env=prod>
-
-To test, we can use the credential of uni basel :
-
- * Oxford New Platform (unibasel): <https://shibboleth.highwire.org/session/init?entityID=https://aai-logon.unibas.ch/idp/shibboleth&hw-shib-return-uri=http%3A%2F%2Fbrain.oxfordjournals.org%2Flookup%2Fdoi%2F10.1093%2Fbrain%2Fawv301&subcode=oupjournals&env=prod>
+ * Oxford New Platform: <https://shibboleth.highwire.org/session/init?entityID=https%3A%2F%2Feduid.ch%2Fidp%2Fshibboleth&hw-shib-return-uri=http%3A%2F%2Fbrain.oxfordjournals.org%2Flookup%2Fdoi%2F10.1093%2Fbrain%2Fawv301&subcode=oupjournals&env=prod>
 
 
 For Oxford Old platform, it is the same, but it might be useful to test these url's from time to time :
 
-  * Oxford Old Platform (swiss edu-id not working now): <https://shibboleth.highwire.org/session/init?entityID=https%3A%2F%2Feduid.ch%2Fidp%2Fshibboleth&hw-shib-return-uri=http%3A%2F%2Fabbs.oxfordjournals.org%2Flookup%2Fdoi%2F10.1093%2Fabbs%2Fgmw069&subcode=oupjournals&env=prod>
-  * Oxford Old Platform (unibasel): <https://shibboleth.highwire.org/session/init?entityID=https://aai-logon.unibas.ch/idp/shibboleth&hw-shib-return-uri=http%3A%2F%2Fabbs.oxfordjournals.org%2Flookup%2Fdoi%2F10.1093%2Fabbs%2Fgmw069&subcode=oupjournals&env=prod>
+  * Oxford Old Platform: <https://shibboleth.highwire.org/session/init?entityID=https%3A%2F%2Feduid.ch%2Fidp%2Fshibboleth&hw-shib-return-uri=http%3A%2F%2Fabbs.oxfordjournals.org%2Flookup%2Fdoi%2F10.1093%2Fabbs%2Fgmw069&subcode=oupjournals&env=prod>
 
 
 
