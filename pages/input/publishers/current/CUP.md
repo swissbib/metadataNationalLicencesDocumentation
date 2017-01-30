@@ -40,9 +40,7 @@ Remarque du service juridique UB Basel : "die beiden Erklärungen oder Ergänzun
  *  Transfertitel kommen ab 2015 dazu, aber die Archive werden dafür nicht freigeschaltet.
  * Exemple Wayfless link <https://shibboleth.cambridge.org/Shibboleth.sso/discovery?entityID=https://aai-logon.unibas.ch/idp/shibboleth&target=https://shibboleth.cambridge.org/CJOShibb2/index?app=journals.cambridge.org/action/loginShibb> : ne marche pas en juillet 2016 mais Cambridge y travaille.
  * Sur la nouvelle plateforme (core). Dans l'admin, on peut configurer le wayfless pour avoir un raccourci. Cela donne ceci <https://www.cambridge.org/core/idp/unibas>. Mais en fait c'est seulement un lien vers la homepage qui est shibbolethisé.
- *
- * Lien basé sur DOI : http://abbs.oxfordjournals.org/lookup/doi/10.1093/abbs/gmw069
- * Lien Wayfless basé sur doi : <>
+ * Lien wayfless confirmé par Cambridge le 12.12.2016 (using PII) :  <http://www.cambridge.org/core/product/identifier/S0001972015000248/type/JOURNAL_ARTICLE>
 
 ## Réception des données le 18.2.2016
 
