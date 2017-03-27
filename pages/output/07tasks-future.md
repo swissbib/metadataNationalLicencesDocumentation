@@ -15,5 +15,6 @@ The following tasks need to be supported after project end (31.12.2016) :
  * coordonner les corrections de listes de titres
  * les changements de plate-formes
  * vérifier que le contenu est livré de manière constante
- * gérer les changements d'années et les embargos
+ * gérer les changements d'années et les embargos. Faire des nouvelles listes de titres chaque année ?
+ * contacter les gestionnaires EZB et Ebsco Discovery en cas de changements
  * monitorer le private use

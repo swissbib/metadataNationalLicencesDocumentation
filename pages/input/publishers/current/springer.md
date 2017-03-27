@@ -48,6 +48,7 @@ Réponse de Springer pour la licence CC0 :
  * Il y a chaque jour une update entre 5h et 7h du matin avec les nouveaux articles ainsi que les corrections d'anciens articles. Un email est envoyé à `lionel.walter@unibas.ch` pour confirmer cette livraison. A priori les updates font entre 100 Ko et 20 Mo.
  * 21 fichiers commençant par `ftp_PUB_15-12-18` contiennent directement les métadonnées
  * les fichiers commençant par `ftp_PUB_15-12-23` ainsi que les dates postérieures contiennent à leur tour 1 ou 2 fichiers zip qui contiennent les métadonnées. Il faut donc dezipper deux fois.
+ * A partir de ftp_PUB_16-01-19 c'est de nouveau bon (corrigé par Springer)
  * il y a de la doc ici <http://production-customer.springer.com/A++Documentation/html/A++.html>. Login and pass in swissbib password safe.
    * Aussi possible d'accéder à des [release notes sur la DTD](http://production-customer.springer.com/Section_APlusPlus.html)
  * on peut aussi accéder au ftp en ligne : <ftp://userXXX:passwordYYY@ftp.springer-dds.com/data/in>
@@ -79,6 +80,13 @@ Réponse de Springer pour la licence CC0 :
  * 2802 périodiques dont 1704 qui ont commencé <=2004. Dans la liste Springer, il y a seulement 1026 périodiques
  * il y a 4796 qui ne passent pas encore à cause des espaces dans les champs années (corriger l'analyzer trimmer)
 
+
+## Wayfless
+
+ * La documentation est ici <https://springeronlineservice.freshdesk.com/support/solutions/articles/6000079269-construct-a-wayfless-url-in-shibboleth->
+ * Cela donne ceci pour nous <https://fsso.springer.com/federation/init?entityId=https://eduid.ch/idp/shibboleth&returnUrl=http://link.springer.com/article/10.1007/BF02569633>
+ * Linking information : https://springeronlineservice.freshdesk.com/support/solutions/articles/6000081876-link-in-to-content-on-springerlink-
+ * We use the doi for linking
 
 ## Administration
 

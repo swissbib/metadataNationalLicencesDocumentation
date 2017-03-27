@@ -31,6 +31,16 @@ mkdir rundir
 5. copier la config `/confdir/config.idsbb.prod.xml` et modifier les valeurs en suivant les [instructions](http://www.swissbib.org/wiki/index.php?title=Members:HarvestingInfrastructure#Elementnamen_.2F_Tags)
 
 
+## Execution pour les licences nationales
+
+On sb-coai2 :
+
+```
+cd /home/harvester/envContentCollector/bintest/
+./process-nationalLicense_testdir.sh config.oxford.prod.xml
+```
+
+
 ## Thieme
 
 On va tenter de harvester le set suivant :
