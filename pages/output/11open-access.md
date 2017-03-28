@@ -18,7 +18,7 @@ The three signed contracts for national licences have green road open access cla
 | :--- | :---: | :---: |:---: |:---: |:---: |
 |total number of articles in NL on 1.1.2017|1 mio|0.5 mio|2 mio|3.5 mio|7 mio|
 |years available for open access|5 years embargo|-2015?|3 years embargo|1997-2011||
-|fulltexts deliverery|unclear, maybe only the swiss publications|done via FTP|on hard drive until March 30th|on hard drive until March 30th||
+|fulltexts delivery|unclear, maybe only the swiss publications|done via FTP|on hard drive until March 30th 2017|on hard drive until March 30th 2017||
 |total number of pdf that will be delivered|??|0.5 mio|2 mio|5 mio|Max 9 mio|
 |size (zipped)|1 To ?|487 Go|~500 Go (estimation from Oxford)|5 To ?|Max 10 To|
 |size (extracted)|same|same|same|same||
@@ -62,7 +62,7 @@ Year|2008
 Journal Title|Ergodic Theory and Dynamical Systems
 All Affiliations|Mathematics Department, The University of Michigan, East Hall, Ann Arbor, MI 48109, USA (email: fornaess@umich.edu)///Department of Mathematics, Henan Polytechnic University, Jiaozuo, 454000, China (email: yinxiawang@gmail.com)///Mathematisches Institut, Universität Bern, Sidlerstr. 5, CH-3012 Bern, Switzerland (email: erlendfw@math.uio.no)
 Publisher|cambridge
-Date of Allowed Open Access Publication|15.6.2017
+Date of Allowed Open Access Publication|15.5.2017
 Volume|28
 Issue|5
 Start Page|1465
