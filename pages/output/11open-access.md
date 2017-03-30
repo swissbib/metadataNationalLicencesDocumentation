@@ -18,10 +18,9 @@ The three signed contracts for national licences have green road open access cla
 | :--- | :---: | :---: |:---: |:---: |:---: |
 |total number of articles in NL on 1.1.2017|1 mio|0.5 mio|2 mio|3.5 mio|7 mio|
 |years available for open access|5 years embargo|-2015?|3 years embargo|1997-2011||
-|fulltexts delivery|unclear, maybe only the swiss publications|done via FTP|on hard drive until March 30th 2017|on hard drive until March 30th 2017||
-|total number of pdf that will be delivered|??|0.5 mio|2 mio|5 mio|Max 9 mio|
-|size (zipped)|1 To ?|487 Go|~500 Go (estimation from Oxford)|5 To ?|Max 10 To|
-|size (extracted)|same|same|same|same||
+|fulltexts delivery|crawling their website|done via FTP|on hard drive until March 30th 2017|on hard drive until March 30th 2017||
+|total number of pdf that will be delivered|15'000|0.5 mio|2 mio|5 mio|Max 8 mio|
+|size|~20 Go |487 Go|~500 Go (estimation from Oxford)|5 To ?|Max 8 To|
 |Total number of publications with open access clause (inclusive embargoed)|~4500|~1000|~9000|~10’000|~25000|
 |Number of publication that can be published open access on 1.1.2017|~3000|~1000|~8000|same|~20000|
 |Size for the Swiss Publications|||||Max 100 Go|
