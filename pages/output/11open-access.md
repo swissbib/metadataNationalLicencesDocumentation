@@ -51,12 +51,11 @@ Field Name|Example
 ---|---
 Matching Affiliation|Mathematisches Institut, Universität Bern, Sidlerstr. 5, CH-3012 Bern, Switzerland (email: erlendfw@math.uio.no)
 Institution Guess|University of Bern
-Author from Institution|ERLEND FORNÆSS WOLD
-Matching affiliation|Mathematisches Institut, Universität Bern, Sidlerstr. 5, CH-3012 Bern, Switzerland (email: erlendfw@math.uio.no)
+Author from Institution|Erlend Fornaess Wold
 doi|10.1017/S0143385707000880
 url to download pdf (protected)|http://open-access.nationallicences.swissbib.ch/cambridge/ETD/ETD28_05/S0143385707000880.pdf
 Article Title|Laminated currents
-Authors|JOHN ERIK FORNÆSS;Y INXIA WANG ; ERLEND FORNÆSS WOLD
+Authors|John Eric Fornaess; Y Inxia Wang ; Erlend Fornaess Wold
 Year|2008
 Journal Title|Ergodic Theory and Dynamical Systems
 All Affiliations|Mathematics Department, The University of Michigan, East Hall, Ann Arbor, MI 48109, USA (email: fornaess@umich.edu)///Department of Mathematics, Henan Polytechnic University, Jiaozuo, 454000, China (email: yinxiawang@gmail.com)///Mathematisches Institut, Universität Bern, Sidlerstr. 5, CH-3012 Bern, Switzerland (email: erlendfw@math.uio.no)
