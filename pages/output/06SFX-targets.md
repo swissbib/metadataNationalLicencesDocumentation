@@ -5,7 +5,7 @@ title: SFX targets
 
 # Creation of SFX targets in ExLibris SFX Knowledge Base
 
-To ease the activations of National Licences in SFX, dedicated targets have been created in the SFX Knowledge Base. They will be maintained in the future by the Swissbib team.
+To ease the activations of National Licences in SFX, dedicated targets have been created in the SFX Knowledge Base. They will be maintained in the future by the Consortium team.
 
 You can find them in SFX under the top target `SWISS_CONSORTIUM_ACADEMIC_LIBRARIES`.
 
@@ -20,3 +20,6 @@ The process is the following :
     - oxford_Switzerland_NationalLicences_<date>.txt
  5. If there are any changes to the title lists we are using or new targets in the future, please either open a Salesforce case or write to: Ex Libris Data Services <Exlibris.Data.Services@exlibrisgroup.com>
  6. All details are in [Salesforce case 00218366](https://exlibrisgroup.my.salesforce.com/50032000010TMj3). The case has been published in Salesforce, therefore all ExLibris Customers can read it.
+
+
+Removal of a portfolio from a target needs to be done manually by exlibris (removing one line from the KBART doesn't do the job). See [Salesforce case 00423665](https://exlibrisgroup--c.na26.visual.force.com/apex/VF_Case_WithoutJira?id=5003200001Ce8v7AAB).

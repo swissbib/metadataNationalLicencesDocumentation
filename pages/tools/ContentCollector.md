@@ -40,6 +40,13 @@ cd /home/harvester/envContentCollector/bintest/
 ./process-nationalLicense_testdir.sh config.oxford.prod.xml
 ```
 
+On sb-ucoai2 :
+
+```
+cd /home/harvester/envContentCollector/bin/
+./process-nationalLicense.sh config.oxford.prod.xml
+```
+
 
 ## Thieme
 

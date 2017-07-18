@@ -123,7 +123,7 @@ ry abstract counts custom-meta-group permissions )
 
 ## Ongoing delivery
 
- * cambridge livre sur /swissbib/harvesting/cambridge sur sb-coai1
+ * cambridge livre régulièrement les updates sur /swissbib/harvesting/cambridge sur sb-coai1 depuis mars 2017
 
 ## Commercial Use
 

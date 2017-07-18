@@ -24,6 +24,7 @@ The three signed contracts for national licences have green road open access cla
 |Total number of publications with open access clause (inclusive embargoed)|~4500|~1000|~9000|~10’000|~25000|
 |Number of publication that can be published open access on 1.1.2017|~3000|~1000|~8000|same|~20000|
 |Size for the Swiss Publications|||||Max 100 Go|
+|Zenodo/Rero Doc||ok|||||
 
 
 # Output
