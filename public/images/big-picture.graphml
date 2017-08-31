@@ -1115,13 +1115,12 @@ One xml file per article on sb-ucoai2
     </node>
     <node id="n61">
       <data key="d4"><![CDATA[http://boris.unibe.ch/]]></data>
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="28.52119771780326" width="119.83723864344711" x="2131.224964492155" y="3562.0774896779535"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="88.85546875" x="15.490884946723327" y="5.276223858901631">boris.unibe.ch<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="88.85546875" x="15.490884946723781" y="5.276223858901631">boris.unibe.ch<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1134,7 +1133,6 @@ One xml file per article on sb-ucoai2
     </node>
     <node id="n62">
       <data key="d4"><![CDATA[http://zora.uzh.ch]]></data>
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="28.52119771780326" width="119.83723864344711" x="2265.5115972963135" y="3562.0774896779535"/>
@@ -1153,7 +1151,6 @@ One xml file per article on sb-ucoai2
     </node>
     <node id="n63">
       <data key="d4"><![CDATA[https://archive-ouverte.unige.ch/]]></data>
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="28.52119771780326" width="164.201307109347" x="2406.739473174516" y="3562.0774896779535"/>
@@ -1171,7 +1168,6 @@ One xml file per article on sb-ucoai2
       </data>
     </node>
     <node id="n64">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="28.52119771780326" width="164.201307109347" x="2600.940780283863" y="3562.0774896779535"/>
@@ -1618,7 +1614,7 @@ One xml file per article on sb-ucoai2
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="free" modelPosition="anywhere" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="250.779296875" x="972.1633611512489" y="852.0999718012631">end of embargo, path to fulltext, oai sets<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="free" modelPosition="anywhere" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="250.779296875" x="470.3670424925622" y="279.1922078493367">end of embargo, path to fulltext, oai sets<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
