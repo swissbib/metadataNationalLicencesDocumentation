@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Summary 06/2016
+title: Mid-project Report 06/2016
 numbering: yes
 ---
 

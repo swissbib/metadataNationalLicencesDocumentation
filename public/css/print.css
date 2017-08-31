@@ -30,22 +30,15 @@ p, ul {
         margin-left: 2px;
         margin-bottom: 40px;
         margin-right: 2px;
-        size: landscape;
+        size: portrait;
         counter-increment: page;
 
-     @bottom-right {
+    @bottom-right {
 	padding-right:20px;
         content: "Page " counter(page);
       }
 
-    @bottom-left {
-    margin: 10pt 0 30pt 0;
-    border-top: .25pt solid #666;
-    content: "My book";
-    font-size: 9pt;
-    color: #333;
-  }
-
 }
+
 
 

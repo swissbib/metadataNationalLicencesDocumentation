@@ -6,9 +6,9 @@ permalink:        pretty
 
 
 # Setup
-title:            Swissbib
-tagline:          'National Licences'
-description:      'National Licences'
+title:            National Licences
+tagline:          'Metadata Management & User Authentication'
+description:      'Metadata Management & User Authentication'
 url:              http://swissbib.github.io/metadataNationalLicencesDocumentation/
 baseurl:          /
 
@@ -17,3 +17,6 @@ author:
   url:            https://twitter.com/liowalter
 
 exclude: [deploy.sh, files.txt, deploy-last-commit.sh, passwords.sh, tables]
+
+kramdown:
+  toc_levels:     2..3
