@@ -16,4 +16,4 @@ From the project description :
 ## Participants
 
  * Robin Meyer, Konsortium, +41 44 632 67 17, robin.meyer@library.ethz.ch
- * Lionel Walter, Swissbib, +41 22 548 30 40, lionel.walter@unibas.ch
+ * Lionel Walter, Swissbib, +41 61 207 56 87, lionel.walter@unibas.ch

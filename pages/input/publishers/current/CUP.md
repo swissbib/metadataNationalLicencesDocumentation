@@ -93,6 +93,26 @@ Remarque du service juridique UB Basel : "die beiden Erklärungen oder Ergänzun
 
  * the journals GLO and LER are delivered this time
 
+## Réception des données : 31.5.2017
+
+ * metadata for the journal Business and Politics have been delivered (it was before on De Gruyter platform)
+
+## Réception des données : 31.5.2017
+
+ * all journals that were only in SGML have been delivered in JATS format
+ * 128'997 new articles
+ * only 99'000 with doi
+ * it also includes articles which are not part of national licences (journal of anatomy for example)
+
+## Réception des données : ongoing until 12.9.2017
+
+  * all journals that were only in SGML have been delivered in JATS format
+  * 128'997 new articles
+
+
+
+
+
 
 ## Processing des fichiers sgml
 

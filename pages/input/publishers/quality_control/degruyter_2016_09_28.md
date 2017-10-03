@@ -67,5 +67,5 @@ champ|nombre d'occurences
 <div markdown="1">
 |nombre de documents|année|
 | -------------: | :------------- |
-{% include quality_control/gruyter2/copyright-years.txt %}
+{% include quality_control/cambridge2/copyright-years.txt %}
 </div>
