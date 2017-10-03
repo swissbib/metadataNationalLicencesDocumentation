@@ -1,0 +1,223 @@
+|     5|Bulletin of The Natural History Museum. Entomology Series|
+|     7|Bulletin of The Natural History Museum. Botany Series|
+|    10|Animal Health Research Reviews|
+|    10|Bulletin of The Natural History Museum. Geology Series|
+|    14|Netherlands Yearbook of International Law|
+|    18|Bulletin of The Natural History Museum. Zoology Series|
+|    27|International Review of the Red Cross|
+|    33|Journal of Institutional Economics|
+|    33|Journal of the Society for American Music|
+|    38|Yearbook of International Humanitarian Law|
+|    39|Health Economics, Policy and Law|
+|    39|International Journal of Law in Context|
+|    39|Journal of Diagnostic Radiography and Imaging|
+|    42|Twentieth-Century Music|
+|    43|Biosocieties|
+|    46|Early Music History|
+|    48|Journal of Global History|
+|    50|Progress in Neurotherapeutics and Neuropsychopharmacology|
+|    51|Acta Numerica|
+|    52|Medieval Philosophy and Theology|
+|    53|Risk, Decision and Policy|
+|    54|Journal of Psychiatric Intensive Care|
+|    57|Ecclesiastical Law Journal|
+|    58|Anglo-Saxon England|
+|    62|Reproductive Medicine Review|
+|    63|Nordic Journal of Linguistics|
+|    64|Arabic Sciences and Philosophy|
+|    65|Biofilms|
+|    66|Neuron Glia Biology|
+|    84|Du Bois Review: Social Science Research on Race|
+|    84|Journal of Systematic Palaeontology|
+|    86|British Journal of Anaesthetic and Recovery Nursing|
+|    89|Archaeological Dialogues|
+|    94|Plainsong and Medieval Music|
+|   100|Proceedings of the Royal Society of Edinburgh: Section A Mathematics|
+|   101|Camden Fifth Series|
+|   101|Thalamus &amp;amp; Related Systems|
+|   104|European Journal of Sociology|
+|   104|Quarterly Reviews of Biophysics|
+|   105|International Journal of Asian Studies|
+|   105|Journal of African Law|
+|   107|Cambridge Opera Journal|
+|   107|European Constitutional Law Review|
+|   112|Language Variation and Change|
+|   113|Studies in American Political Development|
+|   115|Utilitas|
+|   116|Modern Intellectual History|
+|   118|Journal of the Institute of Mathematics of Jussieu|
+|   118|Rural History|
+|   124|Financial History Review|
+|   125|Nations and Nationalism|
+|   126|Foreign Policy Bulletin|
+|   127|Systematics and Biodiversity|
+|   130|Annual Review of Applied Linguistics|
+|   133|Journal of Germanic Linguistics|
+|   135|International Organization|
+|   135|Legal Theory|
+|   135|Politics &amp;amp; Gender|
+|   139|Eighteenth Century Music|
+|   142|Theory and Practice of Logic Programming|
+|   146|Fetal and Maternal Medicine Review|
+|   147|The Review of Politics|
+|   148|Journal of Advertising Research|
+|   154|Netherlands International Law Review|
+|   155|Journal of Pension Economics and Finance|
+|   155|Social Philosophy and Policy|
+|   158|Mycologist|
+|   162|European Business Organization Law Review|
+|   164|Breast Cancer Online|
+|   168|Central European History|
+|   173|Phonology|
+|   173|World Trade Review|
+|   176|European Review of Economic History|
+|   177|Journal of the International Phonetic Association|
+|   179|Ancient Mesoamerica|
+|   184|Journal of Radiotherapy in Practice|
+|   185|Journal of Public Policy|
+|   189|International Journal of Astrobiology|
+|   192|Japanese Journal of Political Science|
+|   193|Harvard Theological Review|
+|   197|The Lichenologist|
+|   201|Economics and Philosophy|
+|   206|Science in Context|
+|   209|ReCALL|
+|   210|Expert Reviews in Molecular Medicine|
+|   213|Biological Reviews|
+|   221|Bird Conservation International|
+|   223|English Language and Linguistics|
+|   244|Edinburgh Journal of Botany|
+|   249|International Journal of Cultural Property|
+|   263|Palliative and Supportive Care|
+|   269|Bilingualism: Language and Cognition|
+|   270|English Today|
+|   270|Language Teaching|
+|   275|Legal Information Management|
+|   281|Artificial Intelligence for Engineering Design, Analysis and Manufacturing|
+|   281|Popular Music|
+|   281|Scottish Journal of Theology|
+|   285|Natural Language Engineering|
+|   286|Social Policy and Society|
+|   290|The Knowledge Engineering Review|
+|   294|Contemporary European History|
+|   302|Mathematical Structures in Computer Science|
+|   303|Cambridge Archaeological Journal|
+|   305|European Journal of Phycology|
+|   305|Probability in the Engineering and Informational Sciences|
+|   309|Architectural Research Quarterly|
+|   309|Work, Employment and Society|
+|   312|British Journal of Music Education|
+|   314|Journal of Functional Programming|
+|   318|Victorian Literature and Culture|
+|   320|Primary Health Care Research &amp;amp; Development|
+|   325|New Testament Studies|
+|   334|Applied Psycholinguistics|
+|   334|Reviews in Clinical Gerontology|
+|   334|Theatre Survey|
+|   336|Polar Record|
+|   342|Nurse Prescriber|
+|   343|AJS Review|
+|   343|Zygote|
+|   345|European Journal of Applied Mathematics|
+|   347|Journal of French Language Studies|
+|   352|Macroeconomic Dynamics|
+|   360|Modern Asian Studies|
+|   361|Animal Conservation|
+|   364|Annals of Human Genetics|
+|   366|European Review|
+|   367|Organised Sound|
+|   369|Theatre Research International|
+|   384|Meteorological Applications|
+|   387|Environmental Practice|
+|   388|Journal of Southeast Asian Studies|
+|   392|Sociology|
+|   396|Continuity and Change|
+|   410|British Journal of Political Science|
+|   413|Journal of Navigation|
+|   414|New Theatre Quarterly|
+|   431|Oryx|
+|   435|Glasgow Mathematical Journal|
+|   438|Comparative Studies in Society and History|
+|   457|International Labor and Working-Class History|
+|   462|Combinatorics, Probability and Computing|
+|   486|Psychophysiology|
+|   491|Environment and Development Economics|
+|   492|Journal of Child Language|
+|   496|Tempo|
+|   497|Philosophy|
+|   497|Review of International Studies|
+|   501|Social Anthropology|
+|   521|Child Psychology and Psychiatry Review|
+|   528|Proceedings of the London Mathematical Society|
+|   534|Experimental Physiology|
+|   550|The Journal of Laryngology &amp;#x0026; Otology|
+|   559|Behavioural and Cognitive Psychotherapy|
+|   566|Development and Psychopathology|
+|   577|Religious Studies|
+|   578|Econometric Theory|
+|   583|Journal of Linguistics|
+|   589|The International Journal of Neuropsychopharmacology|
+|   594|Journal of Biosocial Science|
+|   610|Protein Science|
+|   610|The Journal of Child Psychology and Psychiatry and Allied Disciplines|
+|   636|Urban History|
+|   646|Leiden Journal of International Law|
+|   649|International Journal of Technology Assessment in Health Care|
+|   666|The Historical Journal|
+|   692|Canadian Journal of Political Science|
+|   695|Genetical Research|
+|   714|Journal of Dairy Research|
+|   716|International Review of Social History|
+|   725|Journal of Tropical Ecology|
+|   747|Cambridge Quarterly of Healthcare Ethics|
+|   748|Language in Society|
+|   761|The British Journal for the History of Science|
+|   763|Environmental Conservation|
+|   763|Studies in Second Language Acquisition|
+|   768|Laser and Particle Beams|
+|   784|RNA|
+|   795|Compositio Mathematica|
+|   807|Journal of Anatomy|
+|   820|The Journal of Modern African Studies|
+|   833|Mathematical Proceedings of the Cambridge Philosophical Society|
+|   841|Journal of Plasma Physics|
+|   848|The Cambridge Law Journal|
+|   865|Ageing and Society|
+|   866|Robotica|
+|   876|The China Quarterly|
+|   905|New Phytologist|
+|   914|Visual Neuroscience|
+|   933|American Political Science Review|
+|   933|Bulletin of the School of Oriental and African Studies|
+|   944|Experimental Agriculture|
+|   977|Ergodic Theory and Dynamical Systems|
+|  1000|Cardiology in the Young|
+|  1005|The Journal of Economic History|
+|  1011|International Journal of Middle East Studies|
+|  1056|Journal of Social Policy|
+|  1099|Journal of the London Mathematical Society|
+|  1107|The Journal of Agricultural Science|
+|  1186|The Journal of African History|
+|  1222|Journal of the International Neuropsychological Society|
+|  1252|Journal of Zoology|
+|  1282|Bulletin of the London Mathematical Society|
+|  1291|PS: Political Science &amp;amp; Politics|
+|  1361|Antarctic Science|
+|  1393|Journal of Latin American Studies|
+|  1443|Geological Magazine|
+|  1464|International Psychogeriatrics|
+|  1483|Developmental Medicine &amp; Child Neurology|
+|  1504|Epidemiology and Infection|
+|  1636|Journal of American Studies|
+|  1654|Journal of the Marine Biological Association of the United Kingdom|
+|  1664|Perspectives on Politics|
+|  1750|The Journal of Laryngology &amp; Otology|
+|  1802|Parasitology|
+|  1867|Proceedings of the International Astronomical Union|
+|  2023|Psychological Medicine|
+|  2051|Mycological Research|
+|  2084|European Journal of Anaesthesiology|
+|  3012|The Journal of Ecclesiastical History|
+|  4097|Behavioral and Brain Sciences|
+|  5439|Microscopy and Microanalysis|
+| 15248|Journal of Fluid Mechanics|

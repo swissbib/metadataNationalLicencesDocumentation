@@ -1,0 +1,6 @@
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/nationallizenzen/cambridge/extracted-ongoing/NEU/NEU29_s1-JATS/NEU/NEU29_s1/S0924270817000175a.pdf correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/nationallizenzen/cambridge/extracted-ongoing/NEU/NEU29_s1-JATS/NEU/NEU29_s1/S0924270817000199a.pdf correspondant|
+|     1|Fichier binaire /media/lionel/Data/swissbib-data/nationallizenzen/cambridge/extracted-ongoing/NEU/NEU29_s1-JATS/NEU/NEU29_s1/S0924270817000205a.pdf correspondant|
+| 25401|xmlns:mml="http://www.w3.org/1998/Math/MathML"|
+| 25401|xmlns:xlink="http://www.w3.org/1999/xlink"|
+| 25401|xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"|
