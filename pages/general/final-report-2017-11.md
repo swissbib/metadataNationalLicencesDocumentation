@@ -7,7 +7,7 @@ numbering: yes
 # Metadata Management & User Authentication, Swiss National Licences, Final Report
 {:.no_toc}
 
-Lionel Walter, Swissbib project, Basel University Library, 11.13.2017<br>
+Lionel Walter, Swissbib project, Basel University Library, 13 November 2017<br>
 <lionel.walter@unibas.ch>
 
 
@@ -23,7 +23,7 @@ Lionel Walter, Swissbib project, Basel University Library, 11.13.2017<br>
 
 ## Management summary
 
-In 2015, Switzerland launched a [Swiss National Licences project](http://www.nationallizenzen.ch). This is a 2-year project funded by the [swissuniversities' program "Scientific information: Access, processing and safeguarding"](http://www.swissuniversities.ch/isci) to the tune of CHF 9 million. CHF 7.5 million was used to buy content from publishers, CHF 1 million to ensure that this content is preserved for the whole of Switzerland, and CHF 0.5 million for the negotiation of contracts, overall management, metadata management and user authentication. The project is led by the Consortium of Swiss Academic Libraries (at ETH Zurich). The metadata management and user authentication subproject were allocated to the Swissbib team at the University of Basel. The subproject started on November 1, 2015 and ended on June 30, 2017.
+In 2015, Switzerland launched a [Swiss National Licences project](http://www.nationallizenzen.ch). This is a 2-year project funded by the [swissuniversities' program "Scientific information: Access, processing and safeguarding"](http://www.swissuniversities.ch/isci) to the tune of CHF 9 million. CHF 7.5 million was allocated to buy content from publishers, CHF 1 million to ensure that this content is preserved for the whole of Switzerland, and CHF 0.5 million for the negotiation of contracts, overall management, metadata management and user authentication. The project is led by the Consortium of Swiss Academic Libraries (at ETH Zurich). The metadata management and user authentication subproject were allocated to the Swissbib team at the University of Basel. The subproject started on November 1, 2015 and ended on June 30, 2017.
 
 More than 6 million journal articles from 4 publishers were bought (Cambridge University Press, De Gruyter, Oxford University Press and Springer).
 
@@ -64,11 +64,11 @@ Most of these goals were achieved using existing infrastructures like Swissbib, 
 
 #### Registered private users via Swissbib
 
- * **1,013** private users have or have had access to National Licence content from the start (as of 22.8.2017)
- * **694** private users requested temporary access
- * **651** private users have permanent access
- * **319** private users have permanent access without any temporary access
- * **362** private users activated temporary access but never verified their home postal address
+ * **1,143** private users have or have had access to National Licence content from the start (as of 3.10.2017)
+ * **805** private users requested temporary access
+ * **721** private users have permanent access
+ * **338** private users have permanent access without any temporary access
+ * **422** private users activated temporary access but never verified their home postal address
 
 
 #### Private users' downloads
@@ -76,9 +76,9 @@ Most of these goals were achieved using existing infrastructures like Swissbib, 
  * **1,903** downloads of full-text (without Cambridge University Press, where numbers are missing)
 
 Publisher's details :
- * De Gruyter: **648** full-text article requests (COUNTER 4 JR1, ad of 8.22.2017)
- * Oxford University Press: **884** full-text article requests (COUNTER 4 JR1, as of 7.31.2017)
- * Springer:  **371** full-text article requests (COUNTER 4 JR1, as of 7.31.2017, only 4 months)
+ * De Gruyter: **648** full-text article requests (COUNTER 4 JR1, as of 22.8.2017)
+ * Oxford University Press: **884** full-text article requests (COUNTER 4 JR1, as of 31.7.2017)
+ * Springer:  **371** full-text article requests (COUNTER 4 JR1, as of 31.7.2017, only 4 months)
  * Cambridge: numbers missing
 
 
@@ -95,7 +95,7 @@ There were two main questions on this topic:
 
 The starting point was a meeting with Switch on February 2, 2016, which made it possible to write requirements for publishers relating to these topics.
 
-The answer to the first question was as follows: Private users will use the new SWITCH edu-ID Identity Provider from Switch to authenticate themselves (using SAML/Shibboleth) on publishers' platforms. The publishers need to support the value `urn:mace:dir:entitlement:common-lib-terms` in the SAML attribute 'eduPersonEntitlement'. This ensures maximum privacy for the users. The publishers know almost nothing about the users.
+The answer to the first question was as follows: Private users will use the new SWITCH edu-ID Identity Provider from Switch to authenticate themselves (using SAML/Shibboleth) on publishers' platforms. The publishers need to support the value `urn:mace:dir:entitlement:common-lib-terms` in the SAML attribute `eduPersonEntitlement`. This ensures maximum privacy for the users. The publishers know almost nothing about the users.
 
 Another option considered was to set up a proxy (for example EZ Proxy) for the National Licences' content. This was the option chosen by the German National Licences. The main drawbacks of this solution are as follows:
 
@@ -112,7 +112,7 @@ For the second question, we explored various options:
 
 After negotiations with publishers, they agreed to a 14-day temporary access based on the verification of a Swiss mobile phone number and permanent access after checking the person's residency by post. This way, immediate access is possible for a user who wants to read the content as soon as they discover it.
 
-We then had two additional meetings with Switch to see whether the SWITCH edu-ID framework fulfills all the needs of the Swiss National Licences. We concluded that the main authentication features (user management, passwords, verified mobile phone number, verified post address, attribute 'eduPersonEntitlement') are dealt with by Switch. But some of the requirements are specific to National Licences. Indeed, the following conditions need to be met to access content of Swiss National Licences:
+We then had two additional meetings with Switch to see whether the SWITCH edu-ID framework fulfills all the needs of the Swiss National Licences. We concluded that the main authentication features (user management, passwords, verified mobile phone number, verified post address, attribute `eduPersonEntitlement`) are dealt with by Switch. But some of the requirements are specific to National Licences. Indeed, the following conditions need to be met to access content of Swiss National Licences:
 
   - User needs to accept the terms and conditions of Swiss National Licences
   - User must have a SWITCH edu-ID account
@@ -134,7 +134,7 @@ Watch the video :
 
 The whole process is best described in the [slides from the AAI & Swiss edu-ID Update 2016](https://www.switch.ch/aai/support/presentations/update2016/04_Nationallicences.pdf).
 
-The details on how to set up 'eduPersonEntitlement' via SWITCH API for SWITCH edu-ID users are available in [Swissbib Documentation](http://www.swissbib.org/wiki/index.php?title=Switch-Edu-ID).
+The details on how to set up `eduPersonEntitlement` via SWITCH API for SWITCH edu-ID users are available in [Swissbib Documentation](http://www.swissbib.org/wiki/index.php?title=Switch-Edu-ID).
 
 ![Architecture]({{ site.github.url }}/public/images/swissbib-switch-edu-id.png)
 
@@ -154,7 +154,7 @@ After the go-live in December 2016, the system was reviewed by an external compa
  * Consistent wording between SWITCH and Swissbib
  * Better handling of the terms of use
  * No requirement to enter the password multiple times (in SWITCH and Swissbib)
- * Support in 3 languages (German, French, English). Italian implemented in Swissbib but not yet in SWITCH.
+ * Support in 4 languages (German, French, English, Italian)
  * No requirement to activate the temporary or permanent access manually. If a Swiss phone number is available, temporary access is automatically activated. As soon as the postal address has been verified, permanent access is granted.
  * After receiving the letter and verifying the code, the user is automatically redirected to Swissbib
 
@@ -186,7 +186,7 @@ The goal was to transform all incoming metadata into a common format (pivot form
 We analyzed potential candidates for a pivot format: MODS, NLM JATS, MARC21, DataCite Metadata Schema, ...
 
 We finally decided to use the MODS format for the following main reasons:
- * Tt is a standard maintained by the Library of Congress
+ * It is a standard maintained by the Library of Congress
  * The ISTEX project, which looks after the French National Licences, uses it as a pivot format
  * Various library systems can handle it
 
@@ -376,7 +376,7 @@ The first step was to match the affiliations with Swiss universities. A small [a
 
 shared their algorithms with us.
 
-Such algorithms are never 100% accurate; there are always some publications missing or wrongly matched. On top of that, there is [really not a standardized] way to deal with publications.(http://swissbib.github.io/metadataNationalLicencesDocumentation/pages/input/021jats/#way-to-deal-with-affiliations) on the publishers' side. Nonetheless, it was possible to identify more than 15,700 publications from authors from Swiss institutions that could be published open access. 2,000 of them have an embargo that will expire at the latest in 2020.
+Such algorithms are never 100% accurate; there are always some publications missing or wrongly matched. On top of that, there is [really not a standardized](http://swissbib.github.io/metadataNationalLicencesDocumentation/pages/input/021jats/#way-to-deal-with-affiliations) way to deal with publications on the publishers' side. Nonetheless, it was possible to identify more than 15,700 publications from authors from Swiss institutions that could be published open access. 2,000 of them have an embargo that will expire at the latest in 2020.
 
 Please note that this applies only to Cambridge, De Gruyter and Oxford. The Springer Green Open Access clause was only signed in July 2017 and the full-texts were not delivered. This might happen in the next stage of this project. We estimate that 15,000 articles from Springer might be published open access.
 
