@@ -7,7 +7,7 @@ numbering: yes
 # Metadata Management & User Authentication, Swiss National Licences, Final Report
 {:.no_toc}
 
-Lionel Walter, Swissbib project, Basel University Library, 13 November 2017<br>
+Lionel Walter, Swissbib project, Basel University Library, 20 November 2017<br>
 <lionel.walter@unibas.ch>
 
 
@@ -23,7 +23,7 @@ Lionel Walter, Swissbib project, Basel University Library, 13 November 2017<br>
 
 ## Management summary
 
-In 2015, Switzerland launched a [Swiss National Licences project](http://www.nationallizenzen.ch). This is a 2-year project funded by the [swissuniversities' program "Scientific information: Access, processing and safeguarding"](http://www.swissuniversities.ch/isci) to the tune of CHF 9 million. CHF 7.5 million was allocated to buy content from publishers, CHF 1 million to ensure that this content is preserved for the whole of Switzerland, and CHF 0.5 million for the negotiation of contracts, overall management, metadata management and user authentication. The project is led by the Consortium of Swiss Academic Libraries (at ETH Zurich). The metadata management and user authentication subproject were allocated to the Swissbib team at the University of Basel. The subproject started on November 1, 2015 and ended on June 30, 2017.
+In 2015, Switzerland launched a [Swiss National Licences project](http://www.nationallizenzen.ch). This is a 2-year project funded by the [swissuniversities' program "Scientific information: Access, processing and safeguarding"](http://www.swissuniversities.ch/isci) to the tune of CHF 9 million. CHF 7.5 million was allocated to buy content from publishers, CHF 1 million to ensure that this content is preserved for the whole of Switzerland, and CHF 0.5 million for the negotiation of contracts, overall management, metadata management and user authentication. The project is led by the Consortium of Swiss Academic Libraries (at ETH Zurich). The metadata management and user authentication subprojects were allocated to the Swissbib team at the University of Basel. The subproject started on November 1, 2015 and ended on June 30, 2017.
 
 More than 6 million journal articles from 4 publishers were bought (Cambridge University Press, De Gruyter, Oxford University Press and Springer).
 
