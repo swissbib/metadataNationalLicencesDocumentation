@@ -7,13 +7,14 @@ numbering: yes
 # Metadata Management & User Authentication: Final Report
 {:.no_toc}
 
-Subprojects of the "Nationallizenzen" project. 
+Subprojects of the "Nationallizenzen" project.
 
 Lionel Walter, Swissbib project, Basel University Library, 20 November 2017<br>
 <lionel.walter@unibas.ch>
 
 "Nationallizenzen" is funded by swissuniversities' program "Scientific Information".  
 
+A pdf version of this report is available on <http://edoc.unibas.ch/57350/>.
 
 <h2 class="nonumber">Table of contents</h2>
 {:.no_toc}
