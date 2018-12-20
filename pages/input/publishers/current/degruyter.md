@@ -149,7 +149,13 @@ La plupart sont dues a des fichiers invalides fournis par De Gruyter.
  * ils ont tous 2015 comme année de publication print
  * ils ont livré 4 journaux open access avec le reste.
 
+## Réception des données novembre 2018
 
+ * De Gruyter a livré les métadonnées des articles 2016 ainsi que les pdf.
+ * De plus, De Gruyter livre désormais chaque lundi sur le serveur FTP les mises à jour de tous les articles parus jusqu'au 31.12.2016
+ * Entre les livraisons de décembre 2015 et de août 2016, nous n'avons pas reçu des mises à jour. Il y a donc un trou dans les mises à jour. Eventuellement demander à De Gruyter de refaire une livraison complète suivie immmédiatement par les mises à jour.
+ * with fulltexts : 40 Go
+ * ~15'000 articles
 
 
 

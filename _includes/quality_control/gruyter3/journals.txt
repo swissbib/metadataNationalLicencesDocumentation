@@ -1,0 +1,318 @@
+|     1|Statistical Communications in Infectious Diseases|
+|     3|International Commentary on Evidence|
+|     3|Issues in Legal Scholarship|
+|     3|Journal of Drug Policy Analysis|
+|     4|Review of Marketing Science|
+|     4|The Economists' Voice|
+|     5|Journal of Ancient Near Eastern History|
+|     6|Accounting, Economics and Law: A Convivium|
+|     6|Journal of Imagery Research in Sport and Physical Activity|
+|     6|Journal of Tort Law|
+|     6|Statistics, Politics and Policy|
+|     7|Accounting, Economics, and Law: A Convivium|
+|     7|Journal of Business Valuation and Economic Loss Analysis|
+|     7|Kant Yearbook|
+|     7|Muslim World Journal of Human Rights|
+|     9|Accounting, Economics and Law - A Convivium|
+|     9|Angermion|
+|     9|Conceptus|
+|     9|Epidemiologic Methods|
+|     9|Journal of Biosecurity, Biosafety, and Biodefense Law|
+|    10|Journal of Time Series Econometrics|
+|    10|SATS|
+|    10|Statistics &amp; Risk Modeling|
+|    11|Antike und Abendland|
+|    11|Archiv für Reformationsgeschichte / Literaturberichte - Archive for Reformation History / Literature Review|
+|    11|Journal of Causal Inference|
+|    11|Journal of Econometric Methods|
+|    11|Journal of Globalization and Development|
+|    11|Journal of Literary Semantics|
+|    11|Kadmos|
+|    11|PIK - Praxis der Informationsverarbeitung und Kommunikation|
+|    12|Asia-Pacific Journal of Risk and Insurance|
+|    12|Economic Quality Control|
+|    12|Journal of Agricultural &amp; Food Industrial Organization|
+|    12|Journal of Early Modern Christianity|
+|    12|Journal of Mathematical Cryptology|
+|    12|Lodz Papers in Pragmatics|
+|    12|Review of Network Economics|
+|    13|Annalen des Historischen Vereins für den Niederrhein|
+|    13|Basic Income Studies|
+|    13|Internationales Jahrbuch der Erwachsenenbildung|
+|    13|Jahrbuch für die Geschichte Mittel- und Ostdeutschlands|
+|    13|Journal des Économistes et des Études Humaines|
+|    13|Journal of Ancient History|
+|    14|Chinese as a Second Language Research|
+|    14|Forum for Health Economics and Policy|
+|    14|Journal of African Languages and Linguistics|
+|    14|Journal of Latin Linguistics|
+|    14|Pteridines|
+|    14|Reviews in Inorganic Chemistry|
+|    14|Rhetorik|
+|    14|The African Book Publishing Record|
+|    15|International Journal of Nursing Education Scholarship|
+|    15|International Yearbook for Tillich Research|
+|    15|Journal of South Asian Languages and Linguistics|
+|    15|Millennium|
+|    15|Probus|
+|    15|Review of Middle East Economics and Finance|
+|    16|Corpus Linguistics and Linguistic Theory|
+|    16|Journal of Literary Theory|
+|    16|Journal of Politeness Research|
+|    16|Law and Development Review|
+|    16|Restoration of Buildings and Monuments|
+|    16|Zeitschrift für Religionswissenschaft|
+|    17|Deutsches Dante-Jahrbuch|
+|    17|Dialectologia et Geolinguistica|
+|    17|Geschichte in Köln|
+|    17|Jahrbuch für Germanistische Sprachgeschichte|
+|    17|Multicultural Learning and Teaching|
+|    17|Multimodal Communication|
+|    17|The Law &amp; Ethics of Human Rights|
+|    17|Theoretical Linguistics|
+|    17|World Political Science|
+|    18|Asian Journal of Law and Economics|
+|    18|Entrepreneurship Research Journal|
+|    18|Global Jurist|
+|    18|Helia|
+|    18|Journal of the International Arthurian Society|
+|    18|Journal of Transcultural Medieval Studies|
+|    18|Naharaim|
+|    18|Rhizomata|
+|    18|Yearbook for European Jewish Literature Studies|
+|    18|Zeitschrift für die neutestamentliche Wissenschaft|
+|    19|Altorientalische Forschungen|
+|    19|Archiv für Diplomatik, Schriftgeschichte, Siegel- und Wappenkunde|
+|    19|Archiv für Kulturgeschichte|
+|    19|Archiv für Reformationsgeschichte - Archive for Reformation History|
+|    19|Chinese Archaeology|
+|    19|European Journal of Scandinavian Studies|
+|    19|European Property Law Journal|
+|    19|Groups Complexity Cryptology|
+|    19|Journal of Numerical Mathematics|
+|    19|Journal of Quantitative Analysis in Sports|
+|    19|Metaphysica|
+|    19|Reviews in Analytical Chemistry|
+|    19|Trends in Classics|
+|    19|Zeitschrift für Ägyptische Sprache und Altertumskunde|
+|    19|Zeitschrift für Sprachwissenschaft|
+|    20|Aschkenas|
+|    20|Cognitive Linguistics|
+|    20|European Journal of Applied Linguistics|
+|    20|Frühmittelalterliche Studien|
+|    20|Historisch-Politische Mitteilungen|
+|    20|International Review of Applied Linguistics in Language Teaching|
+|    20|Journal of Applied Analysis|
+|    20|Journal of the Bible and its Reception|
+|    20|Kierkegaard Studies Yearbook|
+|    21|Advances in Geometry|
+|    21|Etruscan Studies|
+|    21|Glottotheory|
+|    21|Journal of European Tort Law|
+|    21|Moral Philosophy and Politics|
+|    21|Yearbook of Phraseology|
+|    22|Apeiron|
+|    22|Restaurator. International Journal for the Preservation of Library and Archival Material|
+|    22|Scientia Poetica|
+|    22|Zeitschrift für kritische Sozialtheorie und Philosophie|
+|    23|Journal for the History of Modern Theology / Zeitschrift für Neuere Theologiegeschichte|
+|    23|Saeculum|
+|    23|Sociolinguistica|
+|    23|The B.E. Journal of Macroeconomics|
+|    23|Verkündigung und Forschung|
+|    24|Advances in Calculus of Variations|
+|    24|Indogermanische Forschungen|
+|    24|Jahrbuch der Raabe-Gesellschaft|
+|    24|Monte Carlo Methods and Applications|
+|    24|Praehistorische Zeitschrift|
+|    24|Random Operators and Stochastic Equations|
+|    24|Zeitschrift für Assyriologie und vorderasiatische Archäologie|
+|    25|Corrosion Reviews|
+|    25|Editio|
+|    25|European Review of Contract Law|
+|    25|International Journal of Practical Theology|
+|    25|Jahrbuch für Wirtschaftsgeschichte / Economic History Yearbook|
+|    25|Lebende Sprachen|
+|    25|Zeitschrift für celtische Philologie|
+|    26|Advances in Nonlinear Analysis|
+|    26|BioNanoMaterials|
+|    26|Das Mittelalter|
+|    26|Journal of the Mechanical Behavior of Materials|
+|    26|Man and the Economy|
+|    26|Nietzsche-Studien|
+|    26|Philologus|
+|    26|Pólemos|
+|    26|Theoretical Inquiries in Law|
+|    27|Archiv für Geschichte der Philosophie|
+|    27|Journal of Homeland Security and Emergency Management|
+|    27|Main Group Metal Chemistry|
+|    27|Romanistisches Jahrbuch|
+|    28|Advances in Pure and Applied Mathematics|
+|    28|Folia Linguistica|
+|    28|Nonlinear Engineering|
+|    28|STUF - Language Typology and Universals|
+|    29|Internationales Archiv für Sozialgeschichte der deutschen Literatur|
+|    29|Jahrbuch der Göttinger Akademie der Wissenschaften|
+|    29|Jahrbuch für Wissenschaft und Ethik|
+|    29|New Global Studies|
+|    29|Quellen und Forschungen aus italienischen Archiven und Bibliotheken|
+|    29|Review of Law &amp; Economics|
+|    29|The Linguistic Review|
+|    29|Zeitschrift für Kulturwissenschaften|
+|    30|Analysis|
+|    30|Intercultural Pragmatics|
+|    30|Language Learning in Higher Education|
+|    30|Libri|
+|    31|Bio-Algorithms and Med-Systems|
+|    31|Byzantinische Zeitschrift|
+|    31|European Company and Financial Law Review|
+|    31|Journal of Non-Equilibrium Thermodynamics|
+|    31|Nietzscheforschung|
+|    31|Zeitschrift für Angewandte Linguistik|
+|    32|i-com|
+|    32|Journal of Applied Geodesy|
+|    32|Journal of English as a Lingua Franca|
+|    32|Peace Economics, Peace Science and Public Policy|
+|    33|Archiv für Papyrusforschung und verwandte Gebiete|
+|    33|Biomolecular Concepts|
+|    33|Chinese Journal of Applied Linguistics|
+|    33|Iberoromania|
+|    33|Poznan Studies in Contemporary Linguistics|
+|    34|Journal for Manufacturing Science and Production|
+|    34|The B.E. Journal of Theoretical Economics|
+|    34|Zeitschrift für Antikes Christentum / Journal of Ancient Christianity|
+|    35|Discrete Mathematics and Applications|
+|    35|Global Economy Journal|
+|    36|Energy Harvesting and Systems|
+|    36|European Journal of Nanomedicine|
+|    36|Journal der Juristischen Zeitgeschichte|
+|    36|Neue Zeitschrift für Systematische Theologie und Religionsphilosophie|
+|    36|Perspektiven der Wirtschaftspolitik|
+|    36|Reviews in Chemical Engineering|
+|    36|Statistical Applications in Genetics and Molecular Biology|
+|    37|Preservation, Digital Technology &amp; Culture|
+|    38|Bildung und Erziehung|
+|    38|Der Donauraum|
+|    38|Studies in Nonlinear Dynamics &amp; Econometrics|
+|    38|Zeitschrift für germanistische Linguistik|
+|    38|Zeitschrift für Unternehmens- und Gesellschaftsrecht|
+|    39|Chemical Product and Process Modeling|
+|    39|Communications|
+|    39|Drug Metabolism and Personalized Therapy|
+|    39|Paragrana|
+|    40|Computational Methods in Applied Mathematics|
+|    40|Zeitschrift für interkulturelle Germanistik|
+|    41|Nonprofit Policy Forum|
+|    41|Russian Journal of Numerical Analysis and Mathematical Modelling|
+|    41|Text &amp; Talk|
+|    42|arcadia|
+|    42|Case Reports in Perinatal Medicine|
+|    42|Figurationen|
+|    42|Germanistik|
+|    42|International Journal of Nonlinear Sciences and Numerical Simulation|
+|    42|Linguistic Typology|
+|    43|Multilingua|
+|    43|Zeitschrift der Savigny-Stiftung für Rechtsgeschichte: Kanonistische Abteilung|
+|    44|International Journal of Turbo &amp; Jet-Engines|
+|    45|Journal of Contemporary Drama in English|
+|    45|Journal of Intelligent Systems|
+|    45|Photonics &amp; Lasers in Medicine|
+|    46|Historische Anthropologie|
+|    46|POP|
+|    46|The Forum|
+|    46|Zeitschrift für die alttestamentliche Wissenschaft|
+|    47|HUMOR|
+|    48|it - Information Technology|
+|    48|Linguistics|
+|    50|Journal of Complementary and Integrative Medicine|
+|    50|Kölner Schrift zum Wirtschaftsrecht|
+|    50|Zeitschrift der Savigny-Stiftung für Rechtsgeschichte: Romanistische Abteilung|
+|    50|Zeitschrift für Evangelische Ethik|
+|    51|Zeitschrift für Anglistik und Amerikanistik|
+|    52|Der Islam|
+|    52|English and American Studies in German|
+|    52|Internationales Handelsrecht|
+|    52|Zeitschrift für Slawistik|
+|    56|ABI Technik|
+|    56|Zeitschrift für die gesamte Strafrechtswissenschaft|
+|    57|Botanica Marina|
+|    58|Chinese Semiotic Studies|
+|    58|Fabula|
+|    58|Nanotechnology Reviews|
+|    59|Computer Law Review International|
+|    60|Journal of Optical Communications|
+|    60|Praktische Theologie|
+|    61|Georgian Mathematical Journal|
+|    61|LaboratoriumsMedizin|
+|    62|Arbitrium|
+|    62|Heterocyclic Communications|
+|    62|International Journal on Disability and Human Development|
+|    62|Journal of Group Theory|
+|    63|Kant-Studien|
+|    64|International Journal of the Sociology of Language|
+|    65|Journal of Inverse and Ill-posed Problems|
+|    65|Kritikon Litterarum|
+|    66|International Journal of Emerging Electric Power Systems|
+|    67|Advanced Optical Technologies|
+|    67|Evangelische Theologie|
+|    68|e-Polymers|
+|    69|Frequenz|
+|    69|Reviews in the Neurosciences|
+|    69|Reviews on Environmental Health|
+|    69|Romanische Bibliographie|
+|    71|Asiatische Studien - Études Asiatiques|
+|    71|Klio|
+|    72|Hormone Molecular Biology and Clinical Investigation|
+|    72|Information - Wissenschaft &amp; Praxis|
+|    73|International Journal of Adolescent Medicine and Health|
+|    76|Forum Mathematicum|
+|    77|European Tort Law Yearbook|
+|    82|Zeitschrift für das Privatrecht der Europäischen Union|
+|    83|Journal of Basic and Clinical Physiology and Pharmacology|
+|    83|The B.E. Journal of Economic Analysis &amp; Policy|
+|    84|Hegel-Jahrbuch|
+|    84|ReiseRecht aktuell|
+|    85|Deutsche Zeitschrift für Philosophie|
+|    86|Mammalia|
+|    86|Mitteilungen der Deutschen Mathematiker-Vereinigung|
+|    88|Anglia|
+|    88|Science and Engineering of Composite Materials|
+|    89|Green Processing and Synthesis|
+|    91|Soziologische Revue|
+|    91|Vierteljahrshefte für Zeitgeschichte|
+|    92|Mitteilungen des Instituts für Österreichische Geschichtsforschung|
+|    94|tm - Technisches Messen|
+|    98|International Journal of Food Engineering|
+|    99|Public Health Forum|
+|   101|Biomedical Engineering / Biomedizinische Technik|
+|   101|Radiochimica Acta|
+|   101|Zeitschrift für Kristallographie - Crystalline Materials|
+|   102|Pure and Applied Chemistry|
+|   107|Journal für die reine und angewandte Mathematik (Crelles Journal)|
+|   108|Maske und Kothurn|
+|   111|Journal of Polymer Engineering|
+|   115|at - Automatisierungstechnik|
+|   118|Semiotica|
+|   120|Zeitschrift für Konfliktmanagement|
+|   120|Zeitschrift für Physikalische Chemie|
+|   121|International Journal of Chemical Reactor Engineering|
+|   124|Zeitschrift für romanische Philologie|
+|   131|Juristische Rundschau|
+|   136|Biological Chemistry|
+|   139|High Temperature Materials and Processes|
+|   143|Bibliotheksdienst|
+|   144|Militaergeschichtliche Zeitschrift|
+|   146|Holzforschung|
+|   146|Journal of Perinatal Medicine|
+|   146|Zeitschrift der Savigny-Stiftung für Rechtsgeschichte: Germanistische Abteilung|
+|   162|Deutsche Zeitschrift für Wirtschafts- und Insolvenzrecht|
+|   201|Orientalistische Literaturzeitung|
+|   227|Journal of Pediatric Endocrinology and Metabolism|
+|   241|Computer und Recht|
+|   304|JURA - Juristische Ausbildung|
+|   309|Umsatzsteuer-Rundschau|
+|   357|Finanz-Rundschau Ertragsteuerrecht|
+|   365|GesundheitsRecht|
+|   370|Clinical Chemistry and Laboratory Medicine (CCLM)|
+|   535|Historische Zeitschrift|
+|   562|Monatsschrift für Deutsches Recht|

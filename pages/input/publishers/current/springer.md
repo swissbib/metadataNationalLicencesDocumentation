@@ -93,6 +93,16 @@ Réponse de Springer pour la licence CC0 :
  * the account lionel.walter@unibas.ch can manage swiss edu-id access on springer platform.
 
 
+## Livraison PDf
+
+ * deux drives
+ * le premier
+   * un répertoire <=2004
+   * un répertoire OnlineFirst ???
+ * le deuxième
+   * 2005- ???
+
+
 ## Contact pour la technique
 
 **Mrs. Attilia Czikmantori**  
