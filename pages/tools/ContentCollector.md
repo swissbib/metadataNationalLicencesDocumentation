@@ -47,6 +47,10 @@ cd /home/harvester/envContentCollector/bin/
 ./process-nationalLicense.sh config.oxford.prod.xml
 ```
 
+Logs on sb-ucoai2 : 
+
+* General logs : ```/swissbib/harvesting/rundir```
+* Specific NL logs : ```/swissbib/harvesting/nationalLicencesLog```
 
 ## Thieme
 
