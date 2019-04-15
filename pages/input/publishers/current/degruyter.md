@@ -156,6 +156,24 @@ La plupart sont dues a des fichiers invalides fournis par De Gruyter.
  * Entre les livraisons de décembre 2015 et de août 2016, nous n'avons pas reçu des mises à jour. Il y a donc un trou dans les mises à jour. Eventuellement demander à De Gruyter de refaire une livraison complète suivie immmédiatement par les mises à jour.
  * with fulltexts : 40 Go
  * ~15'000 articles
+ 
+## Traitement avril 2019
+
+ * ingestion dans mongo de tout ce qui a été livré
+ * Download via ftp directly on ucoai2 :
+ 
+```
+ftp
+open
+ftp.degruyter.de
+username
+password
+cd folder
+prompt
+mget *
+```
+
+ * 
 
 
 

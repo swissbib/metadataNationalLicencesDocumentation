@@ -1,0 +1,17 @@
+|     1|Conceptus|
+|     1|Holzforschung|
+|     1|Pteridines|
+|     2|Case Reports in Perinatal Medicine|
+|     2|Reviews in Chemical Engineering|
+|    10|Advances in Nonlinear Analysis|
+|    10|Yearbook of Phraseology|
+|    16|Der Donauraum|
+|    20|Apeiron|
+|    22|Monatsschrift für Deutsches Recht|
+|    37|Romanische Bibliographie|
+|    40|Zeitschrift für Kristallographie - Crystalline Materials|
+|    63|Pure and Applied Chemistry|
+|    64|Journal of Group Theory|
+|    86|Philologus|
+|   174|Public Health Forum|
+|   720|Bibliotheksdienst|
