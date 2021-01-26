@@ -1,0 +1,227 @@
+|     1|American Journal of Clinical Nutrition|
+|     1|Annals of Botany Company|
+|     3|Jnl of Financial Econometrics|
+|     7|Interdisciplinary Studies in Literature and Environment|
+|     7|Social Politics|
+|     7|Transactions of Mathematics and its Applications|
+|    10|Antibody Therapeutics|
+|    10|Journal of Sleep and Sleep Disorders Research|
+|    10|Microscopy|
+|    11|British Journal for the Philosophy of Science|
+|    12|AIBS Bulletin|
+|    12|Logic Journal of IGPL|
+|    14|Christian bioethics: Non-Ecumenical Studies in Medical Morality|
+|    18|Bulletin of the Entomological Society of America|
+|    18|Journal of Legal Analysis|
+|    20|Cardiovascular Research|
+|    27|Clean Energy|
+|    29|British Yearbook of International Law|
+|    30|Insect Systematics and Diversity|
+|    31|Synthetic Biology|
+|    33|Biology Methods and Protocols|
+|    35|Acta Biochim Biophys Sin|
+|    36|The World Bank Research Observer|
+|    38|Journal of Financial Regulation|
+|    39|The Journal of Clinical Endocrinology|
+|    41|JAMIA Open|
+|    42|Journal of Integrated Pest Management|
+|    47|Yearbook of European Law|
+|    49|Information and Inference: A Journal of the IMA|
+|    50|The American Journal of Jurisprudence|
+|    52|Communication Culture &amp; Critique|
+|    53|Human Reproduction Open|
+|    54|Teaching Mathematics and its Applications: An International Journal of the IMA|
+|    57|Bulletin of the Institute of Classical Studies|
+|    58|Proceedings of the Aristotelian Society|
+|    59|International Journal of Law and Information Technology|
+|    60|American Law and Economics Review|
+|    60|Journal of Antitrust Enforcement|
+|    61|Annals of Behavioral Medicine|
+|    67|Social Politics: International Studies in Gender, State &amp; Society|
+|    68|Innovation in Aging|
+|    68|International Relations of the Asia-Pacific|
+|    68|The Year's Work in English Studies|
+|    69|Mathematical Medicine and Biology: A Journal of the Ima|
+|    70|Christian Bioethics|
+|    70|Journal Of Deaf Studies And Deaf Education|
+|    71|The Journal of Law, Economics, and Organization|
+|    77|The Journal of Hindu Studies|
+|    78|Communication, Culture &amp; Critique|
+|    78|Journal of Competition Law &amp; Economics|
+|    80|Human Communication Research|
+|    82|Journal of African Economies|
+|    83|International Data Privacy Law|
+|    83|Journal of Financial Econometrics|
+|    86|IMA Journal of Management Mathematics|
+|    86|Journal of Computer-Mediated Communication|
+|    87|Journal of Conflict and Security Law|
+|    87|Journal of Electron Microscopy|
+|    87|Work, Aging and Retirement|
+|    89|International Political Sociology|
+|    89|Journal of Environmental Law|
+|    90|Journal of Human Rights Practice|
+|    91|History Workshop Journal|
+|    92|Journal of International Dispute Settlement|
+|    93|International Journal of Lexicography|
+|    96|Annals Of Occupational Hygiene|
+|    96|Industrial Law Journal|
+|    96|The Journal of Deaf Studies and Deaf Education|
+|    97|Social Work Research|
+|   100|American Journal of Agricultural Economics|
+|   100|International Journal of Public Opinion Research|
+|   103|The British Journal of Criminology|
+|   104|International Journal of Transitional Justice|
+|   105|American Journal of Legal History|
+|   105|Social Problems|
+|   107|The Journal of Crustacean Biology|
+|   108|Journal of Computational Design and Engineering|
+|   109|The World Bank Economic Review|
+|   110|Translational Animal Science|
+|   113|The Cambridge Quarterly|
+|   114|Statute Law Review|
+|   114|The American Journal of Comparative Law|
+|   116|ICSID Review - Foreign Investment Law Journal|
+|   118|Adaptation|
+|   119|Virus Evolution|
+|   120|Arbitration International|
+|   121|Socio-Economic Review|
+|   123|Historical Research|
+|   130|Journal of the European Economic Association|
+|   131|ILAR Journal|
+|   131|The British Journal for the Philosophy of Science|
+|   132|Animal Frontiers|
+|   134|Interacting with Computers|
+|   137|Applied Economic Perspectives and Policy|
+|   137|Current Developments in Nutrition|
+|   139|Human Rights Law Review|
+|   140|Logic Journal of the IGPL|
+|   142|Social Science Japan Journal|
+|   144|Human Reproduction Update|
+|   146|Journal of Design History|
+|   147|Briefings in Functional Genomics|
+|   147|Journal of Law and the Biosciences|
+|   149|Uniform Law Review|
+|   150|International Journal of Refugee Law|
+|   153|AoB Plants|
+|   153|Biostatistics|
+|   154|Screen|
+|   155|British Medical Bulletin|
+|   156|Health &amp; Social Work|
+|   157|Shakespeare Quarterly|
+|   158|IMA Journal of Applied Mathematics|
+|   160|Twentieth Century British History|
+|   162|Community Development Journal|
+|   163|Journal of International Economic Law|
+|   164|American Literary History|
+|   166|Industrial and Corporate Change|
+|   166|Journal of Molecular Cell Biology|
+|   168|Journal of Hip Preservation Surgery|
+|   173|Holocaust and Genocide Studies|
+|   178|International Studies Review|
+|   179|African Affairs|
+|   179|The British Journal of Social Work|
+|   182|Journal of the History of Collections|
+|   184|Journal of the History of Medicine and Allied Sciences|
+|   185|Journal of International Criminal Justice|
+|   187|International Health|
+|   189|Health Education Research|
+|   191|Applied Linguistics|
+|   194|British Journal of Criminology|
+|   200|American Entomologist|
+|   207|Ima Journal of Mathematical Control and Information|
+|   211|Social Work|
+|   219|Journal of Crustacean Biology|
+|   220|Annals of Work Exposures and Health|
+|   221|Ima Journal of Numerical Analysis|
+|   224|Biometrika|
+|   225|Laboratory Medicine|
+|   239|ISLE: Interdisciplinary Studies in Literature and Environment|
+|   245|International Journal of Constitutional Law|
+|   255|Journal of Tropical Pediatrics|
+|   258|Integrative Biology|
+|   262|Journal of Islamic Studies|
+|   267|Journal of Consumer Research|
+|   273|Annals of the Entomological Society of America|
+|   275|The Bulletin of the American Society of Hospital Pharmacists|
+|   278|Science and Public Policy|
+|   280|Journal of the American Academy of Religion|
+|   287|International Immunology|
+|   290|Transactions of The Royal Society of Tropical Medicine and Hygiene|
+|   294|Translational Behavioral Medicine|
+|   295|Journal of European Competition Law &amp; Practice|
+|   297|Systematic Biology|
+|   302|Journal of the Endocrine Society|
+|   304|Analysis|
+|   308|The Auk: Ornithological Advances|
+|   310|Briefings in Bioinformatics|
+|   321|Health Promotion International|
+|   322|The Journal of Biochemistry|
+|   323|Journal of Church and State|
+|   327|British Journal of Social Work|
+|   340|Botanical Journal of the Linnean Society|
+|   345|Journal of Heredity|
+|   346|Alcohol and Alcoholism|
+|   348|Zoological Journal of the Linnean Society|
+|   356|Social History of Medicine|
+|   358|Journal of Analytical Toxicology|
+|   361|Advances in Nutrition|
+|   365|Toxicology Research|
+|   368|International Journal of Neuropsychopharmacology|
+|   373|Journal of Insect Science|
+|   376|Integrative and Comparative Biology|
+|   377|ITNOW|
+|   391|Social Forces|
+|   401|Arthropod Management Tests|
+|   406|Biology of Reproduction|
+|   412|Glycobiology|
+|   418|Acta Biochimica et Biophysica Sinica|
+|   448|Tree Physiology|
+|   470|Journal of Geophysics and Engineering|
+|   475|The Western Historical Quarterly|
+|   496|American Journal of Clinical Pathology|
+|   497|BioScience|
+|   503|Journal of Burn Care &amp; Research|
+|   506|Journal of AOAC International|
+|   525|Social Cognitive and Affective Neuroscience|
+|   527|Health Policy and Planning|
+|   536|International Journal for Quality in Health Care|
+|   550|Age and Ageing|
+|   552|Carcinogenesis|
+|   559|Behavioral Ecology|
+|   561|Journal of American History|
+|   570|Schizophrenia Bulletin|
+|   615|Japanese Journal of Clinical Oncology|
+|   625|American Journal of Hypertension|
+|   626|Journal of the American Medical Informatics Association|
+|   633|International Mathematics Research Notices|
+|   635|Journal of Mammalogy|
+|   635|Sleep|
+|   657|Journal of Intellectual Property Law &amp; Practice|
+|   665|Biological Journal of the Linnean Society|
+|   678|Trusts &amp; Trustees|
+|   695|Annals of Botany|
+|   725|Astronomy &amp; Geophysics|
+|   753|ICES Journal of Marine Science|
+|   754|Journal of Medical Entomology|
+|   824|Aesthetic Surgery Journal|
+|   853|International Affairs|
+|   900|Toxicological Sciences|
+|   929|American Journal of Health-System Pharmacy|
+|   944|International Journal of Epidemiology|
+|   945|Human Reproduction|
+|   955|Cerebral Cortex|
+|   987|Archives of Clinical Neuropsychology|
+|  1005|Inflammatory Bowel Diseases|
+|  1077|American Journal of Epidemiology|
+|  1139|Brain|
+|  1139|Journal of Economic Entomology|
+|  1177|The American Journal of Clinical Nutrition|
+|  1210|Interactive CardioVascular and Thoracic Surgery|
+|  1376|The Journal of American History|
+|  1390|Human Molecular Genetics|
+|  1571|Journal of Animal Science|
+|  1648|Journal of Antimicrobial Chemotherapy|
+|  1724|The Journal of Clinical Endocrinology &amp; Metabolism|
+|  1742|The Journal of Infectious Diseases|
+|  2518|Bioinformatics|
+|  5291|The American Historical Review|
