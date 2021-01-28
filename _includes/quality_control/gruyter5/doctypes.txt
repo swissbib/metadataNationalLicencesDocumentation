@@ -1,0 +1,12 @@
+|     1|<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Archival NLM DTD Suite v2.2.0 20090301//EN" "atypon-archivearticle.dtd">|
+|    11|<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.0 20090430//EN" "atypon-archivearticle3.dtd">|
+|    14|<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">|
+|    15|<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">|
+|    19|<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with OASIS Tables v1.0 20120330//EN" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">|
+|   137|<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing-oasis-article1.dtd">|
+|   155|<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">|
+|  2363|<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Archival NLM DTD Suite v2.2.0 20090301//EN" "nlm-dtd/archivearticle.dtd">|
+|  3163|<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD with OASIS Tables v1.0 20120330//EN" "JATS-journalpublishing-oasis-article1.dtd">|
+|  6090|<!DOCTYPE article PUBLIC "-//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.2 20101108//EN" "atypon_archive-interchange-dtd-3.0.2/atypon-archivearticle3.dtd">|
+|  7332|<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd">|
+| 18140|<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "JATS-journalpublishing1.dtd">|

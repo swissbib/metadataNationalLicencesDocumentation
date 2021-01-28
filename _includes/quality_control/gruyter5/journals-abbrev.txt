@@ -1,0 +1,51 @@
+|     1|Arbitrium|
+|     1|Arcadia - Internationale Zeitschrift für Literaturwissenschaft / International Journal for Literary Studies|
+|     1|Internationales Jahrbuch für Philosophische Anthropologie|
+|     1|Paragrana|
+|     1|Random Operators and Stochastic Equations|
+|     2|Journal of Mathematical Cryptology|
+|     2|Zeitschrift für Religionswissenschaft|
+|     3|Hormone Molecular Biology and Clinical Investigation|
+|     5|Apeiron|
+|     6|Computational Methods in Applied Mathematics|
+|     6|Theoretical Linguistics|
+|     7|Main Group Metal Chemistry|
+|    10|Zeitschrift für romanische Philologie (ZrP)|
+|    11|Chinese Journal of Applied Linguistics|
+|    12|Clinical Chemistry and Laboratory Medicine|
+|    12|Internationales Archiv für Sozialgeschichte der deutschen Literatur (IASL)|
+|    13|Pteridines|
+|    13|Radiochimca Acta|
+|    13|Zeitschrift für die Alttestamentliche Wissenschaft|
+|    15|Yearbook of the German Cognitive Linguistics Association|
+|    16|Journal der Juristischen Zeitgeschichte|
+|    19|Applied Linguistics Review|
+|    19|Historische Anthropologie|
+|    21|Pure and Applied Chemistry|
+|    21|Text|
+|    24|Forum for Health Economics and Policy|
+|    26|Saeculum|
+|    26|Zeitschrift für die gesamte Strafrechtswissenschaft|
+|    33|Perspektiven der Wirtschaftspolitik|
+|    34|Archiv für Religionsgeschichte|
+|    35|L'Homme|
+|    36|Deutsche Zeitschrift für Wirtschafts- und Insolvenzrecht|
+|    37|Kant-Studien|
+|    37|Wittgenstein-Studien|
+|    39|Radiochimica Acta|
+|    44|mammalia|
+|    50|Lexicographica|
+|    54|Zeitschrift für Assyriologie und Vorderasiatische Archäologie|
+|    72|Holzforschung - International Journal of the Biology, Chemistry, Physics and Technology of Wood|
+|    74|European Tort Law Yearbook|
+|    75|Orientalistische Literaturzeitung|
+|    82|Philologus - Zeitschrift für antike Literatur und ihre Rezeption|
+|    88|Georgian Mathematical Journal|
+|   116|Semiotica|
+|   205|STUF - Language Typology and Universals|
+|   327|Beiträge zur Geschichte der deutschen Sprache und Literatur|
+|   424|Text - Interdisciplinary Journal for the Study of Discourse|
+|   769|Archivalische Zeitschrift|
+|  1120|Folia Linguistica|
+|  1557|Bibliothek Forschung und Praxis|
+|  3534|Beiträge zur Geschichte der deutschen Sprache und Literatur (PBB)|
